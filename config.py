@@ -1,0 +1,1 @@
+GEE_SAVE_PATH='users/angel314/Analysis_AlphaEarth_Embeddings_test2'
