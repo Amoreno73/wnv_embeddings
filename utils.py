@@ -15,8 +15,9 @@ def convert_to_df(asset_id_path, export_csv=False, save_path="gee_df_to_csv.csv"
   try:
     fc = ee.FeatureCollection(asset_id_path)
     _ = fc.size().getInfo() # this is unused but forces python to trigger and catch GEE exception
-  except:
+  except Exception as e:
     print(f"Feature collection for {asset_id_path} not yet ready.\nCheck status at https://code.earthengine.google.com/ under 'Tasks' ")
+    print(e)
     return None
   
   df = geemap.ee_to_df(fc)
@@ -61,7 +62,7 @@ def embeddings_mean_time_range(state_fips="17", start_year="2017",end_year="2018
   return county_table
 
 # main function to start task (use this in data cleaning to get asseet as df for then merging everything.)
-def get_mean_embeddings_task(state_fips="17",start_year="2017",end_year="2018",test=False):
+def get_mean_embeddings_task(state_fips="17",start_year="2017",end_year="2018", test=False, asset_id=""):
   '''
   ``state_fips`` -> should be a string of the state fips.\n
   ``start_year`` -> inclusive of the time range.\n
@@ -73,7 +74,7 @@ def get_mean_embeddings_task(state_fips="17",start_year="2017",end_year="2018",t
   export_task = ee.batch.Export.table.toAsset(
     collection = county_table,
     description = f'{state_fips}_{start_year}_{end_year}_AlphaEarth_Embeddings',
-    assetId = 'users/angel314/Analysis_AlphaEarth_Embeddings_full'
+    assetId = asset_id
   )
   
   export_task.start()
