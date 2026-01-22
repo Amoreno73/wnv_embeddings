@@ -1,90 +1,31 @@
 import ee
 from utils import get_mean_embeddings_task
-# The purpose of main is to export the GEE Embeddings task because it did not run properly in .ipynb.
+from config import *
 
-# connecting to GEE for section 2 in data_cleaning.ipynb
+# will prompt you to authorize access to GEE
 ee.Authenticate()
-# new project I registered for this research.
+
+# enter your own registered project name here
 ee.Initialize(project="wnv-embeddings")
 
-######## 2017 ########  
-task = get_mean_embeddings_task(
-  state_fips="17",
-  start_year="2017",
-  end_year="2018",
-  test=False,
-  asset_id='users/angel314/Analysis_AlphaEarth_Embeddings_2017'
-)
-print(task.status())
+# all state fips codes available at: https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt
 
-######## 2018 ########  
-task = get_mean_embeddings_task(
-  state_fips="17",
-  start_year="2018",
-  end_year="2019",
-  test=False,
-  asset_id='users/angel314/Analysis_AlphaEarth_Embeddings_2018'
-)
-print(task.status())
+state_fips_codes_test = ["17"]
 
-######## 2019 ########  
-task = get_mean_embeddings_task(
-  state_fips="17",
-  start_year="2019",
-  end_year="2020",
-  test=False,
-  asset_id='users/angel314/Analysis_AlphaEarth_Embeddings_2019'
-)
-print(task.status())
+state_fips_codes = [
+  "01", "02", "04", "05", "06", "08", "09", "10", "11", "12",
+  "13", "15", "16", "17", "18", "19", "20", "21", "22", "23",
+  "24", "25", "26", "27", "28", "29", "30", "31", "32", "33",
+  "34", "35", "36", "37", "38", "39", "40", "41", "42", "44",
+  "45", "46", "47", "48", "49", "50", "51", "53", "54", "55", "56"
+]
 
-######## 2020 ########  
-task = get_mean_embeddings_task(
-  state_fips="17",
-  start_year="2020",
-  end_year="2021",
-  test=False,
-  asset_id='users/angel314/Analysis_AlphaEarth_Embeddings_2020'
-)
-print(task.status())
+for fips in state_fips_codes_test:
+  # users/angel314/wnv_embeddings/{state fips code here}
+  # an example save path is "users/angel314/wnv_embeddings/01"
+  save_path = f"{GEE_BASE_SAVE_PATH}{fips}_2017_2024_embeddings"
 
-######## 2021 ########  
-task = get_mean_embeddings_task(
-  state_fips="17",
-  start_year="2021",
-  end_year="2022",
-  test=False,
-  asset_id='users/angel314/Analysis_AlphaEarth_Embeddings_2021'
-)
-print(task.status())
-
-######## 2022 ########  
-task = get_mean_embeddings_task(
-  state_fips="17",
-  start_year="2022",
-  end_year="2023",
-  test=False,
-  asset_id='users/angel314/Analysis_AlphaEarth_Embeddings_2022'
-)
-print(task.status())
-
-######## 2023 ########  
-task = get_mean_embeddings_task(
-  state_fips="17",
-  start_year="2023",
-  end_year="2024",
-  test=False,
-  asset_id='users/angel314/Analysis_AlphaEarth_Embeddings_2023'
-)
-print(task.status())
-
-######## 2024 ########  
-task = get_mean_embeddings_task(
-  state_fips="17",
-  start_year="2024",
-  end_year="2025",
-  test=False,
-  asset_id='users/angel314/Analysis_AlphaEarth_Embeddings_2024'
-)
-print(task.status())
+  task = get_mean_embeddings_task(fips, asset_id=save_path, test=True)
+  print(f"State {fips}: {task.status()}")
 
 # once I have ran this I go back to data_cleaning to convert this to a csv
