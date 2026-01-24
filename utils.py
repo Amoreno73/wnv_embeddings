@@ -28,7 +28,7 @@ def convert_to_df(asset_id_path, export_csv=False, save_path="gee_df_to_csv.csv"
     else:
         print(f"{save_path} does not exist, creating {save_path}\n")
         print(f"retreived asset at '{asset_id_path}'\nsaved as CSV to: {save_path}")
-    df.to_csv(save_path)
+    df.to_csv(save_path, index=False)
 
   return df
 
@@ -49,7 +49,7 @@ def embeddings_mean_all_years(state_fips: str, start_year=2017,end_year=2024, te
   yearly_images = []
 
   for year in range(start_year, end_year+1):
-    embeddings = ee.ImageCollection("GOOGLE/SATELLITE_EMBEDDING/V1/ANNUAL").filterDate(f"{start_year}-01-01", f"{start_year+1}-01-01")
+    embeddings = ee.ImageCollection("GOOGLE/SATELLITE_EMBEDDING/V1/ANNUAL").filterDate(f"{year}-01-01", f"{year+1}-01-01")
     # only calculating mean for current year to current year + 1 (ex. 2017-01-01 to 2018-01-01) for 2017
     embeddings_mean = embeddings.mean()
 
@@ -90,7 +90,9 @@ def get_mean_embeddings_task(state_fips: str, start_year=2017,end_year=2025, tes
   '''
   # note: '2024-01-01' is the most recent availability
   # https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_SATELLITE_EMBEDDING_V1_ANNUAL
-  
+  if not asset_id:
+    raise ValueError("asset_id must be a non-empty EE asset path, e.g. 'users/you/folder/name'")
+
   county_table = embeddings_mean_all_years(state_fips, start_year, end_year, test)
 
   export_task = ee.batch.Export.table.toAsset(
