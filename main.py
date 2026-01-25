@@ -10,7 +10,7 @@ ee.Initialize(project="wnv-embeddings")
 
 # all state fips codes available at: https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt
 
-state_fips_codes_test = ["17"]
+state_fips_codes_test = ["15","16","17"]
 
 state_fips_codes = [
   "01", "02", "04", "05", "06", "08", "09", "10", "11", "12",
@@ -20,12 +20,14 @@ state_fips_codes = [
   "45", "46", "47", "48", "49", "50", "51", "53", "54", "55", "56"
 ]
 
+# ======== 10 m resolution function ========
 for fips in state_fips_codes_test:
-  # users/angel314/wnv_embeddings/{state fips code here}
-  # an example save path is "users/angel314/wnv_embeddings/01"
+  # users/angel314/wnv_embeddings/{save_path_here}
+  # an example save path: "users/angel314/wnv_embeddings/fips15_2017_2024_embeddings"
+  # description is as follows: "state15_2017_2024_AlphaEarth_Embeddings"
   save_path = f"{GEE_BASE_SAVE_PATH}{fips}_2017_2024_embeddings"
 
-  task = get_mean_embeddings_task(fips, asset_id=save_path, test=True)
+  task = get_mean_embeddings_task(fips, asset_id=save_path)
   print(f"State {fips}: {task.status()}")
 
 # once I have ran this I go back to data_cleaning to convert this to a csv
