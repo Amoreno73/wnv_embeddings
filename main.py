@@ -10,11 +10,11 @@ ee.Initialize(project="wnv-embeddings")
 
 
 # =============RUN GEE TASKS============= #
-# all state fips codes available at: https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt
 
 run_gee_tasks = False # change this to true if needed but I am avoiding the stuff below for now 
 
 if run_gee_tasks == True:
+  # all state fips codes available at: https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt
   state_fips_codes = [
     "01", "02", "04", "05", "06", "08", "09", "10", "11", "12",
     "13", "15", "16", "17", "18", "19", "20", "21", "22", "23",

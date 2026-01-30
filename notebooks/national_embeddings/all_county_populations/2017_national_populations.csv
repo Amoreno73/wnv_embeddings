@@ -1,0 +1,3221 @@
+GEONAME,POP,state,county,year,GEOID
+"Conecuh County, Alabama",12469,01,035,2017,01035
+"Coosa County, Alabama",10754,01,037,2017,01037
+"Covington County, Alabama",37092,01,039,2017,01039
+"Crenshaw County, Alabama",13871,01,041,2017,01041
+"Cullman County, Alabama",82755,01,043,2017,01043
+"Dale County, Alabama",49226,01,045,2017,01045
+"Dallas County, Alabama",39215,01,047,2017,01047
+"Autauga County, Alabama",55504,01,001,2017,01001
+"Baldwin County, Alabama",212628,01,003,2017,01003
+"Barbour County, Alabama",25270,01,005,2017,01005
+"Bibb County, Alabama",22668,01,007,2017,01007
+"Blount County, Alabama",58013,01,009,2017,01009
+"Bullock County, Alabama",10309,01,011,2017,01011
+"Butler County, Alabama",19825,01,013,2017,01013
+"Calhoun County, Alabama",114728,01,015,2017,01015
+"Chambers County, Alabama",33713,01,017,2017,01017
+"Cherokee County, Alabama",25857,01,019,2017,01019
+"Chilton County, Alabama",44067,01,021,2017,01021
+"Choctaw County, Alabama",12945,01,023,2017,01023
+"Clarke County, Alabama",24083,01,025,2017,01025
+"Clay County, Alabama",13367,01,027,2017,01027
+"Cleburne County, Alabama",14900,01,029,2017,01029
+"Coffee County, Alabama",51874,01,031,2017,01031
+"Colbert County, Alabama",54500,01,033,2017,01033
+"Tallapoosa County, Alabama",40681,01,123,2017,01123
+"Tuscaloosa County, Alabama",207811,01,125,2017,01125
+"Walker County, Alabama",64058,01,127,2017,01127
+"Washington County, Alabama",16531,01,129,2017,01129
+"Wilcox County, Alabama",10719,01,131,2017,01131
+"Winston County, Alabama",23722,01,133,2017,01133
+"DeKalb County, Alabama",71617,01,049,2017,01049
+"Elmore County, Alabama",81677,01,051,2017,01051
+"Escambia County, Alabama",37447,01,053,2017,01053
+"Etowah County, Alabama",102755,01,055,2017,01055
+"Fayette County, Alabama",16468,01,057,2017,01057
+"Franklin County, Alabama",31495,01,059,2017,01059
+"Geneva County, Alabama",26421,01,061,2017,01061
+"Greene County, Alabama",8330,01,063,2017,01063
+"Hale County, Alabama",14812,01,065,2017,01065
+"Henry County, Alabama",17147,01,067,2017,01067
+"Houston County, Alabama",104346,01,069,2017,01069
+"Jackson County, Alabama",51909,01,071,2017,01071
+"Jefferson County, Alabama",659197,01,073,2017,01073
+"Lamar County, Alabama",13946,01,075,2017,01075
+"Lauderdale County, Alabama",92538,01,077,2017,01077
+"Lawrence County, Alabama",33049,01,079,2017,01079
+"Lee County, Alabama",161604,01,081,2017,01081
+"Limestone County, Alabama",94402,01,083,2017,01083
+"Lowndes County, Alabama",10076,01,085,2017,01085
+"Macon County, Alabama",18755,01,087,2017,01087
+"Madison County, Alabama",361046,01,089,2017,01089
+"Marengo County, Alabama",19375,01,091,2017,01091
+"Marion County, Alabama",29833,01,093,2017,01093
+"Marshall County, Alabama",95548,01,095,2017,01095
+"Mobile County, Alabama",413955,01,097,2017,01097
+"Monroe County, Alabama",21327,01,099,2017,01099
+"Montgomery County, Alabama",226646,01,101,2017,01101
+"Morgan County, Alabama",118818,01,103,2017,01103
+"Perry County, Alabama",9339,01,105,2017,01105
+"Pickens County, Alabama",20176,01,107,2017,01107
+"Pike County, Alabama",33267,01,109,2017,01109
+"Randolph County, Alabama",22670,01,111,2017,01111
+"Russell County, Alabama",57045,01,113,2017,01113
+"St. Clair County, Alabama",88199,01,115,2017,01115
+"Shelby County, Alabama",213605,01,117,2017,01117
+"Sumter County, Alabama",12687,01,119,2017,01119
+"Talladega County, Alabama",80065,01,121,2017,01121
+"Yavapai County, Arizona",228168,04,025,2017,04025
+"Yuma County, Arizona",207534,04,027,2017,04027
+"Arkansas County, Arkansas",17967,05,001,2017,05001
+"Ashley County, Arkansas",20283,05,003,2017,05003
+"Baxter County, Arkansas",41355,05,005,2017,05005
+"Benton County, Arkansas",266300,05,007,2017,05007
+"Aleutians East Borough, Alaska",3370,02,013,2017,02013
+"Aleutians West Census Area, Alaska",5763,02,016,2017,02016
+"Anchorage Municipality, Alaska",294356,02,020,2017,02020
+"Bethel Census Area, Alaska",18076,02,050,2017,02050
+"Bristol Bay Borough, Alaska",867,02,060,2017,02060
+"Denali Borough, Alaska",2074,02,068,2017,02068
+"Dillingham Census Area, Alaska",4932,02,070,2017,02070
+"Fairbanks North Star Borough, Alaska",99703,02,090,2017,02090
+"Haines Borough, Alaska",2526,02,100,2017,02100
+"Hoonah-Angoon Census Area, Alaska",2145,02,105,2017,02105
+"Juneau City and Borough, Alaska",32094,02,110,2017,02110
+"Kenai Peninsula Borough, Alaska",58617,02,122,2017,02122
+"Ketchikan Gateway Borough, Alaska",13856,02,130,2017,02130
+"Kodiak Island Borough, Alaska",13448,02,150,2017,02150
+"Kusilvak Census Area, Alaska",8202,02,158,2017,02158
+"Lake and Peninsula Borough, Alaska",1620,02,164,2017,02164
+"Matanuska-Susitna Borough, Alaska",106532,02,170,2017,02170
+"Nome Census Area, Alaska",9921,02,180,2017,02180
+"North Slope Borough, Alaska",9782,02,185,2017,02185
+"Northwest Arctic Borough, Alaska",7684,02,188,2017,02188
+"Petersburg Borough, Alaska",3281,02,195,2017,02195
+"Prince of Wales-Hyder Census Area, Alaska",6443,02,198,2017,02198
+"Sitka City and Borough, Alaska",8689,02,220,2017,02220
+"Skagway Municipality, Alaska",1157,02,230,2017,02230
+"Southeast Fairbanks Census Area, Alaska",6888,02,240,2017,02240
+"Valdez-Cordova Census Area, Alaska",9278,02,261,2017,02261
+"Wrangell City and Borough, Alaska",2521,02,275,2017,02275
+"Yakutat City and Borough, Alaska",605,02,282,2017,02282
+"Yukon-Koyukuk Census Area, Alaska",5365,02,290,2017,02290
+"Apache County, Arizona",71606,04,001,2017,04001
+"Cochise County, Arizona",124756,04,003,2017,04003
+"Coconino County, Arizona",140776,04,005,2017,04005
+"Gila County, Arizona",53501,04,007,2017,04007
+"Graham County, Arizona",37466,04,009,2017,04009
+"Greenlee County, Arizona",9455,04,011,2017,04011
+"La Paz County, Arizona",20601,04,012,2017,04012
+"Maricopa County, Arizona",4307033,04,013,2017,04013
+"Mohave County, Arizona",207200,04,015,2017,04015
+"Navajo County, Arizona",108956,04,017,2017,04017
+"Pima County, Arizona",1022769,04,019,2017,04019
+"Pinal County, Arizona",430237,04,021,2017,04021
+"Santa Cruz County, Arizona",46212,04,023,2017,04023
+"Logan County, Arkansas",21722,05,083,2017,05083
+"Lonoke County, Arkansas",72898,05,085,2017,05085
+"Madison County, Arkansas",16339,05,087,2017,05087
+"Marion County, Arkansas",16428,05,089,2017,05089
+"Miller County, Arkansas",43984,05,091,2017,05091
+"Mississippi County, Arkansas",42159,05,093,2017,05093
+"Boone County, Arkansas",37381,05,009,2017,05009
+"Bradley County, Arkansas",10864,05,011,2017,05011
+"Calhoun County, Arkansas",5247,05,013,2017,05013
+"Carroll County, Arkansas",27944,05,015,2017,05015
+"Chicot County, Arkansas",10636,05,017,2017,05017
+"Clark County, Arkansas",22293,05,019,2017,05019
+"Clay County, Arkansas",14920,05,021,2017,05021
+"Cleburne County, Arkansas",25048,05,023,2017,05023
+"Cleveland County, Arkansas",8202,05,025,2017,05025
+"Columbia County, Arkansas",23627,05,027,2017,05027
+"Conway County, Arkansas",20916,05,029,2017,05029
+"Craighead County, Arkansas",107115,05,031,2017,05031
+"Crawford County, Arkansas",62996,05,033,2017,05033
+"Crittenden County, Arkansas",48750,05,035,2017,05035
+"Cross County, Arkansas",16863,05,037,2017,05037
+"Dallas County, Arkansas",7393,05,039,2017,05039
+"Desha County, Arkansas",11764,05,041,2017,05041
+"Drew County, Arkansas",18547,05,043,2017,05043
+"Faulkner County, Arkansas",123654,05,045,2017,05045
+"Franklin County, Arkansas",17890,05,047,2017,05047
+"Fulton County, Arkansas",12055,05,049,2017,05049
+"Garland County, Arkansas",98658,05,051,2017,05051
+"Grant County, Arkansas",18165,05,053,2017,05053
+"Greene County, Arkansas",45053,05,055,2017,05055
+"Hempstead County, Arkansas",21861,05,057,2017,05057
+"Hot Spring County, Arkansas",33574,05,059,2017,05059
+"Howard County, Arkansas",13478,05,061,2017,05061
+"Independence County, Arkansas",37504,05,063,2017,05063
+"Izard County, Arkansas",13686,05,065,2017,05065
+"Jackson County, Arkansas",17135,05,067,2017,05067
+"Jefferson County, Arkansas",69115,05,069,2017,05069
+"Johnson County, Arkansas",26552,05,071,2017,05071
+"Lafayette County, Arkansas",6862,05,073,2017,05073
+"Lawrence County, Arkansas",16525,05,075,2017,05075
+"Lee County, Arkansas",9176,05,077,2017,05077
+"Lincoln County, Arkansas",13646,05,079,2017,05079
+"Little River County, Arkansas",12359,05,081,2017,05081
+"Kings County, California",150101,06,031,2017,06031
+"Lake County, California",64246,06,033,2017,06033
+"Lassen County, California",31163,06,035,2017,06035
+"Los Angeles County, California",10163507,06,037,2017,06037
+"Madera County, California",156890,06,039,2017,06039
+"Marin County, California",260955,06,041,2017,06041
+"Monroe County, Arkansas",7085,05,095,2017,05095
+"Montgomery County, Arkansas",8919,05,097,2017,05097
+"Nevada County, Arkansas",8327,05,099,2017,05099
+"Newton County, Arkansas",7828,05,101,2017,05101
+"Ouachita County, Arkansas",23868,05,103,2017,05103
+"Perry County, Arkansas",10348,05,105,2017,05105
+"Phillips County, Arkansas",18572,05,107,2017,05107
+"Pike County, Arkansas",10726,05,109,2017,05109
+"Poinsett County, Arkansas",24154,05,111,2017,05111
+"Polk County, Arkansas",20118,05,113,2017,05113
+"Pope County, Arkansas",63835,05,115,2017,05115
+"Prairie County, Arkansas",8248,05,117,2017,05117
+"Pulaski County, Arkansas",393956,05,119,2017,05119
+"Randolph County, Arkansas",17557,05,121,2017,05121
+"St. Francis County, Arkansas",25930,05,123,2017,05123
+"Saline County, Arkansas",119323,05,125,2017,05125
+"Scott County, Arkansas",10445,05,127,2017,05127
+"Searcy County, Arkansas",7938,05,129,2017,05129
+"Sebastian County, Arkansas",128107,05,131,2017,05131
+"Sevier County, Arkansas",17115,05,133,2017,05133
+"Sharp County, Arkansas",17393,05,135,2017,05135
+"Stone County, Arkansas",12537,05,137,2017,05137
+"Union County, Arkansas",39449,05,139,2017,05139
+"Van Buren County, Arkansas",16506,05,141,2017,05141
+"Washington County, Arkansas",231996,05,143,2017,05143
+"White County, Arkansas",79016,05,145,2017,05145
+"Woodruff County, Arkansas",6571,05,147,2017,05147
+"Yell County, Arkansas",21523,05,149,2017,05149
+"Alameda County, California",1663190,06,001,2017,06001
+"Alpine County, California",1120,06,003,2017,06003
+"Amador County, California",38626,06,005,2017,06005
+"Butte County, California",229294,06,007,2017,06007
+"Calaveras County, California",45670,06,009,2017,06009
+"Colusa County, California",21805,06,011,2017,06011
+"Contra Costa County, California",1147439,06,013,2017,06013
+"Del Norte County, California",27470,06,015,2017,06015
+"El Dorado County, California",188987,06,017,2017,06017
+"Fresno County, California",989255,06,019,2017,06019
+"Glenn County, California",28094,06,021,2017,06021
+"Humboldt County, California",136754,06,023,2017,06023
+"Imperial County, California",182830,06,025,2017,06025
+"Inyo County, California",18026,06,027,2017,06027
+"Kern County, California",893119,06,029,2017,06029
+"Yuba County, California",77031,06,115,2017,06115
+"Adams County, Colorado",503167,08,001,2017,08001
+"Alamosa County, Colorado",16551,08,003,2017,08003
+"Arapahoe County, Colorado",643052,08,005,2017,08005
+"Archuleta County, Colorado",13315,08,007,2017,08007
+"Baca County, Colorado",3562,08,009,2017,08009
+"Mariposa County, California",17569,06,043,2017,06043
+"Mendocino County, California",88018,06,045,2017,06045
+"Merced County, California",272673,06,047,2017,06047
+"Modoc County, California",8859,06,049,2017,06049
+"Mono County, California",14168,06,051,2017,06051
+"Monterey County, California",437907,06,053,2017,06053
+"Napa County, California",140973,06,055,2017,06055
+"Nevada County, California",99814,06,057,2017,06057
+"Orange County, California",3190400,06,059,2017,06059
+"Placer County, California",386166,06,061,2017,06061
+"Plumas County, California",18742,06,063,2017,06063
+"Riverside County, California",2423266,06,065,2017,06065
+"Sacramento County, California",1530615,06,067,2017,06067
+"San Benito County, California",60310,06,069,2017,06069
+"San Bernardino County, California",2157404,06,071,2017,06071
+"San Diego County, California",3337685,06,073,2017,06073
+"San Francisco County, California",884363,06,075,2017,06075
+"San Joaquin County, California",745424,06,077,2017,06077
+"San Luis Obispo County, California",283405,06,079,2017,06079
+"San Mateo County, California",771410,06,081,2017,06081
+"Santa Barbara County, California",448150,06,083,2017,06083
+"Santa Clara County, California",1938153,06,085,2017,06085
+"Santa Cruz County, California",275897,06,087,2017,06087
+"Shasta County, California",179921,06,089,2017,06089
+"Sierra County, California",2999,06,091,2017,06091
+"Siskiyou County, California",43853,06,093,2017,06093
+"Solano County, California",445458,06,095,2017,06095
+"Sonoma County, California",504217,06,097,2017,06097
+"Stanislaus County, California",547899,06,099,2017,06099
+"Sutter County, California",96648,06,101,2017,06101
+"Tehama County, California",63926,06,103,2017,06103
+"Trinity County, California",12709,06,105,2017,06105
+"Tulare County, California",464493,06,107,2017,06107
+"Tuolumne County, California",54248,06,109,2017,06109
+"Ventura County, California",854223,06,111,2017,06111
+"Yolo County, California",219116,06,113,2017,06113
+"Phillips County, Colorado",4292,08,095,2017,08095
+"Pitkin County, Colorado",17890,08,097,2017,08097
+"Prowers County, Colorado",12070,08,099,2017,08099
+"Pueblo County, Colorado",166475,08,101,2017,08101
+"Rio Blanco County, Colorado",6420,08,103,2017,08103
+"Rio Grande County, Colorado",11301,08,105,2017,08105
+"Routt County, Colorado",25220,08,107,2017,08107
+"Bent County, Colorado",5938,08,011,2017,08011
+"Boulder County, Colorado",322514,08,013,2017,08013
+"Broomfield County, Colorado",68341,08,014,2017,08014
+"Chaffee County, Colorado",19638,08,015,2017,08015
+"Cheyenne County, Colorado",1845,08,017,2017,08017
+"Clear Creek County, Colorado",9574,08,019,2017,08019
+"Conejos County, Colorado",8184,08,021,2017,08021
+"Costilla County, Colorado",3776,08,023,2017,08023
+"Crowley County, Colorado",5810,08,025,2017,08025
+"Custer County, Colorado",4874,08,027,2017,08027
+"Delta County, Colorado",30568,08,029,2017,08029
+"Denver County, Colorado",704621,08,031,2017,08031
+"Dolores County, Colorado",2067,08,033,2017,08033
+"Douglas County, Colorado",335299,08,035,2017,08035
+"Eagle County, Colorado",54772,08,037,2017,08037
+"Elbert County, Colorado",25642,08,039,2017,08039
+"El Paso County, Colorado",699232,08,041,2017,08041
+"Fremont County, Colorado",47559,08,043,2017,08043
+"Garfield County, Colorado",59118,08,045,2017,08045
+"Gilpin County, Colorado",6013,08,047,2017,08047
+"Grand County, Colorado",15321,08,049,2017,08049
+"Gunnison County, Colorado",16939,08,051,2017,08051
+"Hinsdale County, Colorado",794,08,053,2017,08053
+"Huerfano County, Colorado",6662,08,055,2017,08055
+"Jackson County, Colorado",1385,08,057,2017,08057
+"Jefferson County, Colorado",574613,08,059,2017,08059
+"Kiowa County, Colorado",1376,08,061,2017,08061
+"Kit Carson County, Colorado",7158,08,063,2017,08063
+"Lake County, Colorado",7778,08,065,2017,08065
+"La Plata County, Colorado",55589,08,067,2017,08067
+"Larimer County, Colorado",343976,08,069,2017,08069
+"Las Animas County, Colorado",14238,08,071,2017,08071
+"Lincoln County, Colorado",5546,08,073,2017,08073
+"Logan County, Colorado",21896,08,075,2017,08075
+"Mesa County, Colorado",151616,08,077,2017,08077
+"Mineral County, Colorado",766,08,079,2017,08079
+"Moffat County, Colorado",13131,08,081,2017,08081
+"Montezuma County, Colorado",26140,08,083,2017,08083
+"Montrose County, Colorado",41784,08,085,2017,08085
+"Morgan County, Colorado",28192,08,087,2017,08087
+"Otero County, Colorado",18326,08,089,2017,08089
+"Ouray County, Colorado",4794,08,091,2017,08091
+"Park County, Colorado",17905,08,093,2017,08093
+"Escambia County, Florida",313512,12,033,2017,12033
+"Flagler County, Florida",110510,12,035,2017,12035
+"Franklin County, Florida",11727,12,037,2017,12037
+"Gadsden County, Florida",46071,12,039,2017,12039
+"Gilchrist County, Florida",17743,12,041,2017,12041
+"Glades County, Florida",13754,12,043,2017,12043
+"Saguache County, Colorado",6626,08,109,2017,08109
+"San Juan County, Colorado",715,08,111,2017,08111
+"San Miguel County, Colorado",7967,08,113,2017,08113
+"Sedgwick County, Colorado",2344,08,115,2017,08115
+"Summit County, Colorado",30585,08,117,2017,08117
+"Teller County, Colorado",24646,08,119,2017,08119
+"Washington County, Colorado",4938,08,121,2017,08121
+"Weld County, Colorado",304633,08,123,2017,08123
+"Yuma County, Colorado",10075,08,125,2017,08125
+"Fairfield County, Connecticut",949921,09,001,2017,09001
+"Hartford County, Connecticut",895388,09,003,2017,09003
+"Litchfield County, Connecticut",182177,09,005,2017,09005
+"Middlesex County, Connecticut",163410,09,007,2017,09007
+"New Haven County, Connecticut",860435,09,009,2017,09009
+"New London County, Connecticut",269033,09,011,2017,09011
+"Tolland County, Connecticut",151461,09,013,2017,09013
+"Windham County, Connecticut",116359,09,015,2017,09015
+"Kent County, Delaware",176824,10,001,2017,10001
+"New Castle County, Delaware",559793,10,003,2017,10003
+"Sussex County, Delaware",225322,10,005,2017,10005
+"District of Columbia, District of Columbia",693972,11,001,2017,11001
+"Alachua County, Florida",266944,12,001,2017,12001
+"Baker County, Florida",28283,12,003,2017,12003
+"Bay County, Florida",183563,12,005,2017,12005
+"Bradford County, Florida",27038,12,007,2017,12007
+"Brevard County, Florida",589162,12,009,2017,12009
+"Broward County, Florida",1935878,12,011,2017,12011
+"Calhoun County, Florida",14483,12,013,2017,12013
+"Charlotte County, Florida",182033,12,015,2017,12015
+"Citrus County, Florida",145647,12,017,2017,12017
+"Clay County, Florida",212230,12,019,2017,12019
+"Collier County, Florida",372880,12,021,2017,12021
+"Columbia County, Florida",69612,12,023,2017,12023
+"DeSoto County, Florida",36862,12,027,2017,12027
+"Dixie County, Florida",16673,12,029,2017,12029
+"Duval County, Florida",937934,12,031,2017,12031
+"Walton County, Florida",68376,12,131,2017,12131
+"Washington County, Florida",24567,12,133,2017,12133
+"Appling County, Georgia",18521,13,001,2017,13001
+"Atkinson County, Georgia",8342,13,003,2017,13003
+"Bacon County, Georgia",11319,13,005,2017,13005
+"Baker County, Georgia",3200,13,007,2017,13007
+"Gulf County, Florida",16160,12,045,2017,12045
+"Hamilton County, Florida",14184,12,047,2017,12047
+"Hardee County, Florida",27411,12,049,2017,12049
+"Hendry County, Florida",40347,12,051,2017,12051
+"Hernando County, Florida",186553,12,053,2017,12053
+"Highlands County, Florida",102883,12,055,2017,12055
+"Hillsborough County, Florida",1408566,12,057,2017,12057
+"Holmes County, Florida",19558,12,059,2017,12059
+"Indian River County, Florida",154383,12,061,2017,12061
+"Jackson County, Florida",48330,12,063,2017,12063
+"Jefferson County, Florida",14144,12,065,2017,12065
+"Lafayette County, Florida",8451,12,067,2017,12067
+"Lake County, Florida",346017,12,069,2017,12069
+"Lee County, Florida",739224,12,071,2017,12071
+"Leon County, Florida",290292,12,073,2017,12073
+"Levy County, Florida",40355,12,075,2017,12075
+"Liberty County, Florida",8242,12,077,2017,12077
+"Madison County, Florida",18449,12,079,2017,12079
+"Manatee County, Florida",385571,12,081,2017,12081
+"Marion County, Florida",354353,12,083,2017,12083
+"Martin County, Florida",159923,12,085,2017,12085
+"Miami-Dade County, Florida",2751796,12,086,2017,12086
+"Monroe County, Florida",77013,12,087,2017,12087
+"Nassau County, Florida",82721,12,089,2017,12089
+"Okaloosa County, Florida",202970,12,091,2017,12091
+"Okeechobee County, Florida",41605,12,093,2017,12093
+"Orange County, Florida",1348975,12,095,2017,12095
+"Osceola County, Florida",352180,12,097,2017,12097
+"Palm Beach County, Florida",1471150,12,099,2017,12099
+"Pasco County, Florida",525643,12,101,2017,12101
+"Pinellas County, Florida",970637,12,103,2017,12103
+"Polk County, Florida",686483,12,105,2017,12105
+"Putnam County, Florida",73464,12,107,2017,12107
+"St. Johns County, Florida",243812,12,109,2017,12109
+"St. Lucie County, Florida",313506,12,111,2017,12111
+"Santa Rosa County, Florida",174272,12,113,2017,12113
+"Sarasota County, Florida",419119,12,115,2017,12115
+"Seminole County, Florida",462659,12,117,2017,12117
+"Sumter County, Florida",125165,12,119,2017,12119
+"Suwannee County, Florida",44190,12,121,2017,12121
+"Taylor County, Florida",21833,12,123,2017,12123
+"Union County, Florida",15517,12,125,2017,12125
+"Volusia County, Florida",538692,12,127,2017,12127
+"Wakulla County, Florida",32120,12,129,2017,12129
+"Dawson County, Georgia",24379,13,085,2017,13085
+"Decatur County, Georgia",26716,13,087,2017,13087
+"DeKalb County, Georgia",753253,13,089,2017,13089
+"Dodge County, Georgia",20730,13,091,2017,13091
+"Dooly County, Georgia",13737,13,093,2017,13093
+"Dougherty County, Georgia",89502,13,095,2017,13095
+"Baldwin County, Georgia",44906,13,009,2017,13009
+"Banks County, Georgia",18634,13,011,2017,13011
+"Barrow County, Georgia",79061,13,013,2017,13013
+"Bartow County, Georgia",105054,13,015,2017,13015
+"Ben Hill County, Georgia",16996,13,017,2017,13017
+"Berrien County, Georgia",19186,13,019,2017,13019
+"Bibb County, Georgia",152862,13,021,2017,13021
+"Bleckley County, Georgia",12830,13,023,2017,13023
+"Brantley County, Georgia",18731,13,025,2017,13025
+"Brooks County, Georgia",15587,13,027,2017,13027
+"Bryan County, Georgia",37060,13,029,2017,13029
+"Bulloch County, Georgia",76149,13,031,2017,13031
+"Burke County, Georgia",22522,13,033,2017,13033
+"Butts County, Georgia",24059,13,035,2017,13035
+"Calhoun County, Georgia",6455,13,037,2017,13037
+"Camden County, Georgia",53044,13,039,2017,13039
+"Candler County, Georgia",10797,13,043,2017,13043
+"Carroll County, Georgia",117812,13,045,2017,13045
+"Catoosa County, Georgia",66550,13,047,2017,13047
+"Charlton County, Georgia",12715,13,049,2017,13049
+"Chatham County, Georgia",290501,13,051,2017,13051
+"Chattahoochee County, Georgia",10343,13,053,2017,13053
+"Chattooga County, Georgia",24770,13,055,2017,13055
+"Cherokee County, Georgia",247573,13,057,2017,13057
+"Clarke County, Georgia",127064,13,059,2017,13059
+"Clay County, Georgia",2962,13,061,2017,13061
+"Clayton County, Georgia",285153,13,063,2017,13063
+"Clinch County, Georgia",6727,13,065,2017,13065
+"Cobb County, Georgia",755754,13,067,2017,13067
+"Coffee County, Georgia",43014,13,069,2017,13069
+"Colquitt County, Georgia",45835,13,071,2017,13071
+"Columbia County, Georgia",151579,13,073,2017,13073
+"Cook County, Georgia",17277,13,075,2017,13075
+"Coweta County, Georgia",143114,13,077,2017,13077
+"Crawford County, Georgia",12295,13,079,2017,13079
+"Crisp County, Georgia",22736,13,081,2017,13081
+"Dade County, Georgia",16285,13,083,2017,13083
+"Lowndes County, Georgia",115489,13,185,2017,13185
+"Lumpkin County, Georgia",32873,13,187,2017,13187
+"McDuffie County, Georgia",21498,13,189,2017,13189
+"McIntosh County, Georgia",14106,13,191,2017,13191
+"Macon County, Georgia",13314,13,193,2017,13193
+"Madison County, Georgia",29302,13,195,2017,13195
+"Douglas County, Georgia",143882,13,097,2017,13097
+"Early County, Georgia",10296,13,099,2017,13099
+"Echols County, Georgia",3936,13,101,2017,13101
+"Effingham County, Georgia",59982,13,103,2017,13103
+"Elbert County, Georgia",19109,13,105,2017,13105
+"Emanuel County, Georgia",22530,13,107,2017,13107
+"Evans County, Georgia",10775,13,109,2017,13109
+"Fannin County, Georgia",25322,13,111,2017,13111
+"Fayette County, Georgia",112549,13,113,2017,13113
+"Floyd County, Georgia",97613,13,115,2017,13115
+"Forsyth County, Georgia",227967,13,117,2017,13117
+"Franklin County, Georgia",22820,13,119,2017,13119
+"Fulton County, Georgia",1041423,13,121,2017,13121
+"Gilmer County, Georgia",30674,13,123,2017,13123
+"Glascock County, Georgia",3062,13,125,2017,13125
+"Glynn County, Georgia",85282,13,127,2017,13127
+"Gordon County, Georgia",57089,13,129,2017,13129
+"Grady County, Georgia",24819,13,131,2017,13131
+"Greene County, Georgia",17281,13,133,2017,13133
+"Gwinnett County, Georgia",920260,13,135,2017,13135
+"Habersham County, Georgia",44567,13,137,2017,13137
+"Hall County, Georgia",199335,13,139,2017,13139
+"Hancock County, Georgia",8561,13,141,2017,13141
+"Haralson County, Georgia",29256,13,143,2017,13143
+"Harris County, Georgia",33915,13,145,2017,13145
+"Hart County, Georgia",25794,13,147,2017,13147
+"Heard County, Georgia",11730,13,149,2017,13149
+"Henry County, Georgia",225813,13,151,2017,13151
+"Houston County, Georgia",153479,13,153,2017,13153
+"Irwin County, Georgia",9410,13,155,2017,13155
+"Jackson County, Georgia",67519,13,157,2017,13157
+"Jasper County, Georgia",13964,13,159,2017,13159
+"Jeff Davis County, Georgia",15025,13,161,2017,13161
+"Jefferson County, Georgia",15648,13,163,2017,13163
+"Jenkins County, Georgia",8767,13,165,2017,13165
+"Johnson County, Georgia",9788,13,167,2017,13167
+"Jones County, Georgia",28470,13,169,2017,13169
+"Lamar County, Georgia",18599,13,171,2017,13171
+"Lanier County, Georgia",10425,13,173,2017,13173
+"Laurens County, Georgia",47330,13,175,2017,13175
+"Lee County, Georgia",29470,13,177,2017,13177
+"Liberty County, Georgia",61386,13,179,2017,13179
+"Lincoln County, Georgia",7880,13,181,2017,13181
+"Long County, Georgia",19014,13,183,2017,13183
+"Terrell County, Georgia",8729,13,273,2017,13273
+"Thomas County, Georgia",44779,13,275,2017,13275
+"Tift County, Georgia",40598,13,277,2017,13277
+"Toombs County, Georgia",26999,13,279,2017,13279
+"Towns County, Georgia",11506,13,281,2017,13281
+"Treutlen County, Georgia",6740,13,283,2017,13283
+"Troup County, Georgia",69786,13,285,2017,13285
+"Marion County, Georgia",8450,13,197,2017,13197
+"Meriwether County, Georgia",21049,13,199,2017,13199
+"Miller County, Georgia",5838,13,201,2017,13201
+"Mitchell County, Georgia",22292,13,205,2017,13205
+"Monroe County, Georgia",27113,13,207,2017,13207
+"Montgomery County, Georgia",9031,13,209,2017,13209
+"Morgan County, Georgia",18412,13,211,2017,13211
+"Murray County, Georgia",39782,13,213,2017,13213
+"Muscogee County, Georgia",194058,13,215,2017,13215
+"Newton County, Georgia",108078,13,217,2017,13217
+"Oconee County, Georgia",38028,13,219,2017,13219
+"Oglethorpe County, Georgia",14877,13,221,2017,13221
+"Paulding County, Georgia",159445,13,223,2017,13223
+"Peach County, Georgia",27099,13,225,2017,13225
+"Pickens County, Georgia",31588,13,227,2017,13227
+"Pierce County, Georgia",19307,13,229,2017,13229
+"Pike County, Georgia",18217,13,231,2017,13231
+"Polk County, Georgia",42085,13,233,2017,13233
+"Pulaski County, Georgia",11201,13,235,2017,13235
+"Putnam County, Georgia",21730,13,237,2017,13237
+"Quitman County, Georgia",2358,13,239,2017,13239
+"Rabun County, Georgia",16602,13,241,2017,13241
+"Randolph County, Georgia",7075,13,243,2017,13243
+"Richmond County, Georgia",201800,13,245,2017,13245
+"Rockdale County, Georgia",90312,13,247,2017,13247
+"Schley County, Georgia",5213,13,249,2017,13249
+"Screven County, Georgia",13953,13,251,2017,13251
+"Seminole County, Georgia",8292,13,253,2017,13253
+"Spalding County, Georgia",65380,13,255,2017,13255
+"Stephens County, Georgia",25890,13,257,2017,13257
+"Stewart County, Georgia",5985,13,259,2017,13259
+"Sumter County, Georgia",29847,13,261,2017,13261
+"Talbot County, Georgia",6249,13,263,2017,13263
+"Taliaferro County, Georgia",1628,13,265,2017,13265
+"Tattnall County, Georgia",25334,13,267,2017,13267
+"Taylor County, Georgia",8142,13,269,2017,13269
+"Telfair County, Georgia",15989,13,271,2017,13271
+"Fremont County, Idaho",13094,16,043,2017,16043
+"Gem County, Idaho",17379,16,045,2017,16045
+"Gooding County, Idaho",15124,16,047,2017,16047
+"Idaho County, Idaho",16369,16,049,2017,16049
+"Jefferson County, Idaho",28446,16,051,2017,16051
+"Jerome County, Idaho",23627,16,053,2017,16053
+"Turner County, Georgia",7961,13,287,2017,13287
+"Twiggs County, Georgia",8174,13,289,2017,13289
+"Union County, Georgia",23459,13,291,2017,13291
+"Upson County, Georgia",26135,13,293,2017,13293
+"Walker County, Georgia",68939,13,295,2017,13295
+"Walton County, Georgia",91600,13,297,2017,13297
+"Ware County, Georgia",35871,13,299,2017,13299
+"Warren County, Georgia",5303,13,301,2017,13301
+"Washington County, Georgia",20313,13,303,2017,13303
+"Wayne County, Georgia",29817,13,305,2017,13305
+"Webster County, Georgia",2605,13,307,2017,13307
+"Wheeler County, Georgia",7952,13,309,2017,13309
+"White County, Georgia",29453,13,311,2017,13311
+"Whitfield County, Georgia",104658,13,313,2017,13313
+"Wilcox County, Georgia",8800,13,315,2017,13315
+"Wilkes County, Georgia",9892,13,317,2017,13317
+"Wilkinson County, Georgia",8959,13,319,2017,13319
+"Worth County, Georgia",20533,13,321,2017,13321
+"Hawaii County, Hawaii",200381,15,001,2017,15001
+"Honolulu County, Hawaii",988650,15,003,2017,15003
+"Kalawao County, Hawaii",88,15,005,2017,15005
+"Kauai County, Hawaii",72159,15,007,2017,15007
+"Maui County, Hawaii",166260,15,009,2017,15009
+"Ada County, Idaho",456849,16,001,2017,16001
+"Adams County, Idaho",4147,16,003,2017,16003
+"Bannock County, Idaho",85269,16,005,2017,16005
+"Bear Lake County, Idaho",6028,16,007,2017,16007
+"Benewah County, Idaho",9184,16,009,2017,16009
+"Bingham County, Idaho",45927,16,011,2017,16011
+"Blaine County, Idaho",22024,16,013,2017,16013
+"Boise County, Idaho",7290,16,015,2017,16015
+"Bonner County, Idaho",43560,16,017,2017,16017
+"Bonneville County, Idaho",114595,16,019,2017,16019
+"Boundary County, Idaho",11922,16,021,2017,16021
+"Butte County, Idaho",2602,16,023,2017,16023
+"Camas County, Idaho",1102,16,025,2017,16025
+"Canyon County, Idaho",216699,16,027,2017,16027
+"Caribou County, Idaho",7034,16,029,2017,16029
+"Cassia County, Idaho",23664,16,031,2017,16031
+"Clark County, Idaho",873,16,033,2017,16033
+"Clearwater County, Idaho",8546,16,035,2017,16035
+"Custer County, Idaho",4172,16,037,2017,16037
+"Elmore County, Idaho",26823,16,039,2017,16039
+"Franklin County, Idaho",13564,16,041,2017,16041
+"DuPage County, Illinois",930128,17,043,2017,17043
+"Edgar County, Illinois",17328,17,045,2017,17045
+"Edwards County, Illinois",6486,17,047,2017,17047
+"Effingham County, Illinois",34132,17,049,2017,17049
+"Fayette County, Illinois",21784,17,051,2017,17051
+"Ford County, Illinois",13280,17,053,2017,17053
+"Kootenai County, Idaho",157637,16,055,2017,16055
+"Latah County, Idaho",39333,16,057,2017,16057
+"Lemhi County, Idaho",7875,16,059,2017,16059
+"Lewis County, Idaho",3887,16,061,2017,16061
+"Lincoln County, Idaho",5318,16,063,2017,16063
+"Madison County, Idaho",39141,16,065,2017,16065
+"Minidoka County, Idaho",20729,16,067,2017,16067
+"Nez Perce County, Idaho",40385,16,069,2017,16069
+"Oneida County, Idaho",4427,16,071,2017,16071
+"Owyhee County, Idaho",11628,16,073,2017,16073
+"Payette County, Idaho",23215,16,075,2017,16075
+"Power County, Idaho",7600,16,077,2017,16077
+"Shoshone County, Idaho",12542,16,079,2017,16079
+"Teton County, Idaho",11381,16,081,2017,16081
+"Twin Falls County, Idaho",85124,16,083,2017,16083
+"Valley County, Idaho",10687,16,085,2017,16085
+"Washington County, Idaho",10121,16,087,2017,16087
+"Adams County, Illinois",66234,17,001,2017,17001
+"Alexander County, Illinois",6315,17,003,2017,17003
+"Bond County, Illinois",16948,17,005,2017,17005
+"Boone County, Illinois",53513,17,007,2017,17007
+"Brown County, Illinois",6716,17,009,2017,17009
+"Bureau County, Illinois",33243,17,011,2017,17011
+"Calhoun County, Illinois",4833,17,013,2017,17013
+"Carroll County, Illinois",14518,17,015,2017,17015
+"Cass County, Illinois",12505,17,017,2017,17017
+"Champaign County, Illinois",209399,17,019,2017,17019
+"Christian County, Illinois",33102,17,021,2017,17021
+"Clark County, Illinois",15767,17,023,2017,17023
+"Clay County, Illinois",13269,17,025,2017,17025
+"Clinton County, Illinois",37614,17,027,2017,17027
+"Coles County, Illinois",51979,17,029,2017,17029
+"Cook County, Illinois",5211263,17,031,2017,17031
+"Crawford County, Illinois",18961,17,033,2017,17033
+"Cumberland County, Illinois",10908,17,035,2017,17035
+"DeKalb County, Illinois",104733,17,037,2017,17037
+"De Witt County, Illinois",15942,17,039,2017,17039
+"Douglas County, Illinois",19748,17,041,2017,17041
+"Ogle County, Illinois",51063,17,141,2017,17141
+"Peoria County, Illinois",183011,17,143,2017,17143
+"Perry County, Illinois",21285,17,145,2017,17145
+"Piatt County, Illinois",16445,17,147,2017,17147
+"Pike County, Illinois",15821,17,149,2017,17149
+"Pope County, Illinois",4325,17,151,2017,17151
+"Franklin County, Illinois",39041,17,055,2017,17055
+"Fulton County, Illinois",35110,17,057,2017,17057
+"Gallatin County, Illinois",5080,17,059,2017,17059
+"Greene County, Illinois",13174,17,061,2017,17061
+"Grundy County, Illinois",50586,17,063,2017,17063
+"Hamilton County, Illinois",8194,17,065,2017,17065
+"Hancock County, Illinois",18020,17,067,2017,17067
+"Hardin County, Illinois",4046,17,069,2017,17069
+"Henderson County, Illinois",6795,17,071,2017,17071
+"Henry County, Illinois",49328,17,073,2017,17073
+"Iroquois County, Illinois",27876,17,075,2017,17075
+"Jackson County, Illinois",58284,17,077,2017,17077
+"Jasper County, Illinois",9578,17,079,2017,17079
+"Jefferson County, Illinois",38179,17,081,2017,17081
+"Jersey County, Illinois",21941,17,083,2017,17083
+"Jo Daviess County, Illinois",21594,17,085,2017,17085
+"Johnson County, Illinois",12900,17,087,2017,17087
+"Kane County, Illinois",534667,17,089,2017,17089
+"Kankakee County, Illinois",109605,17,091,2017,17091
+"Kendall County, Illinois",126218,17,093,2017,17093
+"Knox County, Illinois",50638,17,095,2017,17095
+"Lake County, Illinois",703520,17,097,2017,17097
+"LaSalle County, Illinois",110067,17,099,2017,17099
+"Lawrence County, Illinois",16168,17,101,2017,17101
+"Lee County, Illinois",34406,17,103,2017,17103
+"Livingston County, Illinois",36518,17,105,2017,17105
+"Logan County, Illinois",29245,17,107,2017,17107
+"McDonough County, Illinois",30823,17,109,2017,17109
+"McHenry County, Illinois",309122,17,111,2017,17111
+"McLean County, Illinois",172290,17,113,2017,17113
+"Macon County, Illinois",105801,17,115,2017,17115
+"Macoupin County, Illinois",45446,17,117,2017,17117
+"Madison County, Illinois",265428,17,119,2017,17119
+"Marion County, Illinois",37902,17,121,2017,17121
+"Marshall County, Illinois",11730,17,123,2017,17123
+"Mason County, Illinois",13715,17,125,2017,17125
+"Massac County, Illinois",14344,17,127,2017,17127
+"Menard County, Illinois",12245,17,129,2017,17129
+"Mercer County, Illinois",15618,17,131,2017,17131
+"Monroe County, Illinois",34097,17,133,2017,17133
+"Montgomery County, Illinois",28790,17,135,2017,17135
+"Morgan County, Illinois",33798,17,137,2017,17137
+"Moultrie County, Illinois",14688,17,139,2017,17139
+"Isabella County, Michigan",71063,26,073,2017,26073
+"Jackson County, Michigan",158640,26,075,2017,26075
+"Kalamazoo County, Michigan",262985,26,077,2017,26077
+"Kalkaska County, Michigan",17634,26,079,2017,26079
+"Kent County, Michigan",648594,26,081,2017,26081
+"Keweenaw County, Michigan",2105,26,083,2017,26083
+"Nicollet County, Minnesota",33966,27,103,2017,27103
+"Nobles County, Minnesota",21944,27,105,2017,27105
+"Norman County, Minnesota",6597,27,107,2017,27107
+"Olmsted County, Minnesota",154930,27,109,2017,27109
+"Otter Tail County, Minnesota",58345,27,111,2017,27111
+"Pennington County, Minnesota",14238,27,113,2017,27113
+"Oldham County, Kentucky",66415,21,185,2017,21185
+"Owen County, Kentucky",10765,21,187,2017,21187
+"Owsley County, Kentucky",4435,21,189,2017,21189
+"Pendleton County, Kentucky",14573,21,191,2017,21191
+"Perry County, Kentucky",26553,21,193,2017,21193
+"Pike County, Kentucky",58883,21,195,2017,21195
+"West Feliciana Parish, Louisiana",15380,22,125,2017,22125
+"Winn Parish, Louisiana",14311,22,127,2017,22127
+"Androscoggin County, Maine",107651,23,001,2017,23001
+"Aroostook County, Maine",67653,23,003,2017,23003
+"Cumberland County, Maine",292500,23,005,2017,23005
+"Franklin County, Maine",29988,23,007,2017,23007
+"Hancock County, Maine",54497,23,009,2017,23009
+"Lake County, Michigan",12013,26,085,2017,26085
+"Lapeer County, Michigan",88174,26,087,2017,26087
+"Leelanau County, Michigan",21657,26,089,2017,26089
+"Lenawee County, Michigan",98623,26,091,2017,26091
+"Livingston County, Michigan",189651,26,093,2017,26093
+"Luce County, Michigan",6358,26,095,2017,26095
+"Pine County, Minnesota",29203,27,115,2017,27115
+"Pipestone County, Minnesota",9087,27,117,2017,27117
+"Polk County, Minnesota",31619,27,119,2017,27119
+"Pope County, Minnesota",10970,27,121,2017,27121
+"Ramsey County, Minnesota",547974,27,123,2017,27123
+"Red Lake County, Minnesota",4030,27,125,2017,27125
+"Powell County, Kentucky",12374,21,197,2017,21197
+"Pulaski County, Kentucky",64449,21,199,2017,21199
+"Robertson County, Kentucky",2134,21,201,2017,21201
+"Rockcastle County, Kentucky",16698,21,203,2017,21203
+"Rowan County, Kentucky",24517,21,205,2017,21205
+"Russell County, Kentucky",17775,21,207,2017,21207
+"Kennebec County, Maine",121821,23,011,2017,23011
+"Knox County, Maine",39790,23,013,2017,23013
+"Lincoln County, Maine",34204,23,015,2017,23015
+"Oxford County, Maine",57439,23,017,2017,23017
+"Penobscot County, Maine",151957,23,019,2017,23019
+"Piscataquis County, Maine",16773,23,021,2017,23021
+"Mackinac County, Michigan",10712,26,097,2017,26097
+"Macomb County, Michigan",871375,26,099,2017,26099
+"Manistee County, Michigan",24427,26,101,2017,26101
+"Marquette County, Michigan",66502,26,103,2017,26103
+"Mason County, Michigan",29073,26,105,2017,26105
+"Mecosta County, Michigan",43391,26,107,2017,26107
+"Redwood County, Minnesota",15272,27,127,2017,27127
+"Renville County, Minnesota",14645,27,129,2017,27129
+"Rice County, Minnesota",65968,27,131,2017,27131
+"Rock County, Minnesota",9490,27,133,2017,27133
+"Roseau County, Minnesota",15327,27,135,2017,27135
+"St. Louis County, Minnesota",200000,27,137,2017,27137
+"Scott County, Kentucky",54873,21,209,2017,21209
+"Shelby County, Kentucky",47421,21,211,2017,21211
+"Simpson County, Kentucky",18108,21,213,2017,21213
+"Spencer County, Kentucky",18507,21,215,2017,21215
+"Taylor County, Kentucky",25472,21,217,2017,21217
+"Todd County, Kentucky",12243,21,219,2017,21219
+"Sagadahoc County, Maine",35392,23,023,2017,23023
+"Somerset County, Maine",50626,23,025,2017,23025
+"Waldo County, Maine",39832,23,027,2017,23027
+"Washington County, Maine",31593,23,029,2017,23029
+"York County, Maine",204191,23,031,2017,23031
+"Allegany County, Maryland",71615,24,001,2017,24001
+"Menominee County, Michigan",23046,26,109,2017,26109
+"Midland County, Michigan",83411,26,111,2017,26111
+"Missaukee County, Michigan",14998,26,113,2017,26113
+"Monroe County, Michigan",149649,26,115,2017,26115
+"Montcalm County, Michigan",63550,26,117,2017,26117
+"Montmorency County, Michigan",9250,26,119,2017,26119
+"Muskegon County, Michigan",173693,26,121,2017,26121
+"Lamar County, Mississippi",61374,28,073,2017,28073
+"Lauderdale County, Mississippi",76155,28,075,2017,28075
+"Lawrence County, Mississippi",12643,28,077,2017,28077
+"Leake County, Mississippi",22715,28,079,2017,28079
+"Lee County, Mississippi",84933,28,081,2017,28081
+"Leflore County, Mississippi",29223,28,083,2017,28083
+"Trigg County, Kentucky",14444,21,221,2017,21221
+"Trimble County, Kentucky",8561,21,223,2017,21223
+"Union County, Kentucky",14668,21,225,2017,21225
+"Warren County, Kentucky",128845,21,227,2017,21227
+"Washington County, Kentucky",12126,21,229,2017,21229
+"Wayne County, Kentucky",20716,21,231,2017,21231
+"Webster County, Kentucky",13018,21,233,2017,21233
+"Anne Arundel County, Maryland",573235,24,003,2017,24003
+"Baltimore County, Maryland",832468,24,005,2017,24005
+"Calvert County, Maryland",91502,24,009,2017,24009
+"Caroline County, Maryland",33193,24,011,2017,24011
+"Carroll County, Maryland",167781,24,013,2017,24013
+"Cecil County, Maryland",102746,24,015,2017,24015
+"Newaygo County, Michigan",48242,26,123,2017,26123
+"Oakland County, Michigan",1250836,26,125,2017,26125
+"Oceana County, Michigan",26442,26,127,2017,26127
+"Ogemaw County, Michigan",20981,26,129,2017,26129
+"Ontonagon County, Michigan",5881,26,131,2017,26131
+"Osceola County, Michigan",23260,26,133,2017,26133
+"Lincoln County, Mississippi",34347,28,085,2017,28085
+"Lowndes County, Mississippi",59186,28,087,2017,28087
+"Madison County, Mississippi",104618,28,089,2017,28089
+"Marion County, Mississippi",25069,28,091,2017,28091
+"Marshall County, Mississippi",35619,28,093,2017,28093
+"Monroe County, Mississippi",35872,28,095,2017,28095
+"Whitley County, Kentucky",36214,21,235,2017,21235
+"Wolfe County, Kentucky",7264,21,237,2017,21237
+"Woodford County, Kentucky",26368,21,239,2017,21239
+"Acadia Parish, Louisiana",62590,22,001,2017,22001
+"Allen Parish, Louisiana",25621,22,003,2017,22003
+"Ascension Parish, Louisiana",122948,22,005,2017,22005
+"Charles County, Maryland",159700,24,017,2017,24017
+"Dorchester County, Maryland",32162,24,019,2017,24019
+"Frederick County, Maryland",252022,24,021,2017,24021
+"Garrett County, Maryland",29233,24,023,2017,24023
+"Harford County, Maryland",252160,24,025,2017,24025
+"Howard County, Maryland",321113,24,027,2017,24027
+"Oscoda County, Michigan",8287,26,135,2017,26135
+"Otsego County, Michigan",24538,26,137,2017,26137
+"Ottawa County, Michigan",286383,26,139,2017,26139
+"Presque Isle County, Michigan",12791,26,141,2017,26141
+"Roscommon County, Michigan",23895,26,143,2017,26143
+"Saginaw County, Michigan",191934,26,145,2017,26145
+"Scott County, Minnesota",145827,27,139,2017,27139
+"Sherburne County, Minnesota",94570,27,141,2017,27141
+"Sibley County, Minnesota",14869,27,143,2017,27143
+"Stearns County, Minnesota",157822,27,145,2017,27145
+"Steele County, Minnesota",36887,27,147,2017,27147
+"Stevens County, Minnesota",9634,27,149,2017,27149
+"Assumption Parish, Louisiana",22526,22,007,2017,22007
+"Avoyelles Parish, Louisiana",40980,22,009,2017,22009
+"Beauregard Parish, Louisiana",36928,22,011,2017,22011
+"Bienville Parish, Louisiana",13638,22,013,2017,22013
+"Bossier Parish, Louisiana",127634,22,015,2017,22015
+"Caddo Parish, Louisiana",246581,22,017,2017,22017
+"Kent County, Maryland",19384,24,029,2017,24029
+"Montgomery County, Maryland",1058810,24,031,2017,24031
+"Prince George's County, Maryland",912756,24,033,2017,24033
+"Queen Anne's County, Maryland",49770,24,035,2017,24035
+"St. Mary's County, Maryland",112667,24,037,2017,24037
+"Somerset County, Maryland",25918,24,039,2017,24039
+"St. Clair County, Michigan",159350,26,147,2017,26147
+"St. Joseph County, Michigan",60947,26,149,2017,26149
+"Sanilac County, Michigan",41269,26,151,2017,26151
+"Schoolcraft County, Michigan",8049,26,153,2017,26153
+"Shiawassee County, Michigan",68446,26,155,2017,26155
+"Tuscola County, Michigan",52764,26,157,2017,26157
+"Swift County, Minnesota",9407,27,151,2017,27151
+"Todd County, Minnesota",24515,27,153,2017,27153
+"Traverse County, Minnesota",3319,27,155,2017,27155
+"Wabasha County, Minnesota",21608,27,157,2017,27157
+"Wadena County, Minnesota",13669,27,159,2017,27159
+"Waseca County, Minnesota",18787,27,161,2017,27161
+"Calcasieu Parish, Louisiana",202445,22,019,2017,22019
+"Caldwell Parish, Louisiana",9950,22,021,2017,22021
+"Cameron Parish, Louisiana",6912,22,023,2017,22023
+"Catahoula Parish, Louisiana",9875,22,025,2017,22025
+"Claiborne Parish, Louisiana",15969,22,027,2017,22027
+"Concordia Parish, Louisiana",19866,22,029,2017,22029
+"Talbot County, Maryland",37103,24,041,2017,24041
+"Washington County, Maryland",150578,24,043,2017,24043
+"Wicomico County, Maryland",102923,24,045,2017,24045
+"Worcester County, Maryland",51690,24,047,2017,24047
+"Baltimore city, Maryland",611648,24,510,2017,24510
+"Barnstable County, Massachusetts",213444,25,001,2017,25001
+"Van Buren County, Michigan",75353,26,159,2017,26159
+"Washtenaw County, Michigan",367627,26,161,2017,26161
+"Wayne County, Michigan",1753616,26,163,2017,26163
+"Wexford County, Michigan",33276,26,165,2017,26165
+"Aitkin County, Minnesota",15829,27,001,2017,27001
+"Anoka County, Minnesota",351373,27,003,2017,27003
+"Washington County, Minnesota",256348,27,163,2017,27163
+"Watonwan County, Minnesota",10840,27,165,2017,27165
+"Wilkin County, Minnesota",6324,27,167,2017,27167
+"Winona County, Minnesota",50873,27,169,2017,27169
+"Wright County, Minnesota",134286,27,171,2017,27171
+"Yellow Medicine County, Minnesota",9867,27,173,2017,27173
+"De Soto Parish, Louisiana",27340,22,031,2017,22031
+"East Baton Rouge Parish, Louisiana",446268,22,033,2017,22033
+"East Carroll Parish, Louisiana",7126,22,035,2017,22035
+"East Feliciana Parish, Louisiana",19412,22,037,2017,22037
+"Evangeline Parish, Louisiana",33708,22,039,2017,22039
+"Franklin Parish, Louisiana",20260,22,041,2017,22041
+"Berkshire County, Massachusetts",126313,25,003,2017,25003
+"Bristol County, Massachusetts",561483,25,005,2017,25005
+"Dukes County, Massachusetts",17325,25,007,2017,25007
+"Essex County, Massachusetts",785205,25,009,2017,25009
+"Franklin County, Massachusetts",70702,25,011,2017,25011
+"Hampden County, Massachusetts",469818,25,013,2017,25013
+"Becker County, Minnesota",34098,27,005,2017,27005
+"Beltrami County, Minnesota",46513,27,007,2017,27007
+"Benton County, Minnesota",39937,27,009,2017,27009
+"Big Stone County, Minnesota",5026,27,011,2017,27011
+"Blue Earth County, Minnesota",66973,27,013,2017,27013
+"Brown County, Minnesota",25194,27,015,2017,27015
+"Adams County, Mississippi",31003,28,001,2017,28001
+"Alcorn County, Mississippi",37210,28,003,2017,28003
+"Amite County, Mississippi",12447,28,005,2017,28005
+"Attala County, Mississippi",18477,28,007,2017,28007
+"Benton County, Mississippi",8312,28,009,2017,28009
+"Bolivar County, Mississippi",31945,28,011,2017,28011
+"Grant Parish, Louisiana",22336,22,043,2017,22043
+"Iberia Parish, Louisiana",72176,22,045,2017,22045
+"Iberville Parish, Louisiana",33027,22,047,2017,22047
+"Jackson Parish, Louisiana",15846,22,049,2017,22049
+"Jefferson Parish, Louisiana",439036,22,051,2017,22051
+"Jefferson Davis Parish, Louisiana",31477,22,053,2017,22053
+"Hampshire County, Massachusetts",161834,25,015,2017,25015
+"Middlesex County, Massachusetts",1602947,25,017,2017,25017
+"Nantucket County, Massachusetts",11229,25,019,2017,25019
+"Norfolk County, Massachusetts",700322,25,021,2017,25021
+"Plymouth County, Massachusetts",515142,25,023,2017,25023
+"Suffolk County, Massachusetts",797939,25,025,2017,25025
+"Carlton County, Minnesota",35498,27,017,2017,27017
+"Carver County, Minnesota",102119,27,019,2017,27019
+"Cass County, Minnesota",29355,27,021,2017,27021
+"Chippewa County, Minnesota",11980,27,023,2017,27023
+"Chisago County, Minnesota",55308,27,025,2017,27025
+"Clay County, Minnesota",63569,27,027,2017,27027
+"Calhoun County, Mississippi",14492,28,013,2017,28013
+"Carroll County, Mississippi",10139,28,015,2017,28015
+"Chickasaw County, Mississippi",17146,28,017,2017,28017
+"Choctaw County, Mississippi",8278,28,019,2017,28019
+"Claiborne County, Mississippi",8950,28,021,2017,28021
+"Clarke County, Mississippi",15828,28,023,2017,28023
+"Lafayette Parish, Louisiana",242485,22,055,2017,22055
+"Lafourche Parish, Louisiana",98426,22,057,2017,22057
+"LaSalle Parish, Louisiana",14933,22,059,2017,22059
+"Lincoln Parish, Louisiana",47744,22,061,2017,22061
+"Livingston Parish, Louisiana",138228,22,063,2017,22063
+"Madison Parish, Louisiana",11316,22,065,2017,22065
+"Worcester County, Massachusetts",826116,25,027,2017,25027
+"Alcona County, Michigan",10351,26,001,2017,26001
+"Alger County, Michigan",9121,26,003,2017,26003
+"Allegan County, Michigan",116447,26,005,2017,26005
+"Alpena County, Michigan",28462,26,007,2017,26007
+"Antrim County, Michigan",23292,26,009,2017,26009
+"Clearwater County, Minnesota",8878,27,029,2017,27029
+"Cook County, Minnesota",5398,27,031,2017,27031
+"Cottonwood County, Minnesota",11295,27,033,2017,27033
+"Crow Wing County, Minnesota",64424,27,035,2017,27035
+"Dakota County, Minnesota",421751,27,037,2017,27037
+"Dodge County, Minnesota",20762,27,039,2017,27039
+"Clay County, Mississippi",19640,28,025,2017,28025
+"Coahoma County, Mississippi",23154,28,027,2017,28027
+"Copiah County, Mississippi",28516,28,029,2017,28029
+"Covington County, Mississippi",19079,28,031,2017,28031
+"DeSoto County, Mississippi",178751,28,033,2017,28033
+"Forrest County, Mississippi",75471,28,035,2017,28035
+"Morehouse Parish, Louisiana",25641,22,067,2017,22067
+"Natchitoches Parish, Louisiana",39021,22,069,2017,22069
+"Orleans Parish, Louisiana",393292,22,071,2017,22071
+"Ouachita Parish, Louisiana",155874,22,073,2017,22073
+"Plaquemines Parish, Louisiana",23348,22,075,2017,22075
+"Pointe Coupee Parish, Louisiana",22268,22,077,2017,22077
+"Arenac County, Michigan",15045,26,011,2017,26011
+"Baraga County, Michigan",8441,26,013,2017,26013
+"Barry County, Michigan",60586,26,015,2017,26015
+"Bay County, Michigan",104239,26,017,2017,26017
+"Benzie County, Michigan",17573,26,019,2017,26019
+"Berrien County, Michigan",154259,26,021,2017,26021
+"Douglas County, Minnesota",37575,27,041,2017,27041
+"Faribault County, Minnesota",13784,27,043,2017,27043
+"Fillmore County, Minnesota",20980,27,045,2017,27045
+"Freeborn County, Minnesota",30535,27,047,2017,27047
+"Goodhue County, Minnesota",46304,27,049,2017,27049
+"Grant County, Minnesota",5941,27,051,2017,27051
+"Franklin County, Mississippi",7765,28,037,2017,28037
+"George County, Mississippi",24094,28,039,2017,28039
+"Greene County, Mississippi",13345,28,041,2017,28041
+"Grenada County, Mississippi",21087,28,043,2017,28043
+"Hancock County, Mississippi",47053,28,045,2017,28045
+"Harrison County, Mississippi",205027,28,047,2017,28047
+"Rapides Parish, Louisiana",131648,22,079,2017,22079
+"Red River Parish, Louisiana",8536,22,081,2017,22081
+"Richland Parish, Louisiana",20411,22,083,2017,22083
+"Sabine Parish, Louisiana",24018,22,085,2017,22085
+"St. Bernard Parish, Louisiana",46202,22,087,2017,22087
+"St. Charles Parish, Louisiana",52749,22,089,2017,22089
+"Branch County, Michigan",43410,26,023,2017,26023
+"Calhoun County, Michigan",134128,26,025,2017,26025
+"Cass County, Michigan",51381,26,027,2017,26027
+"Charlevoix County, Michigan",26139,26,029,2017,26029
+"Cheboygan County, Michigan",25369,26,031,2017,26031
+"Chippewa County, Michigan",37711,26,033,2017,26033
+"Hennepin County, Minnesota",1252024,27,053,2017,27053
+"Houston County, Minnesota",18660,27,055,2017,27055
+"Hubbard County, Minnesota",21018,27,057,2017,27057
+"Isanti County, Minnesota",39582,27,059,2017,27059
+"Itasca County, Minnesota",45137,27,061,2017,27061
+"Jackson County, Minnesota",9946,27,063,2017,27063
+"Hinds County, Mississippi",239497,28,049,2017,28049
+"Holmes County, Mississippi",17739,28,051,2017,28051
+"Humphreys County, Mississippi",8342,28,053,2017,28053
+"Issaquena County, Mississippi",1339,28,055,2017,28055
+"Itawamba County, Mississippi",23508,28,057,2017,28057
+"Jackson County, Mississippi",142152,28,059,2017,28059
+"St. Helena Parish, Louisiana",10363,22,091,2017,22091
+"St. James Parish, Louisiana",21367,22,093,2017,22093
+"St. John the Baptist Parish, Louisiana",43441,22,095,2017,22095
+"St. Landry Parish, Louisiana",83497,22,097,2017,22097
+"St. Martin Parish, Louisiana",54171,22,099,2017,22099
+"Clare County, Michigan",30653,26,035,2017,26035
+"Clinton County, Michigan",78443,26,037,2017,26037
+"Crawford County, Michigan",13907,26,039,2017,26039
+"Delta County, Michigan",35965,26,041,2017,26041
+"Dickinson County, Michigan",25415,26,043,2017,26043
+"Eaton County, Michigan",109027,26,045,2017,26045
+"Emmet County, Michigan",33193,26,047,2017,26047
+"Kanabec County, Minnesota",16024,27,065,2017,27065
+"Kandiyohi County, Minnesota",42743,27,067,2017,27067
+"Kittson County, Minnesota",4250,27,069,2017,27069
+"Koochiching County, Minnesota",12528,27,071,2017,27071
+"Lac qui Parle County, Minnesota",6685,27,073,2017,27073
+"Lake County, Minnesota",10524,27,075,2017,27075
+"Jasper County, Mississippi",16582,28,061,2017,28061
+"Jefferson County, Mississippi",7262,28,063,2017,28063
+"Jefferson Davis County, Mississippi",11314,28,065,2017,28065
+"Jones County, Mississippi",67930,28,067,2017,28067
+"Kemper County, Mississippi",9883,28,069,2017,28069
+"Lafayette County, Mississippi",54374,28,071,2017,28071
+"St. Mary Parish, Louisiana",50973,22,101,2017,22101
+"St. Tammany Parish, Louisiana",256327,22,103,2017,22103
+"Tangipahoa Parish, Louisiana",132497,22,105,2017,22105
+"Tensas Parish, Louisiana",4615,22,107,2017,22107
+"Terrebonne Parish, Louisiana",112086,22,109,2017,22109
+"Union Parish, Louisiana",22571,22,111,2017,22111
+"Genesee County, Michigan",407385,26,049,2017,26049
+"Gladwin County, Michigan",25234,26,051,2017,26051
+"Gogebic County, Michigan",15342,26,053,2017,26053
+"Grand Traverse County, Michigan",91807,26,055,2017,26055
+"Gratiot County, Michigan",41018,26,057,2017,26057
+"Hillsdale County, Michigan",45879,26,059,2017,26059
+"Lake of the Woods County, Minnesota",3744,27,077,2017,27077
+"Le Sueur County, Minnesota",28111,27,079,2017,27079
+"Lincoln County, Minnesota",5678,27,081,2017,27081
+"Lyon County, Minnesota",25831,27,083,2017,27083
+"McLeod County, Minnesota",35884,27,085,2017,27085
+"Mahnomen County, Minnesota",5596,27,087,2017,27087
+"Mason County, Kentucky",17174,21,161,2017,21161
+"Meade County, Kentucky",28154,21,163,2017,21163
+"Menifee County, Kentucky",6455,21,165,2017,21165
+"Mercer County, Kentucky",21521,21,167,2017,21167
+"Metcalfe County, Kentucky",10107,21,169,2017,21169
+"Monroe County, Kentucky",10659,21,171,2017,21171
+"Vermilion Parish, Louisiana",60136,22,113,2017,22113
+"Vernon Parish, Louisiana",50726,22,115,2017,22115
+"Washington Parish, Louisiana",46633,22,117,2017,22117
+"Webster Parish, Louisiana",39378,22,119,2017,22119
+"West Baton Rouge Parish, Louisiana",26265,22,121,2017,22121
+"West Carroll Parish, Louisiana",10981,22,123,2017,22123
+"Houghton County, Michigan",36305,26,061,2017,26061
+"Huron County, Michigan",31280,26,063,2017,26063
+"Ingham County, Michigan",290186,26,065,2017,26065
+"Ionia County, Michigan",64291,26,067,2017,26067
+"Iosco County, Michigan",25162,26,069,2017,26069
+"Iron County, Michigan",11124,26,071,2017,26071
+"Marshall County, Minnesota",9356,27,089,2017,27089
+"Martin County, Minnesota",19850,27,091,2017,27091
+"Meeker County, Minnesota",23131,27,093,2017,27093
+"Mille Lacs County, Minnesota",25872,27,095,2017,27095
+"Morrison County, Minnesota",33064,27,097,2017,27097
+"Mower County, Minnesota",39566,27,099,2017,27099
+"Murray County, Minnesota",8346,27,101,2017,27101
+"Montgomery County, Kentucky",27928,21,173,2017,21173
+"Morgan County, Kentucky",13188,21,175,2017,21175
+"Muhlenberg County, Kentucky",30816,21,177,2017,21177
+"Nelson County, Kentucky",45640,21,179,2017,21179
+"Nicholas County, Kentucky",7130,21,181,2017,21181
+"Ohio County, Kentucky",24182,21,183,2017,21183
+"Woodbury County, Iowa",102429,19,193,2017,19193
+"Worth County, Iowa",7469,19,195,2017,19195
+"Wright County, Iowa",12784,19,197,2017,19197
+"Allen County, Kansas",12519,20,001,2017,20001
+"Anderson County, Kansas",7833,20,003,2017,20003
+"Atchison County, Kansas",16332,20,005,2017,20005
+"Wabaunsee County, Kansas",6874,20,197,2017,20197
+"Wallace County, Kansas",1524,20,199,2017,20199
+"Washington County, Kansas",5485,20,201,2017,20201
+"Wichita County, Kansas",2125,20,203,2017,20203
+"Wilson County, Kansas",8675,20,205,2017,20205
+"Woodson County, Kansas",3147,20,207,2017,20207
+"Tazewell County, Illinois",133526,17,179,2017,17179
+"Union County, Illinois",17000,17,181,2017,17181
+"Vermilion County, Illinois",77909,17,183,2017,17183
+"Wabash County, Illinois",11489,17,185,2017,17185
+"Warren County, Illinois",17167,17,187,2017,17187
+"Washington County, Illinois",14030,17,189,2017,17189
+"Warrick County, Indiana",62530,18,173,2017,18173
+"Washington County, Indiana",27827,18,175,2017,18175
+"Wayne County, Indiana",66185,18,177,2017,18177
+"Wells County, Indiana",27984,18,179,2017,18179
+"White County, Indiana",24182,18,181,2017,18181
+"Whitley County, Indiana",33756,18,183,2017,18183
+"Barber County, Kansas",4586,20,007,2017,20007
+"Barton County, Kansas",26476,20,009,2017,20009
+"Bourbon County, Kansas",14754,20,011,2017,20011
+"Brown County, Kansas",9641,20,013,2017,20013
+"Butler County, Kansas",66878,20,015,2017,20015
+"Chase County, Kansas",2683,20,017,2017,20017
+"Chautauqua County, Kansas",3363,20,019,2017,20019
+"Wyandotte County, Kansas",165288,20,209,2017,20209
+"Adair County, Kentucky",19485,21,001,2017,21001
+"Allen County, Kentucky",20933,21,003,2017,21003
+"Anderson County, Kentucky",22544,21,005,2017,21005
+"Ballard County, Kentucky",8039,21,007,2017,21007
+"Barren County, Kentucky",43801,21,009,2017,21009
+"Wayne County, Illinois",16495,17,191,2017,17191
+"White County, Illinois",13938,17,193,2017,17193
+"Whiteside County, Illinois",56118,17,195,2017,17195
+"Will County, Illinois",692661,17,197,2017,17197
+"Williamson County, Illinois",67328,17,199,2017,17199
+"Winnebago County, Illinois",284778,17,201,2017,17201
+"Adair County, Iowa",7054,19,001,2017,19001
+"Adams County, Iowa",3686,19,003,2017,19003
+"Allamakee County, Iowa",13884,19,005,2017,19005
+"Appanoose County, Iowa",12352,19,007,2017,19007
+"Audubon County, Iowa",5578,19,009,2017,19009
+"Benton County, Iowa",25642,19,011,2017,19011
+"Cherokee County, Kansas",20115,20,021,2017,20021
+"Cheyenne County, Kansas",2683,20,023,2017,20023
+"Clark County, Kansas",2004,20,025,2017,20025
+"Clay County, Kansas",7958,20,027,2017,20027
+"Cloud County, Kansas",8991,20,029,2017,20029
+"Coffey County, Kansas",8224,20,031,2017,20031
+"Bath County, Kentucky",12378,21,011,2017,21011
+"Bell County, Kentucky",26894,21,013,2017,21013
+"Boone County, Kentucky",130728,21,015,2017,21015
+"Bourbon County, Kentucky",20029,21,017,2017,21017
+"Boyd County, Kentucky",47979,21,019,2017,21019
+"Boyle County, Kentucky",29924,21,021,2017,21021
+"Bracken County, Kentucky",8267,21,023,2017,21023
+"Woodford County, Illinois",38726,17,203,2017,17203
+"Adams County, Indiana",35491,18,001,2017,18001
+"Allen County, Indiana",372877,18,003,2017,18003
+"Bartholomew County, Indiana",82040,18,005,2017,18005
+"Benton County, Indiana",8613,18,007,2017,18007
+"Blackford County, Indiana",11976,18,009,2017,18009
+"Black Hawk County, Iowa",132648,19,013,2017,19013
+"Boone County, Iowa",26484,19,015,2017,19015
+"Bremer County, Iowa",24911,19,017,2017,19017
+"Buchanan County, Iowa",21202,19,019,2017,19019
+"Buena Vista County, Iowa",20110,19,021,2017,19021
+"Butler County, Iowa",14606,19,023,2017,19023
+"Calhoun County, Iowa",9746,19,025,2017,19025
+"Comanche County, Kansas",1790,20,033,2017,20033
+"Cowley County, Kansas",35361,20,035,2017,20035
+"Crawford County, Kansas",39034,20,037,2017,20037
+"Decatur County, Kansas",2885,20,039,2017,20039
+"Dickinson County, Kansas",18902,20,041,2017,20041
+"Doniphan County, Kansas",7727,20,043,2017,20043
+"Breathitt County, Kentucky",12946,21,025,2017,21025
+"Breckinridge County, Kentucky",20111,21,027,2017,21027
+"Bullitt County, Kentucky",80246,21,029,2017,21029
+"Butler County, Kentucky",12831,21,031,2017,21031
+"Caldwell County, Kentucky",12639,21,033,2017,21033
+"Calloway County, Kentucky",38919,21,035,2017,21035
+"Boone County, Indiana",65875,18,011,2017,18011
+"Brown County, Indiana",15035,18,013,2017,18013
+"Carroll County, Indiana",20039,18,015,2017,18015
+"Cass County, Indiana",37994,18,017,2017,18017
+"Clark County, Indiana",116973,18,019,2017,18019
+"Clay County, Indiana",26198,18,021,2017,18021
+"Carroll County, Iowa",20320,19,027,2017,19027
+"Cass County, Iowa",13145,19,029,2017,19029
+"Cedar County, Iowa",18543,19,031,2017,19031
+"Cerro Gordo County, Iowa",43006,19,033,2017,19033
+"Cherokee County, Iowa",11316,19,035,2017,19035
+"Chickasaw County, Iowa",12005,19,037,2017,19037
+"Douglas County, Kansas",120793,20,045,2017,20045
+"Edwards County, Kansas",2893,20,047,2017,20047
+"Elk County, Kansas",2498,20,049,2017,20049
+"Ellis County, Kansas",28689,20,051,2017,20051
+"Ellsworth County, Kansas",6330,20,053,2017,20053
+"Finney County, Kansas",37084,20,055,2017,20055
+"Campbell County, Kentucky",92488,21,037,2017,21037
+"Carlisle County, Kentucky",4846,21,039,2017,21039
+"Carroll County, Kentucky",10713,21,041,2017,21041
+"Carter County, Kentucky",27144,21,043,2017,21043
+"Casey County, Kentucky",15750,21,045,2017,21045
+"Christian County, Kentucky",70416,21,047,2017,21047
+"Clinton County, Indiana",32317,18,023,2017,18023
+"Crawford County, Indiana",10566,18,025,2017,18025
+"Daviess County, Indiana",33113,18,027,2017,18027
+"Dearborn County, Indiana",49741,18,029,2017,18029
+"Decatur County, Indiana",26737,18,031,2017,18031
+"DeKalb County, Indiana",42836,18,033,2017,18033
+"Clarke County, Iowa",9374,19,039,2017,19039
+"Clay County, Iowa",16170,19,041,2017,19041
+"Clayton County, Iowa",17637,19,043,2017,19043
+"Clinton County, Iowa",47010,19,045,2017,19045
+"Crawford County, Iowa",17056,19,047,2017,19047
+"Dallas County, Iowa",87235,19,049,2017,19049
+"Davis County, Iowa",8966,19,051,2017,19051
+"Ford County, Kansas",34381,20,057,2017,20057
+"Franklin County, Kansas",25733,20,059,2017,20059
+"Geary County, Kansas",33855,20,061,2017,20061
+"Gove County, Kansas",2631,20,063,2017,20063
+"Graham County, Kansas",2495,20,065,2017,20065
+"Grant County, Kansas",7526,20,067,2017,20067
+"Gray County, Kansas",5958,20,069,2017,20069
+"McCreary County, Kentucky",17465,21,147,2017,21147
+"McLean County, Kentucky",9201,21,149,2017,21149
+"Madison County, Kentucky",91226,21,151,2017,21151
+"Magoffin County, Kentucky",12538,21,153,2017,21153
+"Marion County, Kentucky",19395,21,155,2017,21155
+"Marshall County, Kentucky",31382,21,157,2017,21157
+"Martin County, Kentucky",11452,21,159,2017,21159
+"Delaware County, Indiana",115184,18,035,2017,18035
+"Dubois County, Indiana",42558,18,037,2017,18037
+"Elkhart County, Indiana",205032,18,039,2017,18039
+"Fayette County, Indiana",23209,18,041,2017,18041
+"Floyd County, Indiana",77071,18,043,2017,18043
+"Fountain County, Indiana",16505,18,045,2017,18045
+"Franklin County, Indiana",22619,18,047,2017,18047
+"Decatur County, Iowa",7950,19,053,2017,19053
+"Delaware County, Iowa",17153,19,055,2017,19055
+"Des Moines County, Iowa",39417,19,057,2017,19057
+"Dickinson County, Iowa",17199,19,059,2017,19059
+"Dubuque County, Iowa",97041,19,061,2017,19061
+"Emmet County, Iowa",9432,19,063,2017,19063
+"Greeley County, Kansas",1249,20,071,2017,20071
+"Greenwood County, Kansas",6123,20,073,2017,20073
+"Hamilton County, Kansas",2640,20,075,2017,20075
+"Harper County, Kansas",5590,20,077,2017,20077
+"Harvey County, Kansas",34544,20,079,2017,20079
+"Haskell County, Kansas",4053,20,081,2017,20081
+"Franklin County, Kentucky",50485,21,073,2017,21073
+"Fulton County, Kentucky",6192,21,075,2017,21075
+"Gallatin County, Kentucky",8776,21,077,2017,21077
+"Garrard County, Kentucky",17523,21,079,2017,21079
+"Grant County, Kentucky",24984,21,081,2017,21081
+"Graves County, Kentucky",37121,21,083,2017,21083
+"Fulton County, Indiana",20059,18,049,2017,18049
+"Gibson County, Indiana",33576,18,051,2017,18051
+"Grant County, Indiana",66491,18,053,2017,18053
+"Greene County, Indiana",32177,18,055,2017,18055
+"Hamilton County, Indiana",323747,18,057,2017,18057
+"Hancock County, Indiana",74985,18,059,2017,18059
+"Fayette County, Iowa",19796,19,065,2017,19065
+"Floyd County, Iowa",15744,19,067,2017,19067
+"Franklin County, Iowa",10164,19,069,2017,19069
+"Fremont County, Iowa",6948,19,071,2017,19071
+"Greene County, Iowa",8981,19,073,2017,19073
+"Grundy County, Iowa",12333,19,075,2017,19075
+"Hodgeman County, Kansas",1842,20,083,2017,20083
+"Jackson County, Kansas",13318,20,085,2017,20085
+"Jefferson County, Kansas",18998,20,087,2017,20087
+"Jewell County, Kansas",2850,20,089,2017,20089
+"Johnson County, Kansas",591178,20,091,2017,20091
+"Kearny County, Kansas",3960,20,093,2017,20093
+"Jefferson County, Kentucky",771158,21,111,2017,21111
+"Jessamine County, Kentucky",53375,21,113,2017,21113
+"Johnson County, Kentucky",22594,21,115,2017,21115
+"Kenton County, Kentucky",165399,21,117,2017,21117
+"Knott County, Kentucky",15291,21,119,2017,21119
+"Knox County, Kentucky",31227,21,121,2017,21121
+"Harrison County, Indiana",39898,18,061,2017,18061
+"Hendricks County, Indiana",163685,18,063,2017,18063
+"Henry County, Indiana",48476,18,065,2017,18065
+"Howard County, Indiana",82363,18,067,2017,18067
+"Huntington County, Indiana",36337,18,069,2017,18069
+"Jackson County, Indiana",43884,18,071,2017,18071
+"Guthrie County, Iowa",10670,19,077,2017,19077
+"Hamilton County, Iowa",15115,19,079,2017,19079
+"Hancock County, Iowa",10771,19,081,2017,19081
+"Hardin County, Iowa",17048,19,083,2017,19083
+"Harrison County, Iowa",14136,19,085,2017,19085
+"Henry County, Iowa",19863,19,087,2017,19087
+"Howard County, Iowa",9228,19,089,2017,19089
+"Kingman County, Kansas",7360,20,095,2017,20095
+"Kiowa County, Kansas",2485,20,097,2017,20097
+"Labette County, Kansas",20145,20,099,2017,20099
+"Lane County, Kansas",1559,20,101,2017,20101
+"Leavenworth County, Kansas",81095,20,103,2017,20103
+"Lincoln County, Kansas",3043,20,105,2017,20105
+"Linn County, Kansas",9726,20,107,2017,20107
+"Clark County, Kentucky",36046,21,049,2017,21049
+"Clay County, Kentucky",20366,21,051,2017,21051
+"Clinton County, Kentucky",10276,21,053,2017,21053
+"Crittenden County, Kentucky",9084,21,055,2017,21055
+"Cumberland County, Kentucky",6706,21,057,2017,21057
+"Daviess County, Kentucky",100374,21,059,2017,21059
+"Jasper County, Indiana",33447,18,073,2017,18073
+"Jay County, Indiana",20945,18,075,2017,18075
+"Jefferson County, Indiana",32089,18,077,2017,18077
+"Jennings County, Indiana",27626,18,079,2017,18079
+"Johnson County, Indiana",153897,18,081,2017,18081
+"Knox County, Indiana",37508,18,083,2017,18083
+"Humboldt County, Iowa",9564,19,091,2017,19091
+"Ida County, Iowa",6865,19,093,2017,19093
+"Iowa County, Iowa",16103,19,095,2017,19095
+"Jackson County, Iowa",19366,19,097,2017,19097
+"Jasper County, Iowa",36966,19,099,2017,19099
+"Jefferson County, Iowa",18422,19,101,2017,19101
+"Logan County, Kansas",2821,20,109,2017,20109
+"Lyon County, Kansas",33392,20,111,2017,20111
+"McPherson County, Kansas",28708,20,113,2017,20113
+"Marion County, Kansas",11986,20,115,2017,20115
+"Marshall County, Kansas",9745,20,117,2017,20117
+"Meade County, Kansas",4303,20,119,2017,20119
+"Grayson County, Kentucky",26358,21,085,2017,21085
+"Green County, Kentucky",11065,21,087,2017,21087
+"Greenup County, Kentucky",35518,21,089,2017,21089
+"Hancock County, Kentucky",8801,21,091,2017,21091
+"Hardin County, Kentucky",108071,21,093,2017,21093
+"Harlan County, Kentucky",26713,21,095,2017,21095
+"Harrison County, Kentucky",18781,21,097,2017,21097
+"Kosciusko County, Indiana",79206,18,085,2017,18085
+"LaGrange County, Indiana",39303,18,087,2017,18087
+"Lake County, Indiana",485640,18,089,2017,18089
+"LaPorte County, Indiana",110029,18,091,2017,18091
+"Lawrence County, Indiana",45666,18,093,2017,18093
+"Madison County, Indiana",129498,18,095,2017,18095
+"Johnson County, Iowa",149210,19,103,2017,19103
+"Jones County, Iowa",20536,19,105,2017,19105
+"Keokuk County, Iowa",10153,19,107,2017,19107
+"Kossuth County, Iowa",14999,19,109,2017,19109
+"Lee County, Iowa",34295,19,111,2017,19111
+"Linn County, Iowa",224115,19,113,2017,19113
+"Louisa County, Iowa",11184,19,115,2017,19115
+"Miami County, Kansas",33461,20,121,2017,20121
+"Mitchell County, Kansas",6128,20,123,2017,20123
+"Montgomery County, Kansas",32556,20,125,2017,20125
+"Morris County, Kansas",5455,20,127,2017,20127
+"Morton County, Kansas",2740,20,129,2017,20129
+"Nemaha County, Kansas",10118,20,131,2017,20131
+"Larue County, Kentucky",14205,21,123,2017,21123
+"Laurel County, Kentucky",60174,21,125,2017,21125
+"Lawrence County, Kentucky",15719,21,127,2017,21127
+"Lee County, Kentucky",6570,21,129,2017,21129
+"Leslie County, Kentucky",10334,21,131,2017,21131
+"Letcher County, Kentucky",22339,21,133,2017,21133
+"Marion County, Indiana",950082,18,097,2017,18097
+"Marshall County, Indiana",46498,18,099,2017,18099
+"Martin County, Indiana",10215,18,101,2017,18101
+"Miami County, Indiana",35845,18,103,2017,18103
+"Monroe County, Indiana",146986,18,105,2017,18105
+"Montgomery County, Indiana",38525,18,107,2017,18107
+"Morgan County, Indiana",69713,18,109,2017,18109
+"Lucas County, Iowa",8534,19,117,2017,19117
+"Lyon County, Iowa",11792,19,119,2017,19119
+"Madison County, Iowa",16013,19,121,2017,19121
+"Mahaska County, Iowa",22235,19,123,2017,19123
+"Marion County, Iowa",33105,19,125,2017,19125
+"Marshall County, Iowa",40288,19,127,2017,19127
+"Neosho County, Kansas",16015,20,133,2017,20133
+"Ness County, Kansas",2869,20,135,2017,20135
+"Norton County, Kansas",5441,20,137,2017,20137
+"Osage County, Kansas",15772,20,139,2017,20139
+"Osborne County, Kansas",3610,20,141,2017,20141
+"Ottawa County, Kansas",5863,20,143,2017,20143
+"Pawnee County, Kansas",6680,20,145,2017,20145
+"Edmonson County, Kentucky",12226,21,061,2017,21061
+"Elliott County, Kentucky",7523,21,063,2017,21063
+"Estill County, Kentucky",14277,21,065,2017,21065
+"Fayette County, Kentucky",321959,21,067,2017,21067
+"Fleming County, Kentucky",14446,21,069,2017,21069
+"Floyd County, Kentucky",36271,21,071,2017,21071
+"Newton County, Indiana",14130,18,111,2017,18111
+"Noble County, Indiana",47452,18,113,2017,18113
+"Ohio County, Indiana",5828,18,115,2017,18115
+"Orange County, Indiana",19426,18,117,2017,18117
+"Owen County, Indiana",20839,18,119,2017,18119
+"Parke County, Indiana",16886,18,121,2017,18121
+"Mills County, Iowa",15068,19,129,2017,19129
+"Mitchell County, Iowa",10631,19,131,2017,19131
+"Monona County, Iowa",8740,19,133,2017,19133
+"Monroe County, Iowa",7845,19,135,2017,19135
+"Montgomery County, Iowa",10137,19,137,2017,19137
+"Muscatine County, Iowa",42880,19,139,2017,19139
+"Phillips County, Kansas",5370,20,147,2017,20147
+"Pottawatomie County, Kansas",23908,20,149,2017,20149
+"Pratt County, Kansas",9547,20,151,2017,20151
+"Rawlins County, Kansas",2497,20,153,2017,20153
+"Reno County, Kansas",62510,20,155,2017,20155
+"Republic County, Kansas",4691,20,157,2017,20157
+"Hart County, Kentucky",18757,21,099,2017,21099
+"Henderson County, Kentucky",45928,21,101,2017,21101
+"Henry County, Kentucky",16006,21,103,2017,21103
+"Hickman County, Kentucky",4520,21,105,2017,21105
+"Hopkins County, Kentucky",45547,21,107,2017,21107
+"Jackson County, Kentucky",13431,21,109,2017,21109
+"Perry County, Indiana",19081,18,123,2017,18123
+"Pike County, Indiana",12365,18,125,2017,18125
+"Porter County, Indiana",168404,18,127,2017,18127
+"Posey County, Indiana",25595,18,129,2017,18129
+"Pulaski County, Indiana",12534,18,131,2017,18131
+"Putnam County, Indiana",37702,18,133,2017,18133
+"O'Brien County, Iowa",13801,19,141,2017,19141
+"Osceola County, Iowa",6045,19,143,2017,19143
+"Page County, Iowa",15224,19,145,2017,19145
+"Palo Alto County, Iowa",9092,19,147,2017,19147
+"Plymouth County, Iowa",25220,19,149,2017,19149
+"Pocahontas County, Iowa",6846,19,151,2017,19151
+"Polk County, Iowa",481830,19,153,2017,19153
+"Rice County, Kansas",9660,20,159,2017,20159
+"Riley County, Kansas",74172,20,161,2017,20161
+"Rooks County, Kansas",5043,20,163,2017,20163
+"Rush County, Kansas",3103,20,165,2017,20165
+"Russell County, Kansas",6915,20,167,2017,20167
+"Saline County, Kansas",54734,20,169,2017,20169
+"Lewis County, Kentucky",13339,21,135,2017,21135
+"Lincoln County, Kentucky",24456,21,137,2017,21137
+"Livingston County, Kentucky",9269,21,139,2017,21139
+"Logan County, Kentucky",27060,21,141,2017,21141
+"Lyon County, Kentucky",8082,21,143,2017,21143
+"McCracken County, Kentucky",65385,21,145,2017,21145
+"Randolph County, Indiana",24922,18,135,2017,18135
+"Ripley County, Indiana",28442,18,137,2017,18137
+"Rush County, Indiana",16645,18,139,2017,18139
+"St. Joseph County, Indiana",270434,18,141,2017,18141
+"Scott County, Indiana",23870,18,143,2017,18143
+"Shelby County, Indiana",44395,18,145,2017,18145
+"Pottawattamie County, Iowa",93386,19,155,2017,19155
+"Poweshiek County, Iowa",18314,19,157,2017,19157
+"Ringgold County, Iowa",5034,19,159,2017,19159
+"Sac County, Iowa",9817,19,161,2017,19161
+"Scott County, Iowa",172509,19,163,2017,19163
+"Shelby County, Iowa",11628,19,165,2017,19165
+"Scott County, Kansas",4961,20,171,2017,20171
+"Sedgwick County, Kansas",513687,20,173,2017,20173
+"Seward County, Kansas",22159,20,175,2017,20175
+"Shawnee County, Kansas",178187,20,177,2017,20177
+"Sheridan County, Kansas",2527,20,179,2017,20179
+"Sherman County, Kansas",5930,20,181,2017,20181
+"Smith County, Kansas",3668,20,183,2017,20183
+"Pulaski County, Illinois",5509,17,153,2017,17153
+"Putnam County, Illinois",5727,17,155,2017,17155
+"Randolph County, Illinois",32423,17,157,2017,17157
+"Richland County, Illinois",15901,17,159,2017,17159
+"Rock Island County, Illinois",144808,17,161,2017,17161
+"St. Clair County, Illinois",262479,17,163,2017,17163
+"Spencer County, Indiana",20394,18,147,2017,18147
+"Starke County, Indiana",22893,18,149,2017,18149
+"Steuben County, Indiana",34484,18,151,2017,18151
+"Sullivan County, Indiana",20746,18,153,2017,18153
+"Switzerland County, Indiana",10696,18,155,2017,18155
+"Tippecanoe County, Indiana",190587,18,157,2017,18157
+"Tipton County, Indiana",15128,18,159,2017,18159
+"Sioux County, Iowa",34860,19,167,2017,19167
+"Story County, Iowa",97502,19,169,2017,19169
+"Tama County, Iowa",17058,19,171,2017,19171
+"Taylor County, Iowa",6178,19,173,2017,19173
+"Union County, Iowa",12450,19,175,2017,19175
+"Van Buren County, Iowa",7157,19,177,2017,19177
+"Wapello County, Iowa",35044,19,179,2017,19179
+"Stafford County, Kansas",4207,20,185,2017,20185
+"Stanton County, Kansas",2060,20,187,2017,20187
+"Stevens County, Kansas",5612,20,189,2017,20189
+"Sumner County, Kansas",23159,20,191,2017,20191
+"Thomas County, Kansas",7788,20,193,2017,20193
+"Trego County, Kansas",2884,20,195,2017,20195
+"Saline County, Illinois",24102,17,165,2017,17165
+"Sangamon County, Illinois",196452,17,167,2017,17167
+"Schuyler County, Illinois",7035,17,169,2017,17169
+"Scott County, Illinois",5002,17,171,2017,17171
+"Shelby County, Illinois",21719,17,173,2017,17173
+"Stark County, Illinois",5434,17,175,2017,17175
+"Stephenson County, Illinois",45054,17,177,2017,17177
+"Union County, Indiana",7200,18,161,2017,18161
+"Vanderburgh County, Indiana",181616,18,163,2017,18163
+"Vermillion County, Indiana",15505,18,165,2017,18165
+"Vigo County, Indiana",107516,18,167,2017,18167
+"Wabash County, Indiana",31443,18,169,2017,18169
+"Warren County, Indiana",8201,18,171,2017,18171
+"Warren County, Iowa",50163,19,181,2017,19181
+"Washington County, Iowa",22281,19,183,2017,19183
+"Wayne County, Iowa",6476,19,185,2017,19185
+"Webster County, Iowa",36605,19,187,2017,19187
+"Winnebago County, Iowa",10587,19,189,2017,19189
+"Winneshiek County, Iowa",20201,19,191,2017,19191
+"Slope County, North Dakota",771,38,087,2017,38087
+"Stark County, North Dakota",30209,38,089,2017,38089
+"Steele County, North Dakota",1917,38,091,2017,38091
+"Stutsman County, North Dakota",21087,38,093,2017,38093
+"Towner County, North Dakota",2253,38,095,2017,38095
+"Traill County, North Dakota",8013,38,097,2017,38097
+"Beaver County, Oklahoma",5315,40,007,2017,40007
+"Beckham County, Oklahoma",21793,40,009,2017,40009
+"Blaine County, Oklahoma",9498,40,011,2017,40011
+"Bryan County, Oklahoma",46319,40,013,2017,40013
+"Caddo County, Oklahoma",29173,40,015,2017,40015
+"Canadian County, Oklahoma",139926,40,017,2017,40017
+"Monroe County, New York",747642,36,055,2017,36055
+"Montgomery County, New York",49258,36,057,2017,36057
+"Nassau County, New York",1369514,36,059,2017,36059
+"New York County, New York",1664727,36,061,2017,36061
+"Niagara County, New York",211328,36,063,2017,36063
+"Oneida County, New York",231332,36,065,2017,36065
+"Lincoln County, North Carolina",82403,37,109,2017,37109
+"McDowell County, North Carolina",45159,37,111,2017,37111
+"Macon County, North Carolina",34732,37,113,2017,37113
+"Madison County, North Carolina",21746,37,115,2017,37115
+"Martin County, North Carolina",22789,37,117,2017,37117
+"Mecklenburg County, North Carolina",1076837,37,119,2017,37119
+"Walsh County, North Dakota",10855,38,099,2017,38099
+"Ward County, North Dakota",68946,38,101,2017,38101
+"Wells County, North Dakota",4022,38,103,2017,38103
+"Williams County, North Dakota",33349,38,105,2017,38105
+"Adams County, Ohio",27726,39,001,2017,39001
+"Allen County, Ohio",103198,39,003,2017,39003
+"Carter County, Oklahoma",48190,40,019,2017,40019
+"Cherokee County, Oklahoma",48888,40,021,2017,40021
+"Choctaw County, Oklahoma",14863,40,023,2017,40023
+"Cimarron County, Oklahoma",2154,40,025,2017,40025
+"Cleveland County, Oklahoma",279641,40,027,2017,40027
+"Coal County, Oklahoma",5642,40,029,2017,40029
+"Onondaga County, New York",465398,36,067,2017,36067
+"Ontario County, New York",109899,36,069,2017,36069
+"Orange County, New York",382226,36,071,2017,36071
+"Orleans County, New York",40983,36,073,2017,36073
+"Oswego County, New York",118478,36,075,2017,36075
+"Otsego County, New York",60094,36,077,2017,36077
+"Mitchell County, North Carolina",15072,37,121,2017,37121
+"Montgomery County, North Carolina",27435,37,123,2017,37123
+"Moore County, North Carolina",97264,37,125,2017,37125
+"Nash County, North Carolina",93991,37,127,2017,37127
+"New Hanover County, North Carolina",227198,37,129,2017,37129
+"Northampton County, North Carolina",19862,37,131,2017,37131
+"Ashland County, Ohio",53628,39,005,2017,39005
+"Ashtabula County, Ohio",97807,39,007,2017,39007
+"Athens County, Ohio",66597,39,009,2017,39009
+"Auglaize County, Ohio",45778,39,011,2017,39011
+"Belmont County, Ohio",68029,39,013,2017,39013
+"Brown County, Ohio",43576,39,015,2017,39015
+"Comanche County, Oklahoma",121526,40,031,2017,40031
+"Cotton County, Oklahoma",5823,40,033,2017,40033
+"Craig County, Oklahoma",14327,40,035,2017,40035
+"Creek County, Oklahoma",71704,40,037,2017,40037
+"Custer County, Oklahoma",28800,40,039,2017,40039
+"Delaware County, Oklahoma",42602,40,041,2017,40041
+"Dewey County, Oklahoma",4878,40,043,2017,40043
+"Putnam County, New York",99323,36,079,2017,36079
+"Queens County, New York",2358582,36,081,2017,36081
+"Rensselaer County, New York",159722,36,083,2017,36083
+"Richmond County, New York",479458,36,085,2017,36085
+"Rockland County, New York",328868,36,087,2017,36087
+"St. Lawrence County, New York",109623,36,089,2017,36089
+"Onslow County, North Carolina",193893,37,133,2017,37133
+"Orange County, North Carolina",144946,37,135,2017,37135
+"Pamlico County, North Carolina",12689,37,137,2017,37137
+"Pasquotank County, North Carolina",39743,37,139,2017,37139
+"Pender County, North Carolina",60958,37,141,2017,37141
+"Butler County, Ohio",380604,39,017,2017,39017
+"Carroll County, Ohio",27385,39,019,2017,39019
+"Champaign County, Ohio",38840,39,021,2017,39021
+"Clark County, Ohio",134557,39,023,2017,39023
+"Clermont County, Ohio",204214,39,025,2017,39025
+"Clinton County, Ohio",42009,39,027,2017,39027
+"Columbiana County, Ohio",103077,39,029,2017,39029
+"Ellis County, Oklahoma",3966,40,045,2017,40045
+"Garfield County, Oklahoma",61581,40,047,2017,40047
+"Garvin County, Oklahoma",27909,40,049,2017,40049
+"Grady County, Oklahoma",54943,40,051,2017,40051
+"Grant County, Oklahoma",4395,40,053,2017,40053
+"Greer County, Oklahoma",5843,40,055,2017,40055
+"Saratoga County, New York",229869,36,091,2017,36091
+"Schenectady County, New York",155565,36,093,2017,36093
+"Schoharie County, New York",31420,36,095,2017,36095
+"Schuyler County, New York",18000,36,097,2017,36097
+"Seneca County, New York",34498,36,099,2017,36099
+"Steuben County, New York",96281,36,101,2017,36101
+"Perquimans County, North Carolina",13474,37,143,2017,37143
+"Person County, North Carolina",39370,37,145,2017,37145
+"Pitt County, North Carolina",179042,37,147,2017,37147
+"Polk County, North Carolina",20558,37,149,2017,37149
+"Randolph County, North Carolina",143282,37,151,2017,37151
+"Richmond County, North Carolina",44798,37,153,2017,37153
+"Coshocton County, Ohio",36544,39,031,2017,39031
+"Crawford County, Ohio",41746,39,033,2017,39033
+"Cuyahoga County, Ohio",1248514,39,035,2017,39035
+"Darke County, Ohio",51536,39,037,2017,39037
+"Defiance County, Ohio",38156,39,039,2017,39039
+"Delaware County, Ohio",200464,39,041,2017,39041
+"Harmon County, Oklahoma",2689,40,057,2017,40057
+"Harper County, Oklahoma",3808,40,059,2017,40059
+"Haskell County, Oklahoma",12763,40,061,2017,40061
+"Hughes County, Oklahoma",13302,40,063,2017,40063
+"Jackson County, Oklahoma",25125,40,065,2017,40065
+"Jefferson County, Oklahoma",6183,40,067,2017,40067
+"Suffolk County, New York",1492953,36,103,2017,36103
+"Sullivan County, New York",75485,36,105,2017,36105
+"Tioga County, New York",48578,36,107,2017,36107
+"Tompkins County, New York",104802,36,109,2017,36109
+"Ulster County, New York",179417,36,111,2017,36111
+"Warren County, New York",64532,36,113,2017,36113
+"Robeson County, North Carolina",132606,37,155,2017,37155
+"Rockingham County, North Carolina",90949,37,157,2017,37157
+"Rowan County, North Carolina",140644,37,159,2017,37159
+"Rutherford County, North Carolina",66551,37,161,2017,37161
+"Sampson County, North Carolina",63430,37,163,2017,37163
+"Scotland County, North Carolina",35093,37,165,2017,37165
+"Erie County, Ohio",74817,39,043,2017,39043
+"Fairfield County, Ohio",154733,39,045,2017,39045
+"Fayette County, Ohio",28752,39,047,2017,39047
+"Franklin County, Ohio",1291981,39,049,2017,39049
+"Fulton County, Ohio",42289,39,051,2017,39051
+"Gallia County, Ohio",29973,39,053,2017,39053
+"Johnston County, Oklahoma",11060,40,069,2017,40069
+"Kay County, Oklahoma",44544,40,071,2017,40071
+"Kingfisher County, Oklahoma",15669,40,073,2017,40073
+"Kiowa County, Oklahoma",8893,40,075,2017,40075
+"Latimer County, Oklahoma",10411,40,077,2017,40077
+"Le Flore County, Oklahoma",49731,40,079,2017,40079
+"Washington County, New York",61620,36,115,2017,36115
+"Wayne County, New York",90670,36,117,2017,36117
+"Westchester County, New York",980244,36,119,2017,36119
+"Wyoming County, New York",40493,36,121,2017,36121
+"Yates County, New York",24955,36,123,2017,36123
+"Alamance County, North Carolina",162391,37,001,2017,37001
+"Stanly County, North Carolina",61482,37,167,2017,37167
+"Stokes County, North Carolina",45717,37,169,2017,37169
+"Surry County, North Carolina",72224,37,171,2017,37171
+"Swain County, North Carolina",14294,37,173,2017,37173
+"Transylvania County, North Carolina",33956,37,175,2017,37175
+"Tyrrell County, North Carolina",4052,37,177,2017,37177
+"Geauga County, Ohio",93918,39,055,2017,39055
+"Greene County, Ohio",166752,39,057,2017,39057
+"Guernsey County, Ohio",39093,39,059,2017,39059
+"Hamilton County, Ohio",813822,39,061,2017,39061
+"Hancock County, Ohio",75754,39,063,2017,39063
+"Hardin County, Ohio",31364,39,065,2017,39065
+"Harrison County, Ohio",15216,39,067,2017,39067
+"Lincoln County, Oklahoma",35142,40,081,2017,40081
+"Logan County, Oklahoma",46784,40,083,2017,40083
+"Love County, Oklahoma",10034,40,085,2017,40085
+"McClain County, Oklahoma",39343,40,087,2017,40087
+"McCurtain County, Oklahoma",32808,40,089,2017,40089
+"McIntosh County, Oklahoma",19742,40,091,2017,40091
+"Alexander County, North Carolina",37286,37,003,2017,37003
+"Alleghany County, North Carolina",11031,37,005,2017,37005
+"Anson County, North Carolina",24991,37,007,2017,37007
+"Ashe County, North Carolina",26957,37,009,2017,37009
+"Avery County, North Carolina",17536,37,011,2017,37011
+"Beaufort County, North Carolina",47088,37,013,2017,37013
+"Union County, North Carolina",231366,37,179,2017,37179
+"Vance County, North Carolina",44211,37,181,2017,37181
+"Wake County, North Carolina",1072203,37,183,2017,37183
+"Warren County, North Carolina",19883,37,185,2017,37185
+"Washington County, North Carolina",12012,37,187,2017,37187
+"Watauga County, North Carolina",55121,37,189,2017,37189
+"Henry County, Ohio",27185,39,069,2017,39069
+"Highland County, Ohio",42971,39,071,2017,39071
+"Hocking County, Ohio",28474,39,073,2017,39073
+"Holmes County, Ohio",43957,39,075,2017,39075
+"Huron County, Ohio",58494,39,077,2017,39077
+"Jackson County, Ohio",32449,39,079,2017,39079
+"Major County, Oklahoma",7693,40,093,2017,40093
+"Marshall County, Oklahoma",16434,40,095,2017,40095
+"Mayes County, Oklahoma",40921,40,097,2017,40097
+"Murray County, Oklahoma",13853,40,099,2017,40099
+"Muskogee County, Oklahoma",69086,40,101,2017,40101
+"Noble County, Oklahoma",11277,40,103,2017,40103
+"Nowata County, Oklahoma",10306,40,105,2017,40105
+"Bertie County, North Carolina",19224,37,015,2017,37015
+"Bladen County, North Carolina",33478,37,017,2017,37017
+"Brunswick County, North Carolina",130897,37,019,2017,37019
+"Buncombe County, North Carolina",257607,37,021,2017,37021
+"Burke County, North Carolina",89293,37,023,2017,37023
+"Cabarrus County, North Carolina",206872,37,025,2017,37025
+"Wayne County, North Carolina",124172,37,191,2017,37191
+"Wilkes County, North Carolina",68576,37,193,2017,37193
+"Wilson County, North Carolina",81671,37,195,2017,37195
+"Yadkin County, North Carolina",37774,37,197,2017,37197
+"Yancey County, North Carolina",17744,37,199,2017,37199
+"Adams County, North Dakota",2318,38,001,2017,38001
+"Jefferson County, Ohio",66359,39,081,2017,39081
+"Knox County, Ohio",61261,39,083,2017,39083
+"Lake County, Ohio",230117,39,085,2017,39085
+"Lawrence County, Ohio",60249,39,087,2017,39087
+"Licking County, Ohio",173448,39,089,2017,39089
+"Logan County, Ohio",45325,39,091,2017,39091
+"Okfuskee County, Oklahoma",12140,40,107,2017,40107
+"Oklahoma County, Oklahoma",787958,40,109,2017,40109
+"Okmulgee County, Oklahoma",38930,40,111,2017,40111
+"Osage County, Oklahoma",47233,40,113,2017,40113
+"Ottawa County, Oklahoma",31312,40,115,2017,40115
+"Pawnee County, Oklahoma",16472,40,117,2017,40117
+"Caldwell County, North Carolina",81981,37,027,2017,37027
+"Camden County, North Carolina",10581,37,029,2017,37029
+"Carteret County, North Carolina",68881,37,031,2017,37031
+"Caswell County, North Carolina",22646,37,033,2017,37033
+"Catawba County, North Carolina",157974,37,035,2017,37035
+"Chatham County, North Carolina",71472,37,037,2017,37037
+"Barnes County, North Dakota",10734,38,003,2017,38003
+"Benson County, North Dakota",6936,38,005,2017,38005
+"Billings County, North Dakota",940,38,007,2017,38007
+"Bottineau County, North Dakota",6530,38,009,2017,38009
+"Bowman County, North Dakota",3166,38,011,2017,38011
+"Burke County, North Dakota",2131,38,013,2017,38013
+"Lorain County, Ohio",307924,39,093,2017,39093
+"Lucas County, Ohio",430887,39,095,2017,39095
+"Madison County, Ohio",44036,39,097,2017,39097
+"Mahoning County, Ohio",229796,39,099,2017,39099
+"Marion County, Ohio",64967,39,101,2017,39101
+"Medina County, Ohio",178371,39,103,2017,39103
+"Meigs County, Ohio",23080,39,105,2017,39105
+"Payne County, Oklahoma",81575,40,119,2017,40119
+"Pittsburg County, Oklahoma",44184,40,121,2017,40121
+"Pontotoc County, Oklahoma",38224,40,123,2017,40123
+"Pottawatomie County, Oklahoma",72226,40,125,2017,40125
+"Pushmataha County, Oklahoma",11173,40,127,2017,40127
+"Roger Mills County, Oklahoma",3716,40,129,2017,40129
+"Cherokee County, North Carolina",28087,37,039,2017,37039
+"Chowan County, North Carolina",14105,37,041,2017,37041
+"Clay County, North Carolina",11074,37,043,2017,37043
+"Cleveland County, North Carolina",97334,37,045,2017,37045
+"Columbus County, North Carolina",55936,37,047,2017,37047
+"Craven County, North Carolina",102578,37,049,2017,37049
+"Burleigh County, North Dakota",95030,38,015,2017,38015
+"Cass County, North Dakota",177787,38,017,2017,38017
+"Cavalier County, North Dakota",3762,38,019,2017,38019
+"Dickey County, North Dakota",4861,38,021,2017,38021
+"Divide County, North Dakota",2288,38,023,2017,38023
+"Dunn County, North Dakota",4289,38,025,2017,38025
+"Mercer County, Ohio",40873,39,107,2017,39107
+"Miami County, Ohio",105122,39,109,2017,39109
+"Monroe County, Ohio",13946,39,111,2017,39111
+"Montgomery County, Ohio",531542,39,113,2017,39113
+"Morgan County, Ohio",14709,39,115,2017,39115
+"Morrow County, Ohio",34994,39,117,2017,39117
+"Rogers County, Oklahoma",91444,40,131,2017,40131
+"Seminole County, Oklahoma",24878,40,133,2017,40133
+"Sequoyah County, Oklahoma",41252,40,135,2017,40135
+"Stephens County, Oklahoma",43332,40,137,2017,40137
+"Texas County, Oklahoma",20900,40,139,2017,40139
+"Tillman County, Oklahoma",7433,40,141,2017,40141
+"Cumberland County, North Carolina",332546,37,051,2017,37051
+"Currituck County, North Carolina",26331,37,053,2017,37053
+"Dare County, North Carolina",36099,37,055,2017,37055
+"Davidson County, North Carolina",165466,37,057,2017,37057
+"Davie County, North Carolina",42456,37,059,2017,37059
+"Duplin County, North Carolina",59039,37,061,2017,37061
+"Eddy County, North Dakota",2316,38,027,2017,38027
+"Emmons County, North Dakota",3301,38,029,2017,38029
+"Foster County, North Dakota",3257,38,031,2017,38031
+"Golden Valley County, North Dakota",1789,38,033,2017,38033
+"Grand Forks County, North Dakota",70795,38,035,2017,38035
+"Grant County, North Dakota",2376,38,037,2017,38037
+"Muskingum County, Ohio",86149,39,119,2017,39119
+"Noble County, Ohio",14406,39,121,2017,39121
+"Ottawa County, Ohio",40657,39,123,2017,39123
+"Paulding County, Ohio",18845,39,125,2017,39125
+"Perry County, Ohio",36024,39,127,2017,39127
+"Pickaway County, Ohio",57830,39,129,2017,39129
+"Pike County, Ohio",28270,39,131,2017,39131
+"Tulsa County, Oklahoma",646266,40,143,2017,40143
+"Wagoner County, Oklahoma",78657,40,145,2017,40145
+"Washington County, Oklahoma",51932,40,147,2017,40147
+"Washita County, Oklahoma",11134,40,149,2017,40149
+"Woods County, Oklahoma",9031,40,151,2017,40151
+"Woodward County, Oklahoma",20459,40,153,2017,40153
+"Durham County, North Carolina",311640,37,063,2017,37063
+"Edgecombe County, North Carolina",52747,37,065,2017,37065
+"Forsyth County, North Carolina",376320,37,067,2017,37067
+"Franklin County, North Carolina",66168,37,069,2017,37069
+"Gaston County, North Carolina",220182,37,071,2017,37071
+"Griggs County, North Dakota",2258,38,039,2017,38039
+"Hettinger County, North Dakota",2483,38,041,2017,38041
+"Kidder County, North Dakota",2482,38,043,2017,38043
+"LaMoure County, North Dakota",4087,38,045,2017,38045
+"Logan County, North Dakota",1918,38,047,2017,38047
+"McHenry County, North Dakota",5900,38,049,2017,38049
+"Portage County, Ohio",162277,39,133,2017,39133
+"Preble County, Ohio",41120,39,135,2017,39135
+"Putnam County, Ohio",33878,39,137,2017,39137
+"Richland County, Ohio",120589,39,139,2017,39139
+"Ross County, Ohio",77313,39,141,2017,39141
+"Sandusky County, Ohio",59195,39,143,2017,39143
+"Baker County, Oregon",16054,41,001,2017,41001
+"Benton County, Oregon",90951,41,003,2017,41003
+"Clackamas County, Oregon",412672,41,005,2017,41005
+"Clatsop County, Oregon",39182,41,007,2017,41007
+"Columbia County, Oregon",51782,41,009,2017,41009
+"Coos County, Oregon",63888,41,011,2017,41011
+"Crook County, Oregon",23123,41,013,2017,41013
+"Gates County, North Carolina",11544,37,073,2017,37073
+"Graham County, North Carolina",8541,37,075,2017,37075
+"Granville County, North Carolina",59557,37,077,2017,37077
+"Greene County, North Carolina",21015,37,079,2017,37079
+"Guilford County, North Carolina",526953,37,081,2017,37081
+"Halifax County, North Carolina",51310,37,083,2017,37083
+"McIntosh County, North Dakota",2606,38,051,2017,38051
+"McKenzie County, North Dakota",12724,38,053,2017,38053
+"McLean County, North Dakota",9685,38,055,2017,38055
+"Mercer County, North Dakota",8465,38,057,2017,38057
+"Morton County, North Dakota",30796,38,059,2017,38059
+"Mountrail County, North Dakota",10265,38,061,2017,38061
+"Scioto County, Ohio",75929,39,145,2017,39145
+"Seneca County, Ohio",55243,39,147,2017,39147
+"Shelby County, Ohio",48759,39,149,2017,39149
+"Stark County, Ohio",372542,39,151,2017,39151
+"Summit County, Ohio",541228,39,153,2017,39153
+"Trumbull County, Ohio",200380,39,155,2017,39155
+"Curry County, Oregon",22669,41,015,2017,41015
+"Deschutes County, Oregon",186875,41,017,2017,41017
+"Douglas County, Oregon",109405,41,019,2017,41019
+"Gilliam County, Oregon",1855,41,021,2017,41021
+"Grant County, Oregon",7190,41,023,2017,41023
+"Harney County, Oregon",7289,41,025,2017,41025
+"Harnett County, North Carolina",132754,37,085,2017,37085
+"Haywood County, North Carolina",61084,37,087,2017,37087
+"Henderson County, North Carolina",115708,37,089,2017,37089
+"Hertford County, North Carolina",23906,37,091,2017,37091
+"Hoke County, North Carolina",54116,37,093,2017,37093
+"Hyde County, North Carolina",5363,37,095,2017,37095
+"Nelson County, North Dakota",2937,38,063,2017,38063
+"Oliver County, North Dakota",1940,38,065,2017,38065
+"Pembina County, North Dakota",6972,38,067,2017,38067
+"Pierce County, North Dakota",4099,38,069,2017,38069
+"Ramsey County, North Dakota",11519,38,071,2017,38071
+"Ransom County, North Dakota",5297,38,073,2017,38073
+"Tuscarawas County, Ohio",92297,39,157,2017,39157
+"Union County, Ohio",56741,39,159,2017,39159
+"Van Wert County, Ohio",28217,39,161,2017,39161
+"Vinton County, Ohio",13092,39,163,2017,39163
+"Warren County, Ohio",228882,39,165,2017,39165
+"Washington County, Ohio",60418,39,167,2017,39167
+"Wayne County, Ohio",116038,39,169,2017,39169
+"Essex County, New York",37956,36,031,2017,36031
+"Franklin County, New York",51116,36,033,2017,36033
+"Fulton County, New York",53877,36,035,2017,36035
+"Genesee County, New York",57956,36,037,2017,36037
+"Greene County, New York",47470,36,039,2017,36039
+"Hamilton County, New York",4485,36,041,2017,36041
+"Iredell County, North Carolina",175711,37,097,2017,37097
+"Jackson County, North Carolina",42973,37,099,2017,37099
+"Johnston County, North Carolina",196708,37,101,2017,37101
+"Jones County, North Carolina",9597,37,103,2017,37103
+"Lee County, North Carolina",60430,37,105,2017,37105
+"Lenoir County, North Carolina",56883,37,107,2017,37107
+"Renville County, North Dakota",2463,38,075,2017,38075
+"Richland County, North Dakota",16351,38,077,2017,38077
+"Rolette County, North Dakota",14531,38,079,2017,38079
+"Sargent County, North Dakota",3858,38,081,2017,38081
+"Sheridan County, North Dakota",1353,38,083,2017,38083
+"Sioux County, North Dakota",4376,38,085,2017,38085
+"Williams County, Ohio",36784,39,171,2017,39171
+"Wood County, Ohio",130492,39,173,2017,39173
+"Wyandot County, Ohio",22029,39,175,2017,39175
+"Adair County, Oklahoma",21909,40,001,2017,40001
+"Alfalfa County, Oklahoma",5907,40,003,2017,40003
+"Atoka County, Oklahoma",13887,40,005,2017,40005
+"Herkimer County, New York",62240,36,043,2017,36043
+"Jefferson County, New York",114187,36,045,2017,36045
+"Kings County, New York",2648771,36,047,2017,36047
+"Lewis County, New York",26551,36,049,2017,36049
+"Livingston County, New York",63799,36,051,2017,36051
+"Madison County, New York",70965,36,053,2017,36053
+"Blaine County, Nebraska",482,31,009,2017,31009
+"Boone County, Nebraska",5352,31,011,2017,31011
+"Box Butte County, Nebraska",10886,31,013,2017,31013
+"Boyd County, Nebraska",1977,31,015,2017,31015
+"Brown County, Nebraska",3014,31,017,2017,31017
+"Buffalo County, Nebraska",49732,31,019,2017,31019
+"Nye County, Nevada",44202,32,023,2017,32023
+"Pershing County, Nevada",6508,32,027,2017,32027
+"Storey County, Nevada",4006,32,029,2017,32029
+"Washoe County, Nevada",460587,32,031,2017,32031
+"White Pine County, Nevada",9592,32,033,2017,32033
+"Carson City, Nevada",54745,32,510,2017,32510
+"Rankin County, Mississippi",152080,28,121,2017,28121
+"Scott County, Mississippi",28420,28,123,2017,28123
+"Sharkey County, Mississippi",4435,28,125,2017,28125
+"Simpson County, Mississippi",26947,28,127,2017,28127
+"Smith County, Mississippi",16078,28,129,2017,28129
+"Stone County, Mississippi",18112,28,131,2017,28131
+"Ozark County, Missouri",9186,29,153,2017,29153
+"Pemiscot County, Missouri",16826,29,155,2017,29155
+"Perry County, Missouri",19225,29,157,2017,29157
+"Pettis County, Missouri",42558,29,159,2017,29159
+"Phelps County, Missouri",44744,29,161,2017,29161
+"Pike County, Missouri",18567,29,163,2017,29163
+"Burt County, Nebraska",6535,31,021,2017,31021
+"Butler County, Nebraska",8053,31,023,2017,31023
+"Cass County, Nebraska",25889,31,025,2017,31025
+"Cedar County, Nebraska",8530,31,027,2017,31027
+"Chase County, Nebraska",3971,31,029,2017,31029
+"Cherry County, Nebraska",5818,31,031,2017,31031
+"Cheyenne County, Nebraska",9676,31,033,2017,31033
+"Belknap County, New Hampshire",60785,33,001,2017,33001
+"Carroll County, New Hampshire",48064,33,003,2017,33003
+"Cheshire County, New Hampshire",75960,33,005,2017,33005
+"Coos County, New Hampshire",31634,33,007,2017,33007
+"Grafton County, New Hampshire",89386,33,009,2017,33009
+"Hillsborough County, New Hampshire",409697,33,011,2017,33011
+"Sunflower County, Mississippi",25981,28,133,2017,28133
+"Tallahatchie County, Mississippi",14125,28,135,2017,28135
+"Tate County, Mississippi",28441,28,137,2017,28137
+"Tippah County, Mississippi",21969,28,139,2017,28139
+"Tishomingo County, Mississippi",19542,28,141,2017,28141
+"Tunica County, Mississippi",10024,28,143,2017,28143
+"Platte County, Missouri",101187,29,165,2017,29165
+"Polk County, Missouri",31794,29,167,2017,29167
+"Pulaski County, Missouri",52059,29,169,2017,29169
+"Putnam County, Missouri",4811,29,171,2017,29171
+"Ralls County, Missouri",10224,29,173,2017,29173
+"Randolph County, Missouri",24945,29,175,2017,29175
+"Ray County, Missouri",22855,29,177,2017,29177
+"Clay County, Nebraska",6205,31,035,2017,31035
+"Colfax County, Nebraska",10585,31,037,2017,31037
+"Cuming County, Nebraska",9042,31,039,2017,31039
+"Custer County, Nebraska",10897,31,041,2017,31041
+"Dakota County, Nebraska",20186,31,043,2017,31043
+"Dawes County, Nebraska",8890,31,045,2017,31045
+"Merrimack County, New Hampshire",149216,33,013,2017,33013
+"Rockingham County, New Hampshire",306363,33,015,2017,33015
+"Strafford County, New Hampshire",128613,33,017,2017,33017
+"Sullivan County, New Hampshire",43077,33,019,2017,33019
+"Atlantic County, New Jersey",269918,34,001,2017,34001
+"Bergen County, New Jersey",948406,34,003,2017,34003
+"Union County, Mississippi",28556,28,145,2017,28145
+"Walthall County, Mississippi",14499,28,147,2017,28147
+"Warren County, Mississippi",46768,28,149,2017,28149
+"Washington County, Mississippi",46221,28,151,2017,28151
+"Wayne County, Mississippi",20446,28,153,2017,28153
+"Webster County, Mississippi",9765,28,155,2017,28155
+"Reynolds County, Missouri",6275,29,179,2017,29179
+"Ripley County, Missouri",13564,29,181,2017,29181
+"St. Charles County, Missouri",395504,29,183,2017,29183
+"St. Clair County, Missouri",9362,29,185,2017,29185
+"Ste. Genevieve County, Missouri",17843,29,186,2017,29186
+"St. Francois County, Missouri",66705,29,187,2017,29187
+"Dawson County, Nebraska",23709,31,047,2017,31047
+"Deuel County, Nebraska",1883,31,049,2017,31049
+"Dixon County, Nebraska",5754,31,051,2017,31051
+"Dodge County, Nebraska",36707,31,053,2017,31053
+"Douglas County, Nebraska",561620,31,055,2017,31055
+"Dundy County, Nebraska",1801,31,057,2017,31057
+"Burlington County, New Jersey",448596,34,005,2017,34005
+"Camden County, New Jersey",510719,34,007,2017,34007
+"Cape May County, New Jersey",93553,34,009,2017,34009
+"Cumberland County, New Jersey",152538,34,011,2017,34011
+"Essex County, New Jersey",808285,34,013,2017,34013
+"Gloucester County, New Jersey",292206,34,015,2017,34015
+"Wilkinson County, Mississippi",8804,28,157,2017,28157
+"Winston County, Mississippi",18246,28,159,2017,28159
+"Yalobusha County, Mississippi",12497,28,161,2017,28161
+"Yazoo County, Mississippi",27057,28,163,2017,28163
+"Adair County, Missouri",25377,29,001,2017,29001
+"Andrew County, Missouri",17555,29,003,2017,29003
+"St. Louis County, Missouri",996726,29,189,2017,29189
+"Saline County, Missouri",22660,29,195,2017,29195
+"Schuyler County, Missouri",4508,29,197,2017,29197
+"Scotland County, Missouri",4963,29,199,2017,29199
+"Scott County, Missouri",38541,29,201,2017,29201
+"Shannon County, Missouri",8249,29,203,2017,29203
+"Fillmore County, Nebraska",5582,31,059,2017,31059
+"Franklin County, Nebraska",2990,31,061,2017,31061
+"Frontier County, Nebraska",2631,31,063,2017,31063
+"Furnas County, Nebraska",4780,31,065,2017,31065
+"Gage County, Nebraska",21601,31,067,2017,31067
+"Garden County, Nebraska",1906,31,069,2017,31069
+"Hudson County, New Jersey",691643,34,017,2017,34017
+"Hunterdon County, New Jersey",125059,34,019,2017,34019
+"Mercer County, New Jersey",374733,34,021,2017,34021
+"Middlesex County, New Jersey",842798,34,023,2017,34023
+"Monmouth County, New Jersey",626351,34,025,2017,34025
+"Morris County, New Jersey",499693,34,027,2017,34027
+"Atchison County, Missouri",5275,29,005,2017,29005
+"Audrain County, Missouri",25641,29,007,2017,29007
+"Barry County, Missouri",35668,29,009,2017,29009
+"Barton County, Missouri",11850,29,011,2017,29011
+"Bates County, Missouri",16334,29,013,2017,29013
+"Benton County, Missouri",19074,29,015,2017,29015
+"Shelby County, Missouri",6021,29,205,2017,29205
+"Stoddard County, Missouri",29369,29,207,2017,29207
+"Stone County, Missouri",31699,29,209,2017,29209
+"Sullivan County, Missouri",6229,29,211,2017,29211
+"Taney County, Missouri",55355,29,213,2017,29213
+"Texas County, Missouri",25735,29,215,2017,29215
+"Garfield County, Nebraska",2016,31,071,2017,31071
+"Gosper County, Nebraska",2028,31,073,2017,31073
+"Grant County, Nebraska",649,31,075,2017,31075
+"Greeley County, Nebraska",2374,31,077,2017,31077
+"Hall County, Nebraska",61519,31,079,2017,31079
+"Hamilton County, Nebraska",9207,31,081,2017,31081
+"Harlan County, Nebraska",3443,31,083,2017,31083
+"Chenango County, New York",47863,36,017,2017,36017
+"Clinton County, New York",80980,36,019,2017,36019
+"Columbia County, New York",60604,36,021,2017,36021
+"Cortland County, New York",47786,36,023,2017,36023
+"Delaware County, New York",45001,36,025,2017,36025
+"Dutchess County, New York",295568,36,027,2017,36027
+"Erie County, New York",925528,36,029,2017,36029
+"Bollinger County, Missouri",12306,29,017,2017,29017
+"Boone County, Missouri",178271,29,019,2017,29019
+"Buchanan County, Missouri",89065,29,021,2017,29021
+"Butler County, Missouri",42666,29,023,2017,29023
+"Caldwell County, Missouri",9100,29,025,2017,29025
+"Callaway County, Missouri",45032,29,027,2017,29027
+"Camden County, Missouri",45632,29,029,2017,29029
+"Vernon County, Missouri",20437,29,217,2017,29217
+"Warren County, Missouri",34373,29,219,2017,29219
+"Washington County, Missouri",25022,29,221,2017,29221
+"Wayne County, Missouri",13296,29,223,2017,29223
+"Webster County, Missouri",38665,29,225,2017,29225
+"Worth County, Missouri",2057,29,227,2017,29227
+"Hayes County, Nebraska",893,31,085,2017,31085
+"Hitchcock County, Nebraska",2834,31,087,2017,31087
+"Holt County, Nebraska",10202,31,089,2017,31089
+"Hooker County, Nebraska",674,31,091,2017,31091
+"Howard County, Nebraska",6437,31,093,2017,31093
+"Jefferson County, Nebraska",7178,31,095,2017,31095
+"Curry County, New Mexico",49812,35,009,2017,35009
+"De Baca County, New Mexico",1829,35,011,2017,35011
+"Doña Ana County, New Mexico",215579,35,013,2017,35013
+"Eddy County, New Mexico",56997,35,015,2017,35015
+"Grant County, New Mexico",27687,35,017,2017,35017
+"Guadalupe County, New Mexico",4429,35,019,2017,35019
+"Cape Girardeau County, Missouri",78161,29,031,2017,29031
+"Carroll County, Missouri",8796,29,033,2017,29033
+"Carter County, Missouri",6169,29,035,2017,29035
+"Cass County, Missouri",103724,29,037,2017,29037
+"Cedar County, Missouri",14073,29,039,2017,29039
+"Chariton County, Missouri",7480,29,041,2017,29041
+"Wright County, Missouri",18331,29,229,2017,29229
+"St. Louis city, Missouri",308626,29,510,2017,29510
+"Beaverhead County, Montana",9434,30,001,2017,30001
+"Big Horn County, Montana",13360,30,003,2017,30003
+"Blaine County, Montana",6708,30,005,2017,30005
+"Broadwater County, Montana",5936,30,007,2017,30007
+"Johnson County, Nebraska",5185,31,097,2017,31097
+"Kearney County, Nebraska",6530,31,099,2017,31099
+"Keith County, Nebraska",8072,31,101,2017,31101
+"Keya Paha County, Nebraska",793,31,103,2017,31103
+"Kimball County, Nebraska",3619,31,105,2017,31105
+"Knox County, Nebraska",8472,31,107,2017,31107
+"Sandoval County, New Mexico",142507,35,043,2017,35043
+"San Juan County, New Mexico",126926,35,045,2017,35045
+"San Miguel County, New Mexico",27748,35,047,2017,35047
+"Santa Fe County, New Mexico",148750,35,049,2017,35049
+"Sierra County, New Mexico",11116,35,051,2017,35051
+"Socorro County, New Mexico",16798,35,053,2017,35053
+"Christian County, Missouri",85432,29,043,2017,29043
+"Clark County, Missouri",6723,29,045,2017,29045
+"Clay County, Missouri",242874,29,047,2017,29047
+"Clinton County, Missouri",20554,29,049,2017,29049
+"Cole County, Missouri",76708,29,051,2017,29051
+"Cooper County, Missouri",17644,29,053,2017,29053
+"Carbon County, Montana",10696,30,009,2017,30009
+"Carter County, Montana",1222,30,011,2017,30011
+"Cascade County, Montana",81654,30,013,2017,30013
+"Chouteau County, Montana",5765,30,015,2017,30015
+"Custer County, Montana",11721,30,017,2017,30017
+"Daniels County, Montana",1737,30,019,2017,30019
+"Dawson County, Montana",8950,30,021,2017,30021
+"Lancaster County, Nebraska",314358,31,109,2017,31109
+"Lincoln County, Nebraska",35280,31,111,2017,31111
+"Logan County, Nebraska",768,31,113,2017,31113
+"Loup County, Nebraska",609,31,115,2017,31115
+"McPherson County, Nebraska",499,31,117,2017,31117
+"Madison County, Nebraska",35144,31,119,2017,31119
+"Ocean County, New Jersey",597943,34,029,2017,34029
+"Passaic County, New Jersey",512607,34,031,2017,34031
+"Salem County, New Jersey",62792,34,033,2017,34033
+"Somerset County, New Jersey",335432,34,035,2017,34035
+"Sussex County, New Jersey",141682,34,037,2017,34037
+"Union County, New Jersey",563892,34,039,2017,34039
+"Crawford County, Missouri",24102,29,055,2017,29055
+"Dade County, Missouri",7588,29,057,2017,29057
+"Dallas County, Missouri",16673,29,059,2017,29059
+"Daviess County, Missouri",8361,29,061,2017,29061
+"DeKalb County, Missouri",12588,29,063,2017,29063
+"Dent County, Missouri",15480,29,065,2017,29065
+"Deer Lodge County, Montana",9106,30,023,2017,30023
+"Fallon County, Montana",3009,30,025,2017,30025
+"Fergus County, Montana",11291,30,027,2017,30027
+"Flathead County, Montana",100000,30,029,2017,30029
+"Gallatin County, Montana",107810,30,031,2017,30031
+"Garfield County, Montana",1293,30,033,2017,30033
+"Merrick County, Nebraska",7882,31,121,2017,31121
+"Morrill County, Nebraska",4836,31,123,2017,31123
+"Nance County, Nebraska",3607,31,125,2017,31125
+"Nemaha County, Nebraska",6949,31,127,2017,31127
+"Nuckolls County, Nebraska",4275,31,129,2017,31129
+"Otoe County, Nebraska",16027,31,131,2017,31131
+"Harding County, New Mexico",692,35,021,2017,35021
+"Hidalgo County, New Mexico",4305,35,023,2017,35023
+"Lea County, New Mexico",68759,35,025,2017,35025
+"Lincoln County, New Mexico",19395,35,027,2017,35027
+"Los Alamos County, New Mexico",18738,35,028,2017,35028
+"Luna County, New Mexico",24078,35,029,2017,35029
+"Douglas County, Missouri",13300,29,067,2017,29067
+"Dunklin County, Missouri",30119,29,069,2017,29069
+"Franklin County, Missouri",103330,29,071,2017,29071
+"Gasconade County, Missouri",14726,29,073,2017,29073
+"Gentry County, Missouri",6665,29,075,2017,29075
+"Greene County, Missouri",289805,29,077,2017,29077
+"Glacier County, Montana",13640,30,035,2017,30035
+"Golden Valley County, Montana",822,30,037,2017,30037
+"Granite County, Montana",3358,30,039,2017,30039
+"Hill County, Montana",16463,30,041,2017,30041
+"Jefferson County, Montana",11891,30,043,2017,30043
+"Judith Basin County, Montana",1961,30,045,2017,30045
+"Pawnee County, Nebraska",2641,31,133,2017,31133
+"Perkins County, Nebraska",2903,31,135,2017,31135
+"Phelps County, Nebraska",9060,31,137,2017,31137
+"Pierce County, Nebraska",7138,31,139,2017,31139
+"Platte County, Nebraska",33175,31,141,2017,31141
+"Polk County, Nebraska",5328,31,143,2017,31143
+"Red Willow County, Nebraska",10728,31,145,2017,31145
+"Taos County, New Mexico",32795,35,055,2017,35055
+"Torrance County, New Mexico",15506,35,057,2017,35057
+"Union County, New Mexico",4187,35,059,2017,35059
+"Valencia County, New Mexico",75940,35,061,2017,35061
+"Albany County, New York",309612,36,001,2017,36001
+"Allegany County, New York",46894,36,003,2017,36003
+"Grundy County, Missouri",9949,29,079,2017,29079
+"Harrison County, Missouri",8524,29,081,2017,29081
+"Henry County, Missouri",21718,29,083,2017,29083
+"Hickory County, Missouri",9475,29,085,2017,29085
+"Holt County, Missouri",4413,29,087,2017,29087
+"Howard County, Missouri",10139,29,089,2017,29089
+"Lake County, Montana",30273,30,047,2017,30047
+"Lewis and Clark County, Montana",67773,30,049,2017,30049
+"Liberty County, Montana",2427,30,051,2017,30051
+"Lincoln County, Montana",19440,30,053,2017,30053
+"McCone County, Montana",1718,30,055,2017,30055
+"Madison County, Montana",8175,30,057,2017,30057
+"Richardson County, Nebraska",7969,31,147,2017,31147
+"Rock County, Nebraska",1436,31,149,2017,31149
+"Saline County, Nebraska",14441,31,151,2017,31151
+"Sarpy County, Nebraska",181439,31,153,2017,31153
+"Saunders County, Nebraska",21057,31,155,2017,31155
+"Scotts Bluff County, Nebraska",36363,31,157,2017,31157
+"Warren County, New Jersey",106798,34,041,2017,34041
+"Bernalillo County, New Mexico",676773,35,001,2017,35001
+"Catron County, New Mexico",3587,35,003,2017,35003
+"Chaves County, New Mexico",64866,35,005,2017,35005
+"Cibola County, New Mexico",26853,35,006,2017,35006
+"Colfax County, New Mexico",12174,35,007,2017,35007
+"Howell County, Missouri",40103,29,091,2017,29091
+"Iron County, Missouri",10226,29,093,2017,29093
+"Jackson County, Missouri",698895,29,095,2017,29095
+"Jasper County, Missouri",120217,29,097,2017,29097
+"Jefferson County, Missouri",223810,29,099,2017,29099
+"Johnson County, Missouri",53897,29,101,2017,29101
+"Knox County, Missouri",3977,29,103,2017,29103
+"Meagher County, Montana",1851,30,059,2017,30059
+"Mineral County, Montana",4255,30,061,2017,30061
+"Missoula County, Montana",117441,30,063,2017,30063
+"Musselshell County, Montana",4639,30,065,2017,30065
+"Park County, Montana",16353,30,067,2017,30067
+"Petroleum County, Montana",523,30,069,2017,30069
+"Seward County, Nebraska",17161,31,159,2017,31159
+"Sheridan County, Nebraska",5289,31,161,2017,31161
+"Sherman County, Nebraska",3086,31,163,2017,31163
+"Sioux County, Nebraska",1203,31,165,2017,31165
+"Stanton County, Nebraska",5988,31,167,2017,31167
+"Thayer County, Nebraska",5045,31,169,2017,31169
+"McKinley County, New Mexico",72564,35,031,2017,35031
+"Mora County, New Mexico",4551,35,033,2017,35033
+"Otero County, New Mexico",65817,35,035,2017,35035
+"Quay County, New Mexico",8306,35,037,2017,35037
+"Rio Arriba County, New Mexico",39159,35,039,2017,35039
+"Roosevelt County, New Mexico",18847,35,041,2017,35041
+"Laclede County, Missouri",35443,29,105,2017,29105
+"Lafayette County, Missouri",32641,29,107,2017,29107
+"Lawrence County, Missouri",38434,29,109,2017,29109
+"Lewis County, Missouri",9967,29,111,2017,29111
+"Lincoln County, Missouri",56183,29,113,2017,29113
+"Linn County, Missouri",12194,29,115,2017,29115
+"Phillips County, Montana",4119,30,071,2017,30071
+"Pondera County, Montana",5960,30,073,2017,30073
+"Powder River County, Montana",1752,30,075,2017,30075
+"Powell County, Montana",6795,30,077,2017,30077
+"Prairie County, Montana",1109,30,079,2017,30079
+"Ravalli County, Montana",42563,30,081,2017,30081
+"Richland County, Montana",11039,30,083,2017,30083
+"Thomas County, Nebraska",725,31,171,2017,31171
+"Thurston County, Nebraska",7223,31,173,2017,31173
+"Valley County, Nebraska",4209,31,175,2017,31175
+"Washington County, Nebraska",20721,31,177,2017,31177
+"Wayne County, Nebraska",9318,31,179,2017,31179
+"Webster County, Nebraska",3524,31,181,2017,31181
+"Bronx County, New York",1471160,36,005,2017,36005
+"Broome County, New York",193639,36,007,2017,36007
+"Cattaraugus County, New York",77348,36,009,2017,36009
+"Cayuga County, New York",77603,36,011,2017,36011
+"Chautauqua County, New York",129046,36,013,2017,36013
+"Chemung County, New York",85557,36,015,2017,36015
+"Livingston County, Missouri",15173,29,117,2017,29117
+"McDonald County, Missouri",22828,29,119,2017,29119
+"Macon County, Missouri",15251,29,121,2017,29121
+"Madison County, Missouri",12243,29,123,2017,29123
+"Maries County, Missouri",8867,29,125,2017,29125
+"Marion County, Missouri",28634,29,127,2017,29127
+"Roosevelt County, Montana",11098,30,085,2017,30085
+"Rosebud County, Montana",9248,30,087,2017,30087
+"Sanders County, Montana",11711,30,089,2017,30089
+"Sheridan County, Montana",3469,30,091,2017,30091
+"Silver Bow County, Montana",34602,30,093,2017,30093
+"Stillwater County, Montana",9419,30,095,2017,30095
+"Wheeler County, Nebraska",818,31,183,2017,31183
+"York County, Nebraska",13806,31,185,2017,31185
+"Churchill County, Nevada",24230,32,001,2017,32001
+"Clark County, Nevada",2204079,32,003,2017,32003
+"Douglas County, Nevada",48309,32,005,2017,32005
+"Elko County, Nevada",52649,32,007,2017,32007
+"Montgomery County, Mississippi",10173,28,097,2017,28097
+"Neshoba County, Mississippi",29369,28,099,2017,28099
+"Newton County, Mississippi",21185,28,101,2017,28101
+"Noxubee County, Mississippi",10742,28,103,2017,28103
+"Oktibbeha County, Mississippi",49799,28,105,2017,28105
+"Panola County, Mississippi",33994,28,107,2017,28107
+"Mercer County, Missouri",3678,29,129,2017,29129
+"Miller County, Missouri",25228,29,131,2017,29131
+"Mississippi County, Missouri",13586,29,133,2017,29133
+"Moniteau County, Missouri",16063,29,135,2017,29135
+"Monroe County, Missouri",8612,29,137,2017,29137
+"Montgomery County, Missouri",11438,29,139,2017,29139
+"Sweet Grass County, Montana",3691,30,097,2017,30097
+"Teton County, Montana",6085,30,099,2017,30099
+"Toole County, Montana",4886,30,101,2017,30101
+"Treasure County, Montana",679,30,103,2017,30103
+"Valley County, Montana",7433,30,105,2017,30105
+"Wheatland County, Montana",2140,30,107,2017,30107
+"Esmeralda County, Nevada",850,32,009,2017,32009
+"Eureka County, Nevada",1961,32,011,2017,32011
+"Humboldt County, Nevada",16826,32,013,2017,32013
+"Lander County, Nevada",5693,32,015,2017,32015
+"Lincoln County, Nevada",5223,32,017,2017,32017
+"Lyon County, Nevada",54122,32,019,2017,32019
+"Mineral County, Nevada",4457,32,021,2017,32021
+"Pearl River County, Mississippi",55270,28,109,2017,28109
+"Perry County, Mississippi",12032,28,111,2017,28111
+"Pike County, Mississippi",39468,28,113,2017,28113
+"Pontotoc County, Mississippi",31640,28,115,2017,28115
+"Prentiss County, Mississippi",25261,28,117,2017,28117
+"Quitman County, Mississippi",7269,28,119,2017,28119
+"Morgan County, Missouri",20145,29,141,2017,29141
+"New Madrid County, Missouri",17582,29,143,2017,29143
+"Newton County, Missouri",58290,29,145,2017,29145
+"Nodaway County, Missouri",22472,29,147,2017,29147
+"Oregon County, Missouri",10558,29,149,2017,29149
+"Osage County, Missouri",13662,29,151,2017,29151
+"Wibaux County, Montana",1020,30,109,2017,30109
+"Yellowstone County, Montana",158980,30,111,2017,30111
+"Adams County, Nebraska",31678,31,001,2017,31001
+"Antelope County, Nebraska",6362,31,003,2017,31003
+"Arthur County, Nebraska",457,31,005,2017,31005
+"Banner County, Nebraska",742,31,007,2017,31007
+"Lamoille County, Vermont",25337,50,015,2017,50015
+"Orange County, Vermont",28974,50,017,2017,50017
+"Orleans County, Vermont",26841,50,019,2017,50019
+"Rutland County, Vermont",59087,50,021,2017,50021
+"Washington County, Vermont",58290,50,023,2017,50023
+"Windham County, Vermont",42869,50,025,2017,50025
+"Washington County, Virginia",54387,51,191,2017,51191
+"Westmoreland County, Virginia",17780,51,193,2017,51193
+"Wise County, Virginia",38586,51,195,2017,51195
+"Wythe County, Virginia",28882,51,197,2017,51197
+"York County, Virginia",67739,51,199,2017,51199
+"Alexandria city, Virginia",160035,51,510,2017,51510
+"Harris County, Texas",4652980,48,201,2017,48201
+"Harrison County, Texas",66661,48,203,2017,48203
+"Hartley County, Texas",5691,48,205,2017,48205
+"Haskell County, Texas",5746,48,207,2017,48207
+"Hays County, Texas",214485,48,209,2017,48209
+"Hemphill County, Texas",4024,48,211,2017,48211
+"Refugio County, Texas",7224,48,391,2017,48391
+"Roberts County, Texas",938,48,393,2017,48393
+"Robertson County, Texas",17203,48,395,2017,48395
+"Rockwall County, Texas",96788,48,397,2017,48397
+"Runnels County, Texas",10266,48,399,2017,48399
+"Rusk County, Texas",52833,48,401,2017,48401
+"Windsor County, Vermont",55100,50,027,2017,50027
+"Accomack County, Virginia",32545,51,001,2017,51001
+"Albemarle County, Virginia",107702,51,003,2017,51003
+"Alleghany County, Virginia",15122,51,005,2017,51005
+"Amelia County, Virginia",13020,51,007,2017,51007
+"Amherst County, Virginia",31594,51,009,2017,51009
+"Bristol city, Virginia",16790,51,520,2017,51520
+"Buena Vista city, Virginia",6327,51,530,2017,51530
+"Charlottesville city, Virginia",48019,51,540,2017,51540
+"Chesapeake city, Virginia",240397,51,550,2017,51550
+"Colonial Heights city, Virginia",17830,51,570,2017,51570
+"Covington city, Virginia",5531,51,580,2017,51580
+"Henderson County, Texas",81064,48,213,2017,48213
+"Hidalgo County, Texas",860661,48,215,2017,48215
+"Hill County, Texas",35852,48,217,2017,48217
+"Hockley County, Texas",23088,48,219,2017,48219
+"Hood County, Texas",58273,48,221,2017,48221
+"Hopkins County, Texas",36496,48,223,2017,48223
+"Sabine County, Texas",10461,48,403,2017,48403
+"San Augustine County, Texas",8253,48,405,2017,48405
+"San Jacinto County, Texas",28270,48,407,2017,48407
+"San Patricio County, Texas",67215,48,409,2017,48409
+"San Saba County, Texas",5959,48,411,2017,48411
+"Schleicher County, Texas",3001,48,413,2017,48413
+"Appomattox County, Virginia",15681,51,011,2017,51011
+"Arlington County, Virginia",234965,51,013,2017,51013
+"Augusta County, Virginia",75144,51,015,2017,51015
+"Bath County, Virginia",4297,51,017,2017,51017
+"Bedford County, Virginia",77974,51,019,2017,51019
+"Bland County, Virginia",6350,51,021,2017,51021
+"Danville city, Virginia",41130,51,590,2017,51590
+"Emporia city, Virginia",5282,51,595,2017,51595
+"Fairfax city, Virginia",24097,51,600,2017,51600
+"Falls Church city, Virginia",14583,51,610,2017,51610
+"Franklin city, Virginia",8176,51,620,2017,51620
+"Fredericksburg city, Virginia",28360,51,630,2017,51630
+"Galax city, Virginia",6625,51,640,2017,51640
+"Houston County, Texas",23021,48,225,2017,48225
+"Howard County, Texas",36040,48,227,2017,48227
+"Hudspeth County, Texas",4408,48,229,2017,48229
+"Hunt County, Texas",93872,48,231,2017,48231
+"Hutchinson County, Texas",21375,48,233,2017,48233
+"Irion County, Texas",1516,48,235,2017,48235
+"Jack County, Texas",8832,48,237,2017,48237
+"Scurry County, Texas",17050,48,415,2017,48415
+"Shackelford County, Texas",3328,48,417,2017,48417
+"Shelby County, Texas",25513,48,419,2017,48419
+"Sherman County, Texas",3067,48,421,2017,48421
+"Smith County, Texas",227727,48,423,2017,48423
+"Somervell County, Texas",8845,48,425,2017,48425
+"Starr County, Texas",64454,48,427,2017,48427
+"Botetourt County, Virginia",33192,51,023,2017,51023
+"Brunswick County, Virginia",16244,51,025,2017,51025
+"Buchanan County, Virginia",21514,51,027,2017,51027
+"Buckingham County, Virginia",17065,51,029,2017,51029
+"Campbell County, Virginia",55010,51,031,2017,51031
+"Caroline County, Virginia",30461,51,033,2017,51033
+"Hampton city, Virginia",134669,51,650,2017,51650
+"Harrisonburg city, Virginia",54215,51,660,2017,51660
+"Hopewell city, Virginia",22621,51,670,2017,51670
+"Lexington city, Virginia",7106,51,678,2017,51678
+"Lynchburg city, Virginia",80995,51,680,2017,51680
+"Manassas city, Virginia",41501,51,683,2017,51683
+"Jackson County, Texas",14805,48,239,2017,48239
+"Jasper County, Texas",35561,48,241,2017,48241
+"Jeff Davis County, Texas",2280,48,243,2017,48243
+"Jefferson County, Texas",256299,48,245,2017,48245
+"Jim Hogg County, Texas",5202,48,247,2017,48247
+"Jim Wells County, Texas",40871,48,249,2017,48249
+"Stephens County, Texas",9337,48,429,2017,48429
+"Sterling County, Texas",1295,48,431,2017,48431
+"Stonewall County, Texas",1388,48,433,2017,48433
+"Sutton County, Texas",3767,48,435,2017,48435
+"Swisher County, Texas",7515,48,437,2017,48437
+"Tarrant County, Texas",2054475,48,439,2017,48439
+"Carroll County, Virginia",29708,51,035,2017,51035
+"Charles City County, Virginia",7004,51,036,2017,51036
+"Charlotte County, Virginia",12119,51,037,2017,51037
+"Chesterfield County, Virginia",343599,51,041,2017,51041
+"Clarke County, Virginia",14508,51,043,2017,51043
+"Craig County, Virginia",5062,51,045,2017,51045
+"Manassas Park city, Virginia",16591,51,685,2017,51685
+"Martinsville city, Virginia",13142,51,690,2017,51690
+"Newport News city, Virginia",179388,51,700,2017,51700
+"Norfolk city, Virginia",244703,51,710,2017,51710
+"Norton city, Virginia",3936,51,720,2017,51720
+"Petersburg city, Virginia",31750,51,730,2017,51730
+"Johnson County, Texas",167301,48,251,2017,48251
+"Jones County, Texas",19983,48,253,2017,48253
+"Karnes County, Texas",15187,48,255,2017,48255
+"Kaufman County, Texas",122883,48,257,2017,48257
+"Kendall County, Texas",44026,48,259,2017,48259
+"Kenedy County, Texas",417,48,261,2017,48261
+"Taylor County, Texas",136290,48,441,2017,48441
+"Terrell County, Texas",810,48,443,2017,48443
+"Terry County, Texas",12715,48,445,2017,48445
+"Throckmorton County, Texas",1527,48,447,2017,48447
+"Titus County, Texas",32904,48,449,2017,48449
+"Tom Green County, Texas",118019,48,451,2017,48451
+"Culpeper County, Virginia",51282,51,047,2017,51047
+"Cumberland County, Virginia",9811,51,049,2017,51049
+"Dickenson County, Virginia",14782,51,051,2017,51051
+"Dinwiddie County, Virginia",28208,51,053,2017,51053
+"Essex County, Virginia",11028,51,057,2017,51057
+"Fairfax County, Virginia",1148433,51,059,2017,51059
+"Fauquier County, Virginia",69465,51,061,2017,51061
+"Poquoson city, Virginia",12053,51,735,2017,51735
+"Portsmouth city, Virginia",94572,51,740,2017,51740
+"Radford city, Virginia",17658,51,750,2017,51750
+"Richmond city, Virginia",227032,51,760,2017,51760
+"Roanoke city, Virginia",99837,51,770,2017,51770
+"Salem city, Virginia",25862,51,775,2017,51775
+"Kent County, Texas",763,48,263,2017,48263
+"Kerr County, Texas",51720,48,265,2017,48265
+"Kimble County, Texas",4410,48,267,2017,48267
+"King County, Texas",296,48,269,2017,48269
+"Kinney County, Texas",3745,48,271,2017,48271
+"Kleberg County, Texas",31088,48,273,2017,48273
+"Knox County, Texas",3710,48,275,2017,48275
+"Travis County, Texas",1226698,48,453,2017,48453
+"Trinity County, Texas",14667,48,455,2017,48455
+"Tyler County, Texas",21539,48,457,2017,48457
+"Upshur County, Texas",41281,48,459,2017,48459
+"Upton County, Texas",3663,48,461,2017,48461
+"Uvalde County, Texas",27132,48,463,2017,48463
+"Val Verde County, Texas",49205,48,465,2017,48465
+"Floyd County, Virginia",15755,51,063,2017,51063
+"Fluvanna County, Virginia",26452,51,065,2017,51065
+"Franklin County, Virginia",56445,51,067,2017,51067
+"Frederick County, Virginia",86484,51,069,2017,51069
+"Giles County, Virginia",16837,51,071,2017,51071
+"Gloucester County, Virginia",37292,51,073,2017,51073
+"Staunton city, Virginia",24528,51,790,2017,51790
+"Suffolk city, Virginia",90237,51,800,2017,51800
+"Virginia Beach city, Virginia",450435,51,810,2017,51810
+"Waynesboro city, Virginia",22327,51,820,2017,51820
+"Williamsburg city, Virginia",15031,51,830,2017,51830
+"Winchester city, Virginia",27932,51,840,2017,51840
+"Lamar County, Texas",49587,48,277,2017,48277
+"Lamb County, Texas",13210,48,279,2017,48279
+"Lampasas County, Texas",21027,48,281,2017,48281
+"La Salle County, Texas",7584,48,283,2017,48283
+"Lavaca County, Texas",20062,48,285,2017,48285
+"Lee County, Texas",17183,48,287,2017,48287
+"Van Zandt County, Texas",55182,48,467,2017,48467
+"Victoria County, Texas",92084,48,469,2017,48469
+"Walker County, Texas",72245,48,471,2017,48471
+"Waller County, Texas",51307,48,473,2017,48473
+"Ward County, Texas",11472,48,475,2017,48475
+"Washington County, Texas",35043,48,477,2017,48477
+"Goochland County, Virginia",22685,51,075,2017,51075
+"Grayson County, Virginia",15665,51,077,2017,51077
+"Greene County, Virginia",19612,51,079,2017,51079
+"Greensville County, Virginia",11679,51,081,2017,51081
+"Halifax County, Virginia",34563,51,083,2017,51083
+"Hanover County, Virginia",105923,51,085,2017,51085
+"Adams County, Washington",19506,53,001,2017,53001
+"Asotin County, Washington",22535,53,003,2017,53003
+"Benton County, Washington",198171,53,005,2017,53005
+"Chelan County, Washington",76533,53,007,2017,53007
+"Clallam County, Washington",75474,53,009,2017,53009
+"Clark County, Washington",474643,53,011,2017,53011
+"Leon County, Texas",17243,48,289,2017,48289
+"Liberty County, Texas",83658,48,291,2017,48291
+"Limestone County, Texas",23527,48,293,2017,48293
+"Lipscomb County, Texas",3378,48,295,2017,48295
+"Live Oak County, Texas",12174,48,297,2017,48297
+"Llano County, Texas",21210,48,299,2017,48299
+"Webb County, Texas",274794,48,479,2017,48479
+"Wharton County, Texas",41968,48,481,2017,48481
+"Wheeler County, Texas",5358,48,483,2017,48483
+"Wichita County, Texas",132000,48,485,2017,48485
+"Wilbarger County, Texas",12764,48,487,2017,48487
+"Willacy County, Texas",21584,48,489,2017,48489
+"Henrico County, Virginia",327898,51,087,2017,51087
+"Henry County, Virginia",51227,51,089,2017,51089
+"Highland County, Virginia",2212,51,091,2017,51091
+"Isle of Wight County, Virginia",36552,51,093,2017,51093
+"James City County, Virginia",75524,51,095,2017,51095
+"King and Queen County, Virginia",7003,51,097,2017,51097
+"Columbia County, Washington",4047,53,013,2017,53013
+"Cowlitz County, Washington",106910,53,015,2017,53015
+"Douglas County, Washington",41945,53,017,2017,53017
+"Ferry County, Washington",7594,53,019,2017,53019
+"Franklin County, Washington",92125,53,021,2017,53021
+"Garfield County, Washington",2210,53,023,2017,53023
+"Loving County, Texas",134,48,301,2017,48301
+"Lubbock County, Texas",305225,48,303,2017,48303
+"Lynn County, Texas",5859,48,305,2017,48305
+"McCulloch County, Texas",7957,48,307,2017,48307
+"McLennan County, Texas",251259,48,309,2017,48309
+"McMullen County, Texas",778,48,311,2017,48311
+"Madison County, Texas",14222,48,313,2017,48313
+"Williamson County, Texas",547545,48,491,2017,48491
+"Wilson County, Texas",49304,48,493,2017,48493
+"Winkler County, Texas",7574,48,495,2017,48495
+"Wise County, Texas",66181,48,497,2017,48497
+"Wood County, Texas",44314,48,499,2017,48499
+"Yoakum County, Texas",8568,48,501,2017,48501
+"Young County, Texas",17979,48,503,2017,48503
+"King George County, Virginia",26337,51,099,2017,51099
+"King William County, Virginia",16708,51,101,2017,51101
+"Lancaster County, Virginia",10788,51,103,2017,51103
+"Lee County, Virginia",23758,51,105,2017,51105
+"Loudoun County, Virginia",398080,51,107,2017,51107
+"Louisa County, Virginia",35860,51,109,2017,51109
+"Grant County, Washington",95158,53,025,2017,53025
+"Grays Harbor County, Washington",72697,53,027,2017,53027
+"Island County, Washington",83159,53,029,2017,53029
+"Jefferson County, Washington",31234,53,031,2017,53031
+"King County, Washington",2188649,53,033,2017,53033
+"Kitsap County, Washington",266414,53,035,2017,53035
+"Marion County, Texas",10064,48,315,2017,48315
+"Martin County, Texas",5626,48,317,2017,48317
+"Mason County, Texas",4222,48,319,2017,48319
+"Matagorda County, Texas",36840,48,321,2017,48321
+"Maverick County, Texas",58216,48,323,2017,48323
+"Medina County, Texas",50066,48,325,2017,48325
+"Zapata County, Texas",14322,48,505,2017,48505
+"Zavala County, Texas",11948,48,507,2017,48507
+"Beaver County, Utah",6386,49,001,2017,49001
+"Box Elder County, Utah",54079,49,003,2017,49003
+"Cache County, Utah",124438,49,005,2017,49005
+"Carbon County, Utah",20295,49,007,2017,49007
+"Lunenburg County, Virginia",12235,51,111,2017,51111
+"Madison County, Virginia",13277,51,113,2017,51113
+"Mathews County, Virginia",8779,51,115,2017,51115
+"Mecklenburg County, Virginia",30686,51,117,2017,51117
+"Middlesex County, Virginia",10679,51,119,2017,51119
+"Montgomery County, Virginia",98559,51,121,2017,51121
+"Kittitas County, Washington",46205,53,037,2017,53037
+"Klickitat County, Washington",21811,53,039,2017,53039
+"Lewis County, Washington",78200,53,041,2017,53041
+"Lincoln County, Washington",10579,53,043,2017,53043
+"Mason County, Washington",63710,53,045,2017,53045
+"Okanogan County, Washington",41742,53,047,2017,53047
+"Menard County, Texas",2124,48,327,2017,48327
+"Midland County, Texas",165049,48,329,2017,48329
+"Milam County, Texas",25053,48,331,2017,48331
+"Mills County, Texas",4921,48,333,2017,48333
+"Mitchell County, Texas",8468,48,335,2017,48335
+"Montague County, Texas",19539,48,337,2017,48337
+"Daggett County, Utah",1029,49,009,2017,49009
+"Davis County, Utah",347637,49,011,2017,49011
+"Duchesne County, Utah",20026,49,013,2017,49013
+"Emery County, Utah",10077,49,015,2017,49015
+"Garfield County, Utah",5078,49,017,2017,49017
+"Grand County, Utah",9674,49,019,2017,49019
+"Nelson County, Virginia",14943,51,125,2017,51125
+"New Kent County, Virginia",21682,51,127,2017,51127
+"Northampton County, Virginia",11846,51,131,2017,51131
+"Northumberland County, Virginia",12275,51,133,2017,51133
+"Nottoway County, Virginia",15434,51,135,2017,51135
+"Orange County, Virginia",36073,51,137,2017,51137
+"Pacific County, Washington",21626,53,049,2017,53049
+"Pend Oreille County, Washington",13354,53,051,2017,53051
+"Pierce County, Washington",876764,53,053,2017,53053
+"San Juan County, Washington",16715,53,055,2017,53055
+"Skagit County, Washington",125619,53,057,2017,53057
+"Skamania County, Washington",11837,53,059,2017,53059
+"Montgomery County, Texas",570934,48,339,2017,48339
+"Moore County, Texas",22097,48,341,2017,48341
+"Morris County, Texas",12467,48,343,2017,48343
+"Motley County, Texas",1230,48,345,2017,48345
+"Nacogdoches County, Texas",65580,48,347,2017,48347
+"Navarro County, Texas",48701,48,349,2017,48349
+"Newton County, Texas",13952,48,351,2017,48351
+"Iron County, Utah",51001,49,021,2017,49021
+"Juab County, Utah",11250,49,023,2017,49023
+"Kane County, Utah",7567,49,025,2017,49025
+"Millard County, Utah",12863,49,027,2017,49027
+"Morgan County, Utah",11873,49,029,2017,49029
+"Piute County, Utah",1420,49,031,2017,49031
+"Rich County, Utah",2391,49,033,2017,49033
+"Page County, Virginia",23731,51,139,2017,51139
+"Patrick County, Virginia",17665,51,141,2017,51141
+"Pittsylvania County, Virginia",61258,51,143,2017,51143
+"Powhatan County, Virginia",28601,51,145,2017,51145
+"Prince Edward County, Virginia",22703,51,147,2017,51147
+"Prince George County, Virginia",37809,51,149,2017,51149
+"Snohomish County, Washington",801633,53,061,2017,53061
+"Spokane County, Washington",506152,53,063,2017,53063
+"Stevens County, Washington",44730,53,065,2017,53065
+"Thurston County, Washington",280588,53,067,2017,53067
+"Wahkiakum County, Washington",4264,53,069,2017,53069
+"Walla Walla County, Washington",60567,53,071,2017,53071
+"Nolan County, Texas",14770,48,353,2017,48353
+"Nueces County, Texas",361221,48,355,2017,48355
+"Ochiltree County, Texas",10073,48,357,2017,48357
+"Oldham County, Texas",2114,48,359,2017,48359
+"Orange County, Texas",85047,48,361,2017,48361
+"Palo Pinto County, Texas",28570,48,363,2017,48363
+"Salt Lake County, Utah",1135649,49,035,2017,49035
+"San Juan County, Utah",15356,49,037,2017,49037
+"Sanpete County, Utah",30035,49,039,2017,49039
+"Sevier County, Utah",21316,49,041,2017,49041
+"Summit County, Utah",41106,49,043,2017,49043
+"Tooele County, Utah",67456,49,045,2017,49045
+"Prince William County, Virginia",463023,51,153,2017,51153
+"Pulaski County, Virginia",34184,51,155,2017,51155
+"Rappahannock County, Virginia",7321,51,157,2017,51157
+"Richmond County, Virginia",8939,51,159,2017,51159
+"Roanoke County, Virginia",93730,51,161,2017,51161
+"Rockbridge County, Virginia",22659,51,163,2017,51163
+"Whatcom County, Washington",221404,53,073,2017,53073
+"Whitman County, Washington",49046,53,075,2017,53075
+"Yakima County, Washington",250193,53,077,2017,53077
+"Barbour County, West Virginia",16497,54,001,2017,54001
+"Berkeley County, West Virginia",114920,54,003,2017,54003
+"Boone County, West Virginia",22349,54,005,2017,54005
+"Panola County, Texas",23243,48,365,2017,48365
+"Parker County, Texas",133463,48,367,2017,48367
+"Parmer County, Texas",9842,48,369,2017,48369
+"Pecos County, Texas",15634,48,371,2017,48371
+"Polk County, Texas",49162,48,373,2017,48373
+"Potter County, Texas",120458,48,375,2017,48375
+"Uintah County, Utah",35150,49,047,2017,49047
+"Utah County, Utah",606425,49,049,2017,49049
+"Wasatch County, Utah",32106,49,051,2017,49051
+"Washington County, Utah",165662,49,053,2017,49053
+"Wayne County, Utah",2719,49,055,2017,49055
+"Weber County, Utah",251769,49,057,2017,49057
+"Addison County, Vermont",36776,50,001,2017,50001
+"Rockingham County, Virginia",80227,51,165,2017,51165
+"Russell County, Virginia",27048,51,167,2017,51167
+"Scott County, Virginia",21865,51,169,2017,51169
+"Shenandoah County, Virginia",43225,51,171,2017,51171
+"Smyth County, Virginia",30656,51,173,2017,51173
+"Southampton County, Virginia",17750,51,175,2017,51175
+"Goliad County, Texas",7562,48,175,2017,48175
+"Gonzales County, Texas",20893,48,177,2017,48177
+"Gray County, Texas",22404,48,179,2017,48179
+"Grayson County, Texas",131140,48,181,2017,48181
+"Gregg County, Texas",123367,48,183,2017,48183
+"Grimes County, Texas",28082,48,185,2017,48185
+"Presidio County, Texas",7156,48,377,2017,48377
+"Rains County, Texas",11762,48,379,2017,48379
+"Randall County, Texas",134442,48,381,2017,48381
+"Reagan County, Texas",3710,48,383,2017,48383
+"Real County, Texas",3429,48,385,2017,48385
+"Red River County, Texas",12229,48,387,2017,48387
+"Reeves County, Texas",15281,48,389,2017,48389
+"Bennington County, Vermont",35594,50,003,2017,50003
+"Caledonia County, Vermont",30164,50,005,2017,50005
+"Chittenden County, Vermont",162372,50,007,2017,50007
+"Essex County, Vermont",6230,50,009,2017,50009
+"Franklin County, Vermont",49025,50,011,2017,50011
+"Grand Isle County, Vermont",6998,50,013,2017,50013
+"Spotsylvania County, Virginia",133033,51,177,2017,51177
+"Stafford County, Virginia",146649,51,179,2017,51179
+"Surry County, Virginia",6540,51,181,2017,51181
+"Sussex County, Virginia",11373,51,183,2017,51183
+"Tazewell County, Virginia",41095,51,185,2017,51185
+"Warren County, Virginia",39563,51,187,2017,51187
+"Guadalupe County, Texas",159659,48,187,2017,48187
+"Hale County, Texas",34134,48,189,2017,48189
+"Hall County, Texas",3071,48,191,2017,48191
+"Hamilton County, Texas",8422,48,193,2017,48193
+"Hansford County, Texas",5447,48,195,2017,48195
+"Hardeman County, Texas",3994,48,197,2017,48197
+"Hardin County, Texas",57139,48,199,2017,48199
+"Turner County, South Dakota",8315,46,125,2017,46125
+"Union County, South Dakota",15029,46,127,2017,46127
+"Walworth County, South Dakota",5543,46,129,2017,46129
+"Yankton County, South Dakota",22662,46,135,2017,46135
+"Ziebach County, South Dakota",2756,46,137,2017,46137
+"Anderson County, Tennessee",76257,47,001,2017,47001
+"Williamson County, Tennessee",226257,47,187,2017,47187
+"Wilson County, Tennessee",136442,47,189,2017,47189
+"Anderson County, Texas",57741,48,001,2017,48001
+"Andrews County, Texas",17722,48,003,2017,48003
+"Angelina County, Texas",87805,48,005,2017,48005
+"Aransas County, Texas",25572,48,007,2017,48007
+"Multnomah County, Oregon",807555,41,051,2017,41051
+"Polk County, Oregon",83696,41,053,2017,41053
+"Sherman County, Oregon",1758,41,055,2017,41055
+"Tillamook County, Oregon",26690,41,057,2017,41057
+"Umatilla County, Oregon",76985,41,059,2017,41059
+"Union County, Oregon",26222,41,061,2017,41061
+"Wallowa County, Oregon",7051,41,063,2017,41063
+"Chesterfield County, South Carolina",45948,45,025,2017,45025
+"Clarendon County, South Carolina",34057,45,027,2017,45027
+"Colleton County, South Carolina",37611,45,029,2017,45029
+"Darlington County, South Carolina",67265,45,031,2017,45031
+"Dillon County, South Carolina",30666,45,033,2017,45033
+"Dorchester County, South Carolina",156456,45,035,2017,45035
+"Bedford County, Tennessee",48117,47,003,2017,47003
+"Benton County, Tennessee",15986,47,005,2017,47005
+"Bledsoe County, Tennessee",14717,47,007,2017,47007
+"Blount County, Tennessee",129929,47,009,2017,47009
+"Bradley County, Tennessee",105560,47,011,2017,47011
+"Campbell County, Tennessee",39648,47,013,2017,47013
+"Cannon County, Tennessee",14216,47,015,2017,47015
+"Archer County, Texas",8809,48,009,2017,48009
+"Armstrong County, Texas",1879,48,011,2017,48011
+"Atascosa County, Texas",48981,48,013,2017,48013
+"Austin County, Texas",29786,48,015,2017,48015
+"Bailey County, Texas",7077,48,017,2017,48017
+"Bandera County, Texas",22351,48,019,2017,48019
+"Bastrop County, Texas",84761,48,021,2017,48021
+"Wasco County, Oregon",26437,41,065,2017,41065
+"Washington County, Oregon",588957,41,067,2017,41067
+"Wheeler County, Oregon",1357,41,069,2017,41069
+"Yamhill County, Oregon",105722,41,071,2017,41071
+"Adams County, Pennsylvania",102336,42,001,2017,42001
+"Allegheny County, Pennsylvania",1223048,42,003,2017,42003
+"Edgefield County, South Carolina",26693,45,037,2017,45037
+"Fairfield County, South Carolina",22607,45,039,2017,45039
+"Florence County, South Carolina",138566,45,041,2017,45041
+"Georgetown County, South Carolina",61607,45,043,2017,45043
+"Greenville County, South Carolina",506837,45,045,2017,45045
+"Greenwood County, South Carolina",70355,45,047,2017,45047
+"Carroll County, Tennessee",27860,47,017,2017,47017
+"Carter County, Tennessee",56488,47,019,2017,47019
+"Cheatham County, Tennessee",40330,47,021,2017,47021
+"Chester County, Tennessee",17119,47,023,2017,47023
+"Claiborne County, Tennessee",31609,47,025,2017,47025
+"Clay County, Tennessee",7703,47,027,2017,47027
+"Baylor County, Texas",3581,48,023,2017,48023
+"Bee County, Texas",32563,48,025,2017,48025
+"Bell County, Texas",347833,48,027,2017,48027
+"Bexar County, Texas",1958578,48,029,2017,48029
+"Blanco County, Texas",11626,48,031,2017,48031
+"Borden County, Texas",673,48,033,2017,48033
+"Armstrong County, Pennsylvania",65642,42,005,2017,42005
+"Beaver County, Pennsylvania",166140,42,007,2017,42007
+"Bedford County, Pennsylvania",48480,42,009,2017,42009
+"Berks County, Pennsylvania",417854,42,011,2017,42011
+"Blair County, Pennsylvania",123457,42,013,2017,42013
+"Bradford County, Pennsylvania",60853,42,015,2017,42015
+"Hampton County, South Carolina",19602,45,049,2017,45049
+"Horry County, South Carolina",333268,45,051,2017,45051
+"Jasper County, South Carolina",28458,45,053,2017,45053
+"Kershaw County, South Carolina",65036,45,055,2017,45055
+"Lancaster County, South Carolina",92550,45,057,2017,45057
+"Laurens County, South Carolina",66848,45,059,2017,45059
+"Cocke County, Tennessee",35556,47,029,2017,47029
+"Coffee County, Tennessee",55034,47,031,2017,47031
+"Crockett County, Tennessee",14473,47,033,2017,47033
+"Cumberland County, Tennessee",59078,47,035,2017,47035
+"Davidson County, Tennessee",691243,47,037,2017,47037
+"Decatur County, Tennessee",11751,47,039,2017,47039
+"Bosque County, Texas",18326,48,035,2017,48035
+"Bowie County, Texas",94012,48,037,2017,48037
+"Brazoria County, Texas",362457,48,039,2017,48039
+"Brazos County, Texas",222830,48,041,2017,48041
+"Brewster County, Texas",9337,48,043,2017,48043
+"Briscoe County, Texas",1528,48,045,2017,48045
+"Bucks County, Pennsylvania",628341,42,017,2017,42017
+"Butler County, Pennsylvania",187108,42,019,2017,42019
+"Cambria County, Pennsylvania",133054,42,021,2017,42021
+"Cameron County, Pennsylvania",4592,42,023,2017,42023
+"Carbon County, Pennsylvania",63853,42,025,2017,42025
+"Centre County, Pennsylvania",162660,42,027,2017,42027
+"Lee County, South Carolina",17350,45,061,2017,45061
+"Lexington County, South Carolina",290642,45,063,2017,45063
+"McCormick County, South Carolina",9545,45,065,2017,45065
+"Marion County, South Carolina",31293,45,067,2017,45067
+"Marlboro County, South Carolina",26825,45,069,2017,45069
+"Newberry County, South Carolina",38488,45,071,2017,45071
+"DeKalb County, Tennessee",19852,47,041,2017,47041
+"Dickson County, Tennessee",52853,47,043,2017,47043
+"Dyer County, Tennessee",37463,47,045,2017,47045
+"Fayette County, Tennessee",40036,47,047,2017,47047
+"Fentress County, Tennessee",18136,47,049,2017,47049
+"Franklin County, Tennessee",41652,47,051,2017,47051
+"Brooks County, Texas",7235,48,047,2017,48047
+"Brown County, Texas",38053,48,049,2017,48049
+"Burleson County, Texas",18011,48,051,2017,48051
+"Burnet County, Texas",46804,48,053,2017,48053
+"Caldwell County, Texas",42338,48,055,2017,48055
+"Calhoun County, Texas",21744,48,057,2017,48057
+"Callahan County, Texas",13946,48,059,2017,48059
+"Chester County, Pennsylvania",519293,42,029,2017,42029
+"Clarion County, Pennsylvania",38458,42,031,2017,42031
+"Clearfield County, Pennsylvania",79685,42,033,2017,42033
+"Clinton County, Pennsylvania",38998,42,035,2017,42035
+"Columbia County, Pennsylvania",65932,42,037,2017,42037
+"Crawford County, Pennsylvania",86159,42,039,2017,42039
+"Oconee County, South Carolina",77270,45,073,2017,45073
+"Orangeburg County, South Carolina",87476,45,075,2017,45075
+"Pickens County, South Carolina",123479,45,077,2017,45077
+"Richland County, South Carolina",411592,45,079,2017,45079
+"Saluda County, South Carolina",20452,45,081,2017,45081
+"Gibson County, Tennessee",49111,47,053,2017,47053
+"Giles County, Tennessee",29401,47,055,2017,47055
+"Grainger County, Tennessee",23144,47,057,2017,47057
+"Greene County, Tennessee",68808,47,059,2017,47059
+"Grundy County, Tennessee",13361,47,061,2017,47061
+"Hamblen County, Tennessee",64277,47,063,2017,47063
+"Freestone County, Texas",19625,48,161,2017,48161
+"Frio County, Texas",19600,48,163,2017,48163
+"Gaines County, Texas",20638,48,165,2017,48165
+"Galveston County, Texas",335036,48,167,2017,48167
+"Garza County, Texas",6528,48,169,2017,48169
+"Gillespie County, Texas",26646,48,171,2017,48171
+"Glasscock County, Texas",1348,48,173,2017,48173
+"Cumberland County, Pennsylvania",250066,42,041,2017,42041
+"Dauphin County, Pennsylvania",275710,42,043,2017,42043
+"Delaware County, Pennsylvania",564696,42,045,2017,42045
+"Elk County, Pennsylvania",30197,42,047,2017,42047
+"Erie County, Pennsylvania",274541,42,049,2017,42049
+"Fayette County, Pennsylvania",131504,42,051,2017,42051
+"Spartanburg County, South Carolina",306854,45,083,2017,45083
+"Sumter County, South Carolina",106847,45,085,2017,45085
+"Union County, South Carolina",27537,45,087,2017,45087
+"Williamsburg County, South Carolina",31133,45,089,2017,45089
+"York County, South Carolina",266439,45,091,2017,45091
+"Aurora County, South Dakota",2738,46,003,2017,46003
+"Hamilton County, Tennessee",361613,47,065,2017,47065
+"Hancock County, Tennessee",6600,47,067,2017,47067
+"Hardeman County, Tennessee",25447,47,069,2017,47069
+"Hardin County, Tennessee",25846,47,071,2017,47071
+"Hawkins County, Tennessee",56459,47,073,2017,47073
+"Haywood County, Tennessee",17573,47,075,2017,47075
+"Collin County, Texas",969603,48,085,2017,48085
+"Collingsworth County, Texas",2987,48,087,2017,48087
+"Colorado County, Texas",21232,48,089,2017,48089
+"Comal County, Texas",141009,48,091,2017,48091
+"Comanche County, Texas",13573,48,093,2017,48093
+"Concho County, Texas",2717,48,095,2017,48095
+"Cooke County, Texas",39895,48,097,2017,48097
+"Forest County, Pennsylvania",7297,42,053,2017,42053
+"Franklin County, Pennsylvania",154234,42,055,2017,42055
+"Fulton County, Pennsylvania",14590,42,057,2017,42057
+"Greene County, Pennsylvania",36770,42,059,2017,42059
+"Huntingdon County, Pennsylvania",45491,42,061,2017,42061
+"Indiana County, Pennsylvania",84953,42,063,2017,42063
+"Beadle County, South Dakota",18157,46,005,2017,46005
+"Bennett County, South Dakota",3454,46,007,2017,46007
+"Bon Homme County, South Dakota",6984,46,009,2017,46009
+"Brookings County, South Dakota",34255,46,011,2017,46011
+"Brown County, South Dakota",39178,46,013,2017,46013
+"Brule County, South Dakota",5312,46,015,2017,46015
+"Henderson County, Tennessee",27751,47,077,2017,47077
+"Henry County, Tennessee",32450,47,079,2017,47079
+"Hickman County, Tennessee",24864,47,081,2017,47081
+"Houston County, Tennessee",8213,47,083,2017,47083
+"Humphreys County, Tennessee",18484,47,085,2017,47085
+"Jackson County, Tennessee",11677,47,087,2017,47087
+"DeWitt County, Texas",20226,48,123,2017,48123
+"Dickens County, Texas",2209,48,125,2017,48125
+"Dimmit County, Texas",10418,48,127,2017,48127
+"Donley County, Texas",3311,48,129,2017,48129
+"Duval County, Texas",11273,48,131,2017,48131
+"Eastland County, Texas",18411,48,133,2017,48133
+"Ector County, Texas",157087,48,135,2017,48135
+"Jefferson County, Pennsylvania",43804,42,065,2017,42065
+"Juniata County, Pennsylvania",24514,42,067,2017,42067
+"Lackawanna County, Pennsylvania",210761,42,069,2017,42069
+"Lancaster County, Pennsylvania",542903,42,071,2017,42071
+"Lawrence County, Pennsylvania",87069,42,073,2017,42073
+"Lebanon County, Pennsylvania",139754,42,075,2017,42075
+"Buffalo County, South Dakota",1999,46,017,2017,46017
+"Butte County, South Dakota",10107,46,019,2017,46019
+"Campbell County, South Dakota",1379,46,021,2017,46021
+"Charles Mix County, South Dakota",9428,46,023,2017,46023
+"Clark County, South Dakota",3668,46,025,2017,46025
+"Clay County, South Dakota",13990,46,027,2017,46027
+"Jefferson County, Tennessee",53804,47,089,2017,47089
+"Johnson County, Tennessee",17691,47,091,2017,47091
+"Knox County, Tennessee",461860,47,093,2017,47093
+"Lake County, Tennessee",7468,47,095,2017,47095
+"Lauderdale County, Tennessee",25274,47,097,2017,47097
+"Lawrence County, Tennessee",43396,47,099,2017,47099
+"Cameron County, Texas",423725,48,061,2017,48061
+"Camp County, Texas",12855,48,063,2017,48063
+"Carson County, Texas",6032,48,065,2017,48065
+"Cass County, Texas",30012,48,067,2017,48067
+"Castro County, Texas",7843,48,069,2017,48069
+"Chambers County, Texas",41441,48,071,2017,48071
+"Lehigh County, Pennsylvania",366494,42,077,2017,42077
+"Luzerne County, Pennsylvania",317343,42,079,2017,42079
+"Lycoming County, Pennsylvania",113841,42,081,2017,42081
+"McKean County, Pennsylvania",41330,42,083,2017,42083
+"Mercer County, Pennsylvania",111750,42,085,2017,42085
+"Codington County, South Dakota",28099,46,029,2017,46029
+"Corson County, South Dakota",4203,46,031,2017,46031
+"Custer County, South Dakota",8691,46,033,2017,46033
+"Davison County, South Dakota",19704,46,035,2017,46035
+"Day County, South Dakota",5521,46,037,2017,46037
+"Deuel County, South Dakota",4281,46,039,2017,46039
+"Lewis County, Tennessee",12035,47,101,2017,47101
+"Lincoln County, Tennessee",33751,47,103,2017,47103
+"Loudon County, Tennessee",52152,47,105,2017,47105
+"McMinn County, Tennessee",52877,47,107,2017,47107
+"McNairy County, Tennessee",26004,47,109,2017,47109
+"Macon County, Tennessee",24079,47,111,2017,47111
+"Coryell County, Texas",74913,48,099,2017,48099
+"Cottle County, Texas",1387,48,101,2017,48101
+"Crane County, Texas",4740,48,103,2017,48103
+"Crockett County, Texas",3564,48,105,2017,48105
+"Crosby County, Texas",5899,48,107,2017,48107
+"Culberson County, Texas",2231,48,109,2017,48109
+"Mifflin County, Pennsylvania",46388,42,087,2017,42087
+"Monroe County, Pennsylvania",168046,42,089,2017,42089
+"Montgomery County, Pennsylvania",826075,42,091,2017,42091
+"Montour County, Pennsylvania",18272,42,093,2017,42093
+"Northampton County, Pennsylvania",303405,42,095,2017,42095
+"Northumberland County, Pennsylvania",92029,42,097,2017,42097
+"Dewey County, South Dakota",5835,46,041,2017,46041
+"Douglas County, South Dakota",2931,46,043,2017,46043
+"Edmunds County, South Dakota",3919,46,045,2017,46045
+"Fall River County, South Dakota",6687,46,047,2017,46047
+"Faulk County, South Dakota",2329,46,049,2017,46049
+"Grant County, South Dakota",7061,46,051,2017,46051
+"Madison County, Tennessee",97643,47,113,2017,47113
+"Marion County, Tennessee",28425,47,115,2017,47115
+"Marshall County, Tennessee",32931,47,117,2017,47117
+"Maury County, Tennessee",92163,47,119,2017,47119
+"Meigs County, Tennessee",12068,47,121,2017,47121
+"Monroe County, Tennessee",46240,47,123,2017,47123
+"Edwards County, Texas",1953,48,137,2017,48137
+"Ellis County, Texas",173620,48,139,2017,48139
+"El Paso County, Texas",840410,48,141,2017,48141
+"Erath County, Texas",41969,48,143,2017,48143
+"Falls County, Texas",17437,48,145,2017,48145
+"Fannin County, Texas",34446,48,147,2017,48147
+"Perry County, Pennsylvania",46127,42,099,2017,42099
+"Philadelphia County, Pennsylvania",1580863,42,101,2017,42101
+"Pike County, Pennsylvania",55691,42,103,2017,42103
+"Potter County, Pennsylvania",16802,42,105,2017,42105
+"Schuylkill County, Pennsylvania",142569,42,107,2017,42107
+"Snyder County, Pennsylvania",40801,42,109,2017,42109
+"Gregory County, South Dakota",4226,46,053,2017,46053
+"Haakon County, South Dakota",1943,46,055,2017,46055
+"Hamlin County, South Dakota",5948,46,057,2017,46057
+"Hand County, South Dakota",3277,46,059,2017,46059
+"Hanson County, South Dakota",3423,46,061,2017,46061
+"Harding County, South Dakota",1242,46,063,2017,46063
+"Montgomery County, Tennessee",200182,47,125,2017,47125
+"Moore County, Tennessee",6384,47,127,2017,47127
+"Morgan County, Tennessee",21636,47,129,2017,47129
+"Obion County, Tennessee",30385,47,131,2017,47131
+"Overton County, Tennessee",22012,47,133,2017,47133
+"Perry County, Tennessee",7975,47,135,2017,47135
+"Pickett County, Tennessee",5073,47,137,2017,47137
+"Cherokee County, Texas",52240,48,073,2017,48073
+"Childress County, Texas",7067,48,075,2017,48075
+"Clay County, Texas",10421,48,077,2017,48077
+"Cochran County, Texas",2851,48,079,2017,48079
+"Coke County, Texas",3306,48,081,2017,48081
+"Coleman County, Texas",8430,48,083,2017,48083
+"Somerset County, Pennsylvania",74501,42,111,2017,42111
+"Sullivan County, Pennsylvania",6089,42,113,2017,42113
+"Susquehanna County, Pennsylvania",40985,42,115,2017,42115
+"Tioga County, Pennsylvania",40793,42,117,2017,42117
+"Union County, Pennsylvania",44595,42,119,2017,42119
+"Venango County, Pennsylvania",51762,42,121,2017,42121
+"Hughes County, South Dakota",17666,46,065,2017,46065
+"Hutchinson County, South Dakota",7358,46,067,2017,46067
+"Hyde County, South Dakota",1318,46,069,2017,46069
+"Jackson County, South Dakota",3289,46,071,2017,46071
+"Jerauld County, South Dakota",2028,46,073,2017,46073
+"Jones County, South Dakota",936,46,075,2017,46075
+"Polk County, Tennessee",16757,47,139,2017,47139
+"Putnam County, Tennessee",77674,47,141,2017,47141
+"Rhea County, Tennessee",32691,47,143,2017,47143
+"Roane County, Tennessee",53036,47,145,2017,47145
+"Robertson County, Tennessee",70177,47,147,2017,47147
+"Rutherford County, Tennessee",317157,47,149,2017,47149
+"Dallam County, Texas",7208,48,111,2017,48111
+"Dallas County, Texas",2618148,48,113,2017,48113
+"Dawson County, Texas",12813,48,115,2017,48115
+"Deaf Smith County, Texas",18836,48,117,2017,48117
+"Delta County, Texas",5298,48,119,2017,48119
+"Denton County, Texas",836210,48,121,2017,48121
+"Warren County, Pennsylvania",39659,42,123,2017,42123
+"Washington County, Pennsylvania",207298,42,125,2017,42125
+"Wayne County, Pennsylvania",51205,42,127,2017,42127
+"Westmoreland County, Pennsylvania",352627,42,129,2017,42129
+"Wyoming County, Pennsylvania",27322,42,131,2017,42131
+"York County, Pennsylvania",446078,42,133,2017,42133
+"Kingsbury County, South Dakota",4952,46,077,2017,46077
+"Lake County, South Dakota",12809,46,079,2017,46079
+"Lawrence County, South Dakota",25429,46,081,2017,46081
+"Lincoln County, South Dakota",56664,46,083,2017,46083
+"Lyman County, South Dakota",3904,46,085,2017,46085
+"McCook County, South Dakota",5499,46,087,2017,46087
+"Scott County, Tennessee",21989,47,151,2017,47151
+"Sequatchie County, Tennessee",14736,47,153,2017,47153
+"Sevier County, Tennessee",97638,47,155,2017,47155
+"Shelby County, Tennessee",936961,47,157,2017,47157
+"Smith County, Tennessee",19636,47,159,2017,47159
+"Stewart County, Tennessee",13355,47,161,2017,47161
+"Fayette County, Texas",25272,48,149,2017,48149
+"Fisher County, Texas",3880,48,151,2017,48151
+"Floyd County, Texas",5855,48,153,2017,48153
+"Foard County, Texas",1222,48,155,2017,48155
+"Fort Bend County, Texas",764828,48,157,2017,48157
+"Franklin County, Texas",10767,48,159,2017,48159
+"Bristol County, Rhode Island",48912,44,001,2017,44001
+"Kent County, Rhode Island",163760,44,003,2017,44003
+"Newport County, Rhode Island",83460,44,005,2017,44005
+"Providence County, Rhode Island",637357,44,007,2017,44007
+"Washington County, Rhode Island",126150,44,009,2017,44009
+"Abbeville County, South Carolina",24722,45,001,2017,45001
+"McPherson County, South Dakota",2426,46,089,2017,46089
+"Marshall County, South Dakota",4804,46,091,2017,46091
+"Meade County, South Dakota",28018,46,093,2017,46093
+"Mellette County, South Dakota",2088,46,095,2017,46095
+"Miner County, South Dakota",2228,46,097,2017,46097
+"Minnehaha County, South Dakota",188616,46,099,2017,46099
+"Sullivan County, Tennessee",157158,47,163,2017,47163
+"Sumner County, Tennessee",183545,47,165,2017,47165
+"Tipton County, Tennessee",61366,47,167,2017,47167
+"Trousdale County, Tennessee",10083,47,169,2017,47169
+"Unicoi County, Tennessee",17759,47,171,2017,47171
+"Union County, Tennessee",19442,47,173,2017,47173
+"Hood River County, Oregon",23377,41,027,2017,41027
+"Jackson County, Oregon",217479,41,029,2017,41029
+"Jefferson County, Oregon",23758,41,031,2017,41031
+"Josephine County, Oregon",86352,41,033,2017,41033
+"Klamath County, Oregon",66935,41,035,2017,41035
+"Lake County, Oregon",7863,41,037,2017,41037
+"Aiken County, South Carolina",168179,45,003,2017,45003
+"Allendale County, South Carolina",9002,45,005,2017,45005
+"Anderson County, South Carolina",198759,45,007,2017,45007
+"Bamberg County, South Carolina",14381,45,009,2017,45009
+"Barnwell County, South Carolina",21345,45,011,2017,45011
+"Beaufort County, South Carolina",186844,45,013,2017,45013
+"Moody County, South Dakota",6579,46,101,2017,46101
+"Oglala Lakota County, South Dakota",14354,46,102,2017,46102
+"Pennington County, South Dakota",110141,46,103,2017,46103
+"Perkins County, South Dakota",2974,46,105,2017,46105
+"Potter County, South Dakota",2231,46,107,2017,46107
+"Roberts County, South Dakota",10278,46,109,2017,46109
+"Van Buren County, Tennessee",5742,47,175,2017,47175
+"Warren County, Tennessee",40651,47,177,2017,47177
+"Washington County, Tennessee",127806,47,179,2017,47179
+"Wayne County, Tennessee",16583,47,181,2017,47181
+"Weakley County, Tennessee",33337,47,183,2017,47183
+"White County, Tennessee",26753,47,185,2017,47185
+"Lane County, Oregon",374748,41,039,2017,41039
+"Lincoln County, Oregon",48920,41,041,2017,41041
+"Linn County, Oregon",125047,41,043,2017,41043
+"Malheur County, Oregon",30480,41,045,2017,41045
+"Marion County, Oregon",341286,41,047,2017,41047
+"Morrow County, Oregon",11166,41,049,2017,41049
+"Berkeley County, South Carolina",217937,45,015,2017,45015
+"Calhoun County, South Carolina",14704,45,017,2017,45017
+"Charleston County, South Carolina",401438,45,019,2017,45019
+"Cherokee County, South Carolina",57105,45,021,2017,45021
+"Chester County, South Carolina",32301,45,023,2017,45023
+"Sanborn County, South Dakota",2450,46,111,2017,46111
+"Spink County, South Dakota",6410,46,115,2017,46115
+"Stanley County, South Dakota",3011,46,117,2017,46117
+"Sully County, South Dakota",1407,46,119,2017,46119
+"Todd County, South Dakota",10065,46,121,2017,46121
+"Tripp County, South Dakota",5460,46,123,2017,46123
+"Patillas Municipio, Puerto Rico Commonwealth",17004,72,109,2017,72109
+"Peñuelas Municipio, Puerto Rico Commonwealth",20447,72,111,2017,72111
+"Ponce Municipio, Puerto Rico Commonwealth",140859,72,113,2017,72113
+"Quebradillas Municipio, Puerto Rico Commonwealth",23734,72,115,2017,72115
+"Rincón Municipio, Puerto Rico Commonwealth",14128,72,117,2017,72117
+"Hardy County, West Virginia",13717,54,031,2017,54031
+"Harrison County, West Virginia",67811,54,033,2017,54033
+"Jackson County, West Virginia",28976,54,035,2017,54035
+"Jefferson County, West Virginia",56338,54,037,2017,54037
+"Kanawha County, West Virginia",183293,54,039,2017,54039
+"Lewis County, West Virginia",16226,54,041,2017,54041
+"Sawyer County, Wisconsin",16418,55,113,2017,55113
+"Shawano County, Wisconsin",40935,55,115,2017,55115
+"Sheboygan County, Wisconsin",115344,55,117,2017,55117
+"Taylor County, Wisconsin",20321,55,119,2017,55119
+"Trempealeau County, Wisconsin",29472,55,121,2017,55121
+"Vernon County, Wisconsin",30759,55,123,2017,55123
+"Río Grande Municipio, Puerto Rico Commonwealth",50128,72,119,2017,72119
+"Sabana Grande Municipio, Puerto Rico Commonwealth",22690,72,121,2017,72121
+"Salinas Municipio, Puerto Rico Commonwealth",28216,72,123,2017,72123
+"San Germán Municipio, Puerto Rico Commonwealth",31654,72,125,2017,72125
+"San Juan Municipio, Puerto Rico Commonwealth",337288,72,127,2017,72127
+"San Lorenzo Municipio, Puerto Rico Commonwealth",37379,72,129,2017,72129
+"Lincoln County, West Virginia",20825,54,043,2017,54043
+"Logan County, West Virginia",32925,54,045,2017,54045
+"McDowell County, West Virginia",18456,54,047,2017,54047
+"Marion County, West Virginia",56337,54,049,2017,54049
+"Marshall County, West Virginia",31190,54,051,2017,54051
+"Mason County, West Virginia",26801,54,053,2017,54053
+"Vilas County, Wisconsin",21683,55,125,2017,55125
+"Walworth County, Wisconsin",103082,55,127,2017,55127
+"Washburn County, Wisconsin",15758,55,129,2017,55129
+"Washington County, Wisconsin",135101,55,131,2017,55131
+"Waukesha County, Wisconsin",400621,55,133,2017,55133
+"Waupaca County, Wisconsin",51225,55,135,2017,55135
+"San Sebastián Municipio, Puerto Rico Commonwealth",37306,72,131,2017,72131
+"Santa Isabel Municipio, Puerto Rico Commonwealth",21863,72,133,2017,72133
+"Toa Alta Municipio, Puerto Rico Commonwealth",73217,72,135,2017,72135
+"Toa Baja Municipio, Puerto Rico Commonwealth",78092,72,137,2017,72137
+"Trujillo Alto Municipio, Puerto Rico Commonwealth",66675,72,139,2017,72139
+"Mercer County, West Virginia",59753,54,055,2017,54055
+"Mineral County, West Virginia",27222,54,057,2017,54057
+"Mingo County, West Virginia",24127,54,059,2017,54059
+"Monongalia County, West Virginia",105030,54,061,2017,54061
+"Monroe County, West Virginia",13402,54,063,2017,54063
+"Morgan County, West Virginia",17686,54,065,2017,54065
+"Waushara County, Wisconsin",24369,55,137,2017,55137
+"Winnebago County, Wisconsin",170414,55,139,2017,55139
+"Wood County, Wisconsin",73126,55,141,2017,55141
+"Albany County, Wyoming",38332,56,001,2017,56001
+"Big Horn County, Wyoming",11906,56,003,2017,56003
+"Campbell County, Wyoming",46242,56,005,2017,56005
+"Utuado Municipio, Puerto Rico Commonwealth",28791,72,141,2017,72141
+"Vega Alta Municipio, Puerto Rico Commonwealth",37566,72,143,2017,72143
+"Vega Baja Municipio, Puerto Rico Commonwealth",52436,72,145,2017,72145
+"Vieques Municipio, Puerto Rico Commonwealth",8669,72,147,2017,72147
+"Villalba Municipio, Puerto Rico Commonwealth",22528,72,149,2017,72149
+"Yabucoa Municipio, Puerto Rico Commonwealth",33629,72,151,2017,72151
+"Nicholas County, West Virginia",25043,54,067,2017,54067
+"Ohio County, West Virginia",42035,54,069,2017,54069
+"Pendleton County, West Virginia",6996,54,071,2017,54071
+"Pleasants County, West Virginia",7512,54,073,2017,54073
+"Pocahontas County, West Virginia",8456,54,075,2017,54075
+"Preston County, West Virginia",33679,54,077,2017,54077
+"Carbon County, Wyoming",15303,56,007,2017,56007
+"Converse County, Wyoming",13809,56,009,2017,56009
+"Crook County, Wyoming",7410,56,011,2017,56011
+"Fremont County, Wyoming",39803,56,013,2017,56013
+"Goshen County, Wyoming",13378,56,015,2017,56015
+"Hot Springs County, Wyoming",4696,56,017,2017,56017
+"Yauco Municipio, Puerto Rico Commonwealth",35635,72,153,2017,72153
+"Putnam County, West Virginia",56792,54,079,2017,54079
+"Raleigh County, West Virginia",75022,54,081,2017,54081
+"Randolph County, West Virginia",28785,54,083,2017,54083
+"Ritchie County, West Virginia",9774,54,085,2017,54085
+"Roane County, West Virginia",14043,54,087,2017,54087
+"Summers County, West Virginia",12993,54,089,2017,54089
+"Johnson County, Wyoming",8476,56,019,2017,56019
+"Laramie County, Wyoming",98327,56,021,2017,56021
+"Lincoln County, Wyoming",19265,56,023,2017,56023
+"Natrona County, Wyoming",79547,56,025,2017,56025
+"Niobrara County, Wyoming",2397,56,027,2017,56027
+"Park County, Wyoming",29568,56,029,2017,56029
+"Taylor County, West Virginia",16930,54,091,2017,54091
+"Tucker County, West Virginia",6915,54,093,2017,54093
+"Tyler County, West Virginia",8795,54,095,2017,54095
+"Upshur County, West Virginia",24465,54,097,2017,54097
+"Wayne County, West Virginia",40153,54,099,2017,54099
+"Webster County, West Virginia",8372,54,101,2017,54101
+"Platte County, Wyoming",8562,56,031,2017,56031
+"Sheridan County, Wyoming",30210,56,033,2017,56033
+"Sublette County, Wyoming",9799,56,035,2017,56035
+"Sweetwater County, Wyoming",43534,56,037,2017,56037
+"Teton County, Wyoming",23265,56,039,2017,56039
+"Uinta County, Wyoming",20495,56,041,2017,56041
+"Wetzel County, West Virginia",15437,54,103,2017,54103
+"Wirt County, West Virginia",5794,54,105,2017,54105
+"Wood County, West Virginia",85104,54,107,2017,54107
+"Wyoming County, West Virginia",21210,54,109,2017,54109
+"Adams County, Wisconsin",19973,55,001,2017,55001
+"Ashland County, Wisconsin",15500,55,003,2017,55003
+"Washakie County, Wyoming",8064,56,043,2017,56043
+"Weston County, Wyoming",6927,56,045,2017,56045
+"Adjuntas Municipio, Puerto Rico Commonwealth",17971,72,001,2017,72001
+"Aguada Municipio, Puerto Rico Commonwealth",38118,72,003,2017,72003
+"Aguadilla Municipio, Puerto Rico Commonwealth",53164,72,005,2017,72005
+"Aguas Buenas Municipio, Puerto Rico Commonwealth",25850,72,007,2017,72007
+"Barron County, Wisconsin",45251,55,005,2017,55005
+"Bayfield County, Wisconsin",15008,55,007,2017,55007
+"Brown County, Wisconsin",262052,55,009,2017,55009
+"Buffalo County, Wisconsin",13167,55,011,2017,55011
+"Burnett County, Wisconsin",15352,55,013,2017,55013
+"Calumet County, Wisconsin",50067,55,015,2017,55015
+"Aibonito Municipio, Puerto Rico Commonwealth",23108,72,009,2017,72009
+"Añasco Municipio, Puerto Rico Commonwealth",27059,72,011,2017,72011
+"Arecibo Municipio, Puerto Rico Commonwealth",86066,72,013,2017,72013
+"Arroyo Municipio, Puerto Rico Commonwealth",17881,72,015,2017,72015
+"Barceloneta Municipio, Puerto Rico Commonwealth",24240,72,017,2017,72017
+"Barranquitas Municipio, Puerto Rico Commonwealth",28511,72,019,2017,72019
+"Chippewa County, Wisconsin",63813,55,017,2017,55017
+"Clark County, Wisconsin",34679,55,019,2017,55019
+"Columbia County, Wisconsin",57248,55,021,2017,55021
+"Crawford County, Wisconsin",16214,55,023,2017,55023
+"Dane County, Wisconsin",536416,55,025,2017,55025
+"Dodge County, Wisconsin",87786,55,027,2017,55027
+"Bayamón Municipio, Puerto Rico Commonwealth",179565,72,021,2017,72021
+"Cabo Rojo Municipio, Puerto Rico Commonwealth",48824,72,023,2017,72023
+"Caguas Municipio, Puerto Rico Commonwealth",129604,72,025,2017,72025
+"Camuy Municipio, Puerto Rico Commonwealth",31732,72,027,2017,72027
+"Canóvanas Municipio, Puerto Rico Commonwealth",45823,72,029,2017,72029
+"Door County, Wisconsin",27483,55,029,2017,55029
+"Douglas County, Wisconsin",43284,55,031,2017,55031
+"Dunn County, Wisconsin",44693,55,033,2017,55033
+"Eau Claire County, Wisconsin",103671,55,035,2017,55035
+"Florence County, Wisconsin",4371,55,037,2017,55037
+"Fond du Lac County, Wisconsin",102548,55,039,2017,55039
+"Carolina Municipio, Puerto Rico Commonwealth",154489,72,031,2017,72031
+"Cataño Municipio, Puerto Rico Commonwealth",24374,72,033,2017,72033
+"Cayey Municipio, Puerto Rico Commonwealth",44027,72,035,2017,72035
+"Ceiba Municipio, Puerto Rico Commonwealth",11602,72,037,2017,72037
+"Ciales Municipio, Puerto Rico Commonwealth",16627,72,039,2017,72039
+"Cidra Municipio, Puerto Rico Commonwealth",39813,72,041,2017,72041
+"Forest County, Wisconsin",8970,55,041,2017,55041
+"Grant County, Wisconsin",51999,55,043,2017,55043
+"Green County, Wisconsin",36851,55,045,2017,55045
+"Green Lake County, Wisconsin",18760,55,047,2017,55047
+"Iowa County, Wisconsin",23715,55,049,2017,55049
+"Iron County, Wisconsin",5671,55,051,2017,55051
+"Coamo Municipio, Puerto Rico Commonwealth",39071,72,043,2017,72043
+"Comerío Municipio, Puerto Rico Commonwealth",19343,72,045,2017,72045
+"Corozal Municipio, Puerto Rico Commonwealth",33694,72,047,2017,72047
+"Culebra Municipio, Puerto Rico Commonwealth",1769,72,049,2017,72049
+"Dorado Municipio, Puerto Rico Commonwealth",37026,72,051,2017,72051
+"Fajardo Municipio, Puerto Rico Commonwealth",31324,72,053,2017,72053
+"Jackson County, Wisconsin",20529,55,053,2017,55053
+"Jefferson County, Wisconsin",84832,55,055,2017,55055
+"Juneau County, Wisconsin",26576,55,057,2017,55057
+"Kenosha County, Wisconsin",168521,55,059,2017,55059
+"Kewaunee County, Wisconsin",20445,55,061,2017,55061
+"La Crosse County, Wisconsin",118274,55,063,2017,55063
+"Florida Municipio, Puerto Rico Commonwealth",11775,72,054,2017,72054
+"Guánica Municipio, Puerto Rico Commonwealth",16363,72,055,2017,72055
+"Guayama Municipio, Puerto Rico Commonwealth",41281,72,057,2017,72057
+"Guayanilla Municipio, Puerto Rico Commonwealth",18611,72,059,2017,72059
+"Guaynabo Municipio, Puerto Rico Commonwealth",87328,72,061,2017,72061
+"Lafayette County, Wisconsin",16741,55,065,2017,55065
+"Langlade County, Wisconsin",19160,55,067,2017,55067
+"Lincoln County, Wisconsin",27838,55,069,2017,55069
+"Manitowoc County, Wisconsin",79175,55,071,2017,55071
+"Marathon County, Wisconsin",135732,55,073,2017,55073
+"Marinette County, Wisconsin",40310,55,075,2017,55075
+"Gurabo Municipio, Puerto Rico Commonwealth",47109,72,063,2017,72063
+"Hatillo Municipio, Puerto Rico Commonwealth",40111,72,065,2017,72065
+"Hormigueros Municipio, Puerto Rico Commonwealth",16032,72,067,2017,72067
+"Humacao Municipio, Puerto Rico Commonwealth",52771,72,069,2017,72069
+"Isabela Municipio, Puerto Rico Commonwealth",41949,72,071,2017,72071
+"Jayuya Municipio, Puerto Rico Commonwealth",14625,72,073,2017,72073
+"Marquette County, Wisconsin",15308,55,077,2017,55077
+"Menominee County, Wisconsin",4615,55,078,2017,55078
+"Milwaukee County, Wisconsin",952085,55,079,2017,55079
+"Monroe County, Wisconsin",45625,55,081,2017,55081
+"Oconto County, Wisconsin",37553,55,083,2017,55083
+"Oneida County, Wisconsin",35254,55,085,2017,55085
+"Juana Díaz Municipio, Puerto Rico Commonwealth",46400,72,075,2017,72075
+"Juncos Municipio, Puerto Rico Commonwealth",39101,72,077,2017,72077
+"Lajas Municipio, Puerto Rico Commonwealth",22929,72,079,2017,72079
+"Lares Municipio, Puerto Rico Commonwealth",25772,72,081,2017,72081
+"Las Marías Municipio, Puerto Rico Commonwealth",8402,72,083,2017,72083
+"Las Piedras Municipio, Puerto Rico Commonwealth",37659,72,085,2017,72085
+"Braxton County, West Virginia",14237,54,007,2017,54007
+"Brooke County, West Virginia",22443,54,009,2017,54009
+"Cabell County, West Virginia",94958,54,011,2017,54011
+"Calhoun County, West Virginia",7307,54,013,2017,54013
+"Clay County, West Virginia",8764,54,015,2017,54015
+"Doddridge County, West Virginia",8560,54,017,2017,54017
+"Outagamie County, Wisconsin",186059,55,087,2017,55087
+"Ozaukee County, Wisconsin",88429,55,089,2017,55089
+"Pepin County, Wisconsin",7254,55,091,2017,55091
+"Pierce County, Wisconsin",41901,55,093,2017,55093
+"Polk County, Wisconsin",43450,55,095,2017,55095
+"Portage County, Wisconsin",70474,55,097,2017,55097
+"Loíza Municipio, Puerto Rico Commonwealth",25926,72,087,2017,72087
+"Luquillo Municipio, Puerto Rico Commonwealth",18311,72,089,2017,72089
+"Manatí Municipio, Puerto Rico Commonwealth",39103,72,091,2017,72091
+"Maricao Municipio, Puerto Rico Commonwealth",5665,72,093,2017,72093
+"Maunabo Municipio, Puerto Rico Commonwealth",10808,72,095,2017,72095
+"Fayette County, West Virginia",43521,54,019,2017,54019
+"Gilmer County, West Virginia",8005,54,021,2017,54021
+"Grant County, West Virginia",11670,54,023,2017,54023
+"Greenbrier County, West Virginia",35287,54,025,2017,54025
+"Hampshire County, West Virginia",23471,54,027,2017,54027
+"Hancock County, West Virginia",29448,54,029,2017,54029
+"Price County, Wisconsin",13442,55,099,2017,55099
+"Racine County, Wisconsin",196071,55,101,2017,55101
+"Richland County, Wisconsin",17516,55,103,2017,55103
+"Rock County, Wisconsin",162309,55,105,2017,55105
+"Rusk County, Wisconsin",14151,55,107,2017,55107
+"St. Croix County, Wisconsin",88703,55,109,2017,55109
+"Sauk County, Wisconsin",63981,55,111,2017,55111
+"Mayagüez Municipio, Puerto Rico Commonwealth",75525,72,097,2017,72097
+"Moca Municipio, Puerto Rico Commonwealth",36328,72,099,2017,72099
+"Morovis Municipio, Puerto Rico Commonwealth",31092,72,101,2017,72101
+"Naguabo Municipio, Puerto Rico Commonwealth",26177,72,103,2017,72103
+"Naranjito Municipio, Puerto Rico Commonwealth",28306,72,105,2017,72105
+"Orocovis Municipio, Puerto Rico Commonwealth",21109,72,107,2017,72107
