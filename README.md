@@ -12,6 +12,7 @@ This project initiates Google Earth Engine "tasks," which are run on Google's cl
 `utils.py` contains helper functions and scripts to start tasks to get the mean embedding value for each county.  
 `main.py` is responsible for actually calling the script functions to begin pulling the data server side. 
 
+`notebooks/national_embeddings/wnv_analysis.ipynb` is the notebook file with the national WNV analysis process.
+This notebook also pulls in the assets that were started in Google Earth Engine by `main.py`.
+
 Note: a Google Earth Engine (GEE) account is needed to initiate tasks.
-
-
