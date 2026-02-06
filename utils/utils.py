@@ -38,6 +38,9 @@ def embeddings_mean_all_years(state_fips: str, start_year=2017, end_year=2024, t
   '''
   state_fips = state_fips.strip()
 
+  # future fix: this dataset needs to be updated but GEE does not have newer TIGER census boundaries
+  # 2022 and later - Connecticut uses Planning Regions instead of Counties. 
+
   # limit to one county if testing, otherwise use all counties for the specified state fips code. 
   if test == True:
     state = ee.FeatureCollection("TIGER/2018/Counties").filter(ee.Filter.eq('STATEFP', state_fips)).limit(1)
