@@ -39,7 +39,7 @@ CENSUS_COUNTIES = "https://www2.census.gov/geo/tiger/GENZ2023/shp/cb_2023_us_cou
 LEGACY_COUNTIES_CT = "https://www2.census.gov/geo/tiger/GENZ2018/shp/cb_2018_us_county_500k.zip"
 
 COUNTRIES = SCRIPT_DIR / "shapefiles/ne_110m_admin_0_countries"
-ALL_DATA = SCRIPT_DIR / "national_wnv_case_data/long_format_emb_and_cases.csv"
+ALL_DATA = SCRIPT_DIR / "national_wnv_case_data/long_cases_popln_embs.csv"
 
 # ----- Get state and county geographies (and great lakes), neighboring countries, embeddings + WNV data ----- #
 states = gpd.read_file(CENSUS_STATES)
@@ -284,7 +284,7 @@ counties_all = gpd.read_file(CENSUS_COUNTIES).to_crs(3857)
 us_union = unary_union(states.geometry)
 us_outline = gpd.GeoDataFrame(geometry=[remove_holes(us_union)],crs=states.crs)
 
-for year in range(2022, 2023):
+for year in range(2020, 2024):
     col = f"Cases_{year}"
     # IMPORTANT: 2017-2022 CT data plotting
     if year <= 2022:
@@ -302,10 +302,16 @@ for year in range(2022, 2023):
         plot_df_base = plot_df_base.rename(columns={col: "plot_col"})
         plot_df = pd.concat([plot_df_base, ct_merged], ignore_index=True)
         plot_df = gpd.GeoDataFrame(plot_df, geometry=plot_df.geometry, crs=states.crs)
+        #Create county boundaries that use legacy CT only
+        counties_to_plot = counties[~counties["STATEFP"].str.startswith("09")].copy()
+        counties_to_plot = pd.concat([counties_to_plot, legacy_ct_counties], ignore_index=True)
+        counties_to_plot = gpd.GeoDataFrame(counties_to_plot, geometry=counties_to_plot.geometry, crs=states.crs)
     else:
-        # For 2023+, use current counties (CT will be excluded/hatched)
+        # For 2023+, use current counties
         plot_df = df_merged.copy()
         plot_df = plot_df.rename(columns={col: "plot_col"})
+        # use the new county boundaries 
+        counties_to_plot = counties.copy()
     
     # Handle zeros/missing
     has_pos = (plot_df["plot_col"] > 0).any()
@@ -357,19 +363,14 @@ for year in range(2022, 2023):
         linewidth=0, zorder=0, alpha=1.0
     ))
     
-    # Connecticut hatching for 2023-2024
-    if year in [2023, 2024]:
-        ct_mask = plot_df["GEOID"].str.startswith("09")
-        plot_df[ct_mask].plot(
-            ax=ax, facecolor="#D1D5DB", edgecolor="#AAAAAA",
-            linewidth=0.3, zorder=3, hatch="///", alpha=0.6
-        )
-    
     # State boundaries
     states.boundary.plot(ax=ax, edgecolor="#333333", linewidth=0.8, zorder=4)
     
     # County boundaries (lighter)
-    counties.boundary.plot(ax=ax, edgecolor="#9AA3AD", linewidth=0.2, zorder=3.5)
+    # this boundary changes according to year:
+    #   2017-2022 -> use legacy boundaries for connecticut
+    #   2023-2024 -> use new boundaries for connecticut planning regions
+    counties_to_plot.boundary.plot(ax=ax, edgecolor="#9AA3AD", linewidth=0.2, zorder=3.5)
     
     # Country labels
     xmin, ymin, xmax, ymax = us_outline.total_bounds
@@ -565,21 +566,6 @@ for year in range(2022, 2023):
     if leg.get_title() is not None:
         leg.get_title().set_fontweight("bold")
         leg.get_title().set_ha("left")
-        
-		# MISSING CONNECTICUT DATA WARNING
-    if year in [2023, 2024]:
-        ax.text(
-            0.98, 0.02,  # Bottom right position
-            "Note: Connecticut county data\nunavailable for 2023–2024 due to planning region change.",
-            transform=ax.transAxes,
-            fontsize=7.5, color="#444444",
-            ha="right",  # Right-aligned
-            va="bottom",  # Bottom-aligned
-            zorder=200,
-            style='italic',
-            bbox=dict(boxstyle='round,pad=0.5', facecolor='white', 
-                     edgecolor='#CCCCCC', alpha=0.9, linewidth=0.8)
-        )
     
     # Title above legend
     fig.canvas.draw()

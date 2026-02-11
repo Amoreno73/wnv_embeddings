@@ -1,5 +1,9 @@
+from pathlib import Path
+import sys
+PROJECT_ROOT = Path.cwd().parents[1]  # <-- wnv_embeddings
+sys.path.insert(0, str(PROJECT_ROOT))
 import ee
-from wnv_embeddings.utils.utils import get_mean_embeddings_task
+from utils.utils import get_mean_embeddings_task, get_mean_embeddings_task_ct_only
 from config import *
 
 # will prompt you to authorize access to GEE
@@ -9,7 +13,7 @@ ee.Authenticate()
 ee.Initialize(project="wnv-embeddings")
 
 
-# =============RUN GEE TASKS============= #
+# ============= RUN GEE TASKS ============= #
 
 run_gee_tasks = False # change this to true if needed but I am avoiding the stuff below for now 
 
@@ -34,3 +38,15 @@ if run_gee_tasks == True:
 
   # began rest of tasks at 8:38 pm on 1/24/26
   # duration: 26 minutes for longest task, thus all the tasks finished in less than 26 minutes. 
+
+# ============= RUN GEE TASK FOR CT - USING CUSTOM COUNTIES SHAPEFILE ASSET ============= #
+
+# all state fips codes available at: https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt
+connecticut = ["09"]
+
+for fips in connecticut:
+  # custom save path for connecticut only 
+  save_path = f"{GEE_BASE_SAVE_PATH}{fips}_2017_2024_embeddings_ct_new"
+
+  task = get_mean_embeddings_task_ct_only(fips, asset_id=save_path)
+  print(f"State {fips}: {task.status()}")
