@@ -32,6 +32,11 @@ SCRIPT_DIR = Path(__file__).parent  # ../national_embeddings/
 # shapefiles obtained from: https://www.census.gov/cgi-bin/geo/shapefiles/index.php on Feb. 4, 2026
 CENSUS_STATES = "https://www2.census.gov/geo/tiger/GENZ2023/shp/cb_2023_us_state_500k.zip"
 CENSUS_COUNTIES = "https://www2.census.gov/geo/tiger/GENZ2023/shp/cb_2023_us_county_500k.zip"
+# this is for connecticut, to be able to plot it up until 2023. 
+# connecticut used counties for WNV case data up until 2022. 
+# and it also used geoids for keeping track of the case data, 
+# thus I need an older version to plot it 
+LEGACY_COUNTIES_CT = "https://www2.census.gov/geo/tiger/GENZ2018/shp/cb_2018_us_county_500k.zip"
 
 COUNTRIES = SCRIPT_DIR / "shapefiles/ne_110m_admin_0_countries"
 ALL_DATA = SCRIPT_DIR / "national_wnv_case_data/long_format_emb_and_cases.csv"
@@ -39,11 +44,14 @@ ALL_DATA = SCRIPT_DIR / "national_wnv_case_data/long_format_emb_and_cases.csv"
 # ----- Get state and county geographies (and great lakes), neighboring countries, embeddings + WNV data ----- #
 states = gpd.read_file(CENSUS_STATES)
 counties = gpd.read_file(CENSUS_COUNTIES)
+legacy_counties = gpd.read_file(LEGACY_COUNTIES_CT)
+legacy_ct_counties = legacy_counties[legacy_counties["STATEFP"] == "09"].copy()
 
 df_all = pd.read_csv(ALL_DATA)
 df_all["GEOID"] = df_all["GEOID"].astype(str).str.zfill(5)
 
 world = gpd.read_file(COUNTRIES)
+
 
 # ----- Project to EPSG:3857 and adjust boundaries ----- #
 
@@ -64,9 +72,7 @@ states = states.to_crs(3857)
 states = states[~states["STUSPS"].isin(exclude)]
 counties = counties[~counties["STATEFP"].isin(exclude_sfips)]
 counties = counties.to_crs(3857)
-
-# get united states outline
-# us_outline = gpd.GeoDataFrame(geometry=[unary_union(states.geometry)], crs=states.crs)
+legacy_ct_counties = legacy_ct_counties.to_crs(3857)
 
 # ----- Merge previous long dataframe with geographies ----- #
 
@@ -278,12 +284,28 @@ counties_all = gpd.read_file(CENSUS_COUNTIES).to_crs(3857)
 us_union = unary_union(states.geometry)
 us_outline = gpd.GeoDataFrame(geometry=[remove_holes(us_union)],crs=states.crs)
 
-for year in range(2017, 2018):
+for year in range(2022, 2023):
     col = f"Cases_{year}"
-    
-    # Prepare data
-    plot_df = df_merged.copy()
-    plot_df["plot_col"] = plot_df[col].copy()
+    # IMPORTANT: 2017-2022 CT data plotting
+    if year <= 2022:
+        # Use legacy CT counties for this year
+        plot_df_base = df_merged[~df_merged["GEOID"].str.startswith("09")].copy()
+        
+        # Merge legacy CT counties with case data
+        legacy_ct_geom = legacy_ct_counties[["GEOID", "geometry"]]
+        ct_cases = df_all[df_all["GEOID"].str.startswith("09")][["GEOID", col]].copy()
+        ct_merged = pd.merge(ct_cases, legacy_ct_geom, on="GEOID", how="inner")
+        ct_merged = gpd.GeoDataFrame(ct_merged, geometry=ct_merged.geometry, crs=states.crs)
+        ct_merged = ct_merged.rename(columns={col: "plot_col"})
+        
+        # Combine non-CT data with legacy CT data
+        plot_df_base = plot_df_base.rename(columns={col: "plot_col"})
+        plot_df = pd.concat([plot_df_base, ct_merged], ignore_index=True)
+        plot_df = gpd.GeoDataFrame(plot_df, geometry=plot_df.geometry, crs=states.crs)
+    else:
+        # For 2023+, use current counties (CT will be excluded/hatched)
+        plot_df = df_merged.copy()
+        plot_df = plot_df.rename(columns={col: "plot_col"})
     
     # Handle zeros/missing
     has_pos = (plot_df["plot_col"] > 0).any()
