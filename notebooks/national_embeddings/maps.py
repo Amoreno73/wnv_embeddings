@@ -8,7 +8,7 @@ from shapely.geometry import Polygon, MultiPolygon
 from matplotlib.patches import Rectangle, FancyArrow, Patch
 from mpl_toolkits.axes_grid1.inset_locator import inset_axes
 import matplotlib as mpl
-import contextily as ctx
+import requests
 from shapely.ops import unary_union
 from matplotlib.colors import LogNorm, LinearSegmentedColormap
 
@@ -37,56 +37,22 @@ CENSUS_COUNTIES = "https://www2.census.gov/geo/tiger/GENZ2023/shp/cb_2023_us_cou
 # and it also used geoids for keeping track of the case data, 
 # thus I need an older version to plot it 
 LEGACY_COUNTIES_CT = "https://www2.census.gov/geo/tiger/GENZ2018/shp/cb_2018_us_county_500k.zip"
-
-COUNTRIES = SCRIPT_DIR / "shapefiles/ne_110m_admin_0_countries"
 ALL_DATA = SCRIPT_DIR / "national_wnv_case_data/long_cases_popln_embs.csv"
 
-# ----- Get state and county geographies (and great lakes), neighboring countries, embeddings + WNV data ----- #
-states = gpd.read_file(CENSUS_STATES)
-counties = gpd.read_file(CENSUS_COUNTIES)
-legacy_counties = gpd.read_file(LEGACY_COUNTIES_CT)
-legacy_ct_counties = legacy_counties[legacy_counties["STATEFP"] == "09"].copy()
-
-df_all = pd.read_csv(ALL_DATA)
-df_all["GEOID"] = df_all["GEOID"].astype(str).str.zfill(5)
-
-world = gpd.read_file(COUNTRIES)
-
-
-# ----- Project to EPSG:3857 and adjust boundaries ----- #
-
-# ignore Alaska, Hawaii, Guam, Puerto Rico, Commonwealth of the Northern Mariana Islands, American Samoa, Virgin Islands (no cases)
-# including these also unneccessarily enlarge the zoom on the US map 
-exclude = ["AK","HI","GU","PR","MP","AS","VI"]
-exclude_sfips = ['02', '60', '15', '78', '72', '69', '66']
-
-# historically have had no cases: # https://health.hawaii.gov/docd/disease_listing/west-nile-virus/
-# https://www.usgs.gov/faqs/where-united-states-has-west-nile-virus-been-detected-wildlife
-# no geoid matched with CNMI in the cases data frame
-
-canada = world[world['NAME_EN'] == "Canada"].to_crs(3857)
-mexico = world[world['NAME_EN'] == "Mexico"].to_crs(3857)
-
-states = states.to_crs(3857)
-
-states = states[~states["STUSPS"].isin(exclude)]
-counties = counties[~counties["STATEFP"].isin(exclude_sfips)]
-counties = counties.to_crs(3857)
-legacy_ct_counties = legacy_ct_counties.to_crs(3857)
-
-# ----- Merge previous long dataframe with geographies ----- #
-
-# both use "GEOID" as unique identifier
-counties_geom = counties[["GEOID","geometry"]]
-df_merged = pd.merge(df_all, counties_geom, on="GEOID", how="inner")
-# convert df_merged to a GeoDataFrame (I need to inspect it visually)
-df_merged = gpd.GeoDataFrame(df_merged, geometry=df_merged.geometry, crs=states.crs)
-
-# only keep cases columns (embedding data is irrelevant for these visualizations)
-df_merged = df_merged[['GEOID', 'Cases_2017', 'Cases_2018', 'Cases_2019', 'Cases_2020',
-       'Cases_2021', 'Cases_2022', 'Cases_2023', 'Cases_2024', 'geometry']]
-
 # ----- Helper functions ----- #
+def get_country_boundary(country_code):
+	"""
+	Get country boundary using REST Countries API + overpass/nominatim
+	country_code: 'CA' for Canada, 'MX' for Mexico
+	"""
+	# openstreetmap nomatim
+	url = f"https://nominatim.openstreetmap.org/search?country={country_code}&format=geojson&polygon_geojson=1"
+	response = requests.get(url, headers={'User-Agent': 'WNV-Mapping/1.0'})
+	
+	if response.status_code == 200:
+		gdf = gpd.read_file(response.text)
+		return gdf
+	return None
 
 def remove_holes(geom):
     if geom.geom_type == "Polygon":
@@ -270,6 +236,53 @@ class _VerticalColorbarHandler(mpl.legend_handler.HandlerBase):
         
         return artists
 
+# ----- Get state and county geographies (and great lakes), neighboring countries, embeddings + WNV data ----- #
+states = gpd.read_file(CENSUS_STATES)
+counties = gpd.read_file(CENSUS_COUNTIES)
+
+mexico = get_country_boundary("MX")
+canada = get_country_boundary("CA")
+
+legacy_counties = gpd.read_file(LEGACY_COUNTIES_CT)
+legacy_ct_counties = legacy_counties[legacy_counties["STATEFP"] == "09"].copy()
+
+df_all = pd.read_csv(ALL_DATA)
+df_all["GEOID"] = df_all["GEOID"].astype(str).str.zfill(5)
+
+# ----- Project to EPSG:3857 and adjust boundaries ----- #
+
+# ignore Alaska, Hawaii, Guam, Puerto Rico, Commonwealth of the Northern Mariana Islands, American Samoa, Virgin Islands (no cases)
+# including these also unneccessarily enlarge the zoom on the US map 
+exclude = ["AK","HI","GU","PR","MP","AS","VI"]
+exclude_sfips = ['02', '60', '15', '78', '72', '69', '66']
+
+# historically have had no cases: # https://health.hawaii.gov/docd/disease_listing/west-nile-virus/
+# https://www.usgs.gov/faqs/where-united-states-has-west-nile-virus-been-detected-wildlife
+# no geoid matched with CNMI in the cases data frame
+
+mexico = mexico.to_crs(3857)
+canada = canada.to_crs(3857)
+states = states.to_crs(3857)
+
+states = states[~states["STUSPS"].isin(exclude)]
+counties = counties[~counties["STATEFP"].isin(exclude_sfips)]
+counties = counties.to_crs(3857)
+legacy_ct_counties = legacy_ct_counties.to_crs(3857)
+
+# ----- Merge previous long dataframe with geographies ----- #
+
+# both use "GEOID" as unique identifier
+counties_geom = counties[["GEOID","geometry"]]
+df_merged = pd.merge(df_all, counties_geom, on="GEOID", how="inner")
+# convert df_merged to a GeoDataFrame (I need to inspect it visually)
+df_merged = gpd.GeoDataFrame(df_merged, geometry=df_merged.geometry, crs=states.crs)
+
+# only keep cases columns (embedding data is irrelevant for these visualizations)
+df_merged = df_merged[['GEOID', 'Cases_2017', 'Cases_2018', 'Cases_2019', 'Cases_2020',
+       'Cases_2021', 'Cases_2022', 'Cases_2023', 'Cases_2024', 'geometry']]
+
+
+
 # ----------------------------- CREATE COLORMAP ----------------------------
 cmap = LinearSegmentedColormap.from_list(
     "wnv_cases", ["#FFF7EF", "#8C1A3C"]
@@ -284,7 +297,7 @@ counties_all = gpd.read_file(CENSUS_COUNTIES).to_crs(3857)
 us_union = unary_union(states.geometry)
 us_outline = gpd.GeoDataFrame(geometry=[remove_holes(us_union)],crs=states.crs)
 
-for year in range(2020, 2024):
+for year in range(2017, 2025):
     col = f"Cases_{year}"
     # IMPORTANT: 2017-2022 CT data plotting
     if year <= 2022:
