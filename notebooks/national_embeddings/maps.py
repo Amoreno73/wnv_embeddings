@@ -786,7 +786,7 @@ for year in range(2017, 2025):
     # this boundary changes according to year:
     #   2017-2022 -> use legacy boundaries for connecticut
     #   2023-2024 -> use new boundaries for connecticut planning regions
-    counties_to_plot.boundary.plot(ax=ax, edgecolor="#9AA3AD", linewidth=0.2, zorder=3.5)
+    counties_to_plot.boundary.plot(ax=ax, edgecolor="#9AA3AD", linewidth=0.4, zorder=3.5)
     
     # Country labels
     xmin, ymin, xmax, ymax = us_outline.total_bounds
